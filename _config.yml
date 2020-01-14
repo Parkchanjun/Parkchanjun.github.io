@@ -22,3 +22,5 @@ nav:
    link: "Curriculum_Vitae_Chanjunpark.pdf"
 
 remote_theme: ankitsultana/researcher@gem
+
+theme: jekyll-theme-cayman
