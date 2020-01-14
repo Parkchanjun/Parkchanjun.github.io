@@ -17,7 +17,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ## Professional Experience
 
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
-2018.06 - 2019.08: SYSTRAN Research Engineer Intern 
+2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
 ## Publications
 ### International Conference
