@@ -5,8 +5,8 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
-google_analytics: 'UA-138665784-2'
+tracking_id: UA-138665784-2 #
+
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
