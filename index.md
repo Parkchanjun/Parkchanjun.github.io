@@ -108,18 +108,19 @@ Year | Award
 2019.03 | 성균관대학교 대학원 연계 장학생, 성균관대학교
 2018.10 | 차세대 정보 컴퓨팅 개발 사업 언어처리경진대회 장려상,차세대 정보 컴퓨팅 개발 사업
 2017.06 | 비트컴퓨터 우수상 (비트회장상), Bit Computer
-2017.12 | 수영로 학업 우수 장학생 (100만원), 수영로교회
-2016.12 | 수영로 학업 우수 장학생 (100만원), 수영로교회
+2017.12 | 수영로 학업 우수 장학생, 수영로교회
+2016.12 | 수영로 학업 우수 장학생, 수영로교회
 2015.03 | BUFS 4년 장학생 (Full Scholarship), BUFS
 
 ## Invited Talk
 
 Year | Place | Contents
 :-----:|------- |-------
+2020.02 | NC SOFT (엔씨소프트)  |  기술이전 세미나
 2020.01 | Dongguk University (동국대학교)  |  A.I - NLP - MT for Liberal Arts
 2019.10-2019.11 | SKC  |  텍스트전처리, 기계번역, 워드임베딩
-2019.08 | SK T Academy  |  [모두를 위한 기계번역](https://tv.naver.com/v/9906991)
-2019.08 | NAVER |  [모두를 위한 기계번역](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
+2019.08 | SK T Academy  |  [모두를 위한 기계번역](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
+2019.08 | NAVER |  [모두를 위한 기계번역](https://tv.naver.com/v/9906991)
 
 ## Demos
 1. [English Grammar Error Correction](http://nlplab.iptime.org:32292/)
