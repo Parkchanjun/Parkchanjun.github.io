@@ -127,7 +127,7 @@ Year | Place | Contents
 2. [Korea Spelling Error Correction](http://nlplab.iptime.org:32288/)
 3. [Korea-English Neural Machine Translation](http://nlplab.iptime.org:32296/)
 3. [English-Korea Neural Machine Translation](http://nlplab.iptime.org:32298/)
-3. [Neural Symbolic - Greedy Neural Theorem Provers(GNTP) DEMO](http://nlplab.iptime.org:32299/)
+3. [Neural Symbolic - Greedy Neural Theorem Provers(GNTP) DEMO](http://nlplab.iptime.org:32245/)
 <br><br><br>
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
