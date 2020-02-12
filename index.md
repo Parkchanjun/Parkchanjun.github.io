@@ -25,7 +25,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-2. Resource Management and Preprocessing in Korean Neural Machine Translation Models<br>
+2. Data Augmentation Method for Korean Neural Machine Translations<br>
 **Chanjun Park**, Kinam Park, Heuiseok Lim<br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
