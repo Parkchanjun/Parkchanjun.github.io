@@ -94,6 +94,11 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 **박찬준**, 원혜진, 류법모 <br>
 *Korea Computer Congress 2018*
 
+### Book Chapters
+1. [자연어처리 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
+임희석, **고려대학교 자연어처리 연구실** <br>
+*휴먼 싸이언스*
+
 ## Patents
 
 1. 한국어 맞춤법 교정장치 및 그 방법 <br>
@@ -117,8 +122,8 @@ Year | Award
 Year | Place | Contents
 :-----:|------- |-------
 2020.02 | NC SOFT (엔씨소프트)  |  기술이전 세미나
-2020.01 | Dongguk University (동국대학교)  |  A.I - NLP - MT for Liberal Arts
-2019.10-2019.11 | SKC  |  텍스트전처리, 기계번역, 워드임베딩
+2020.01 | Dongguk University (동국대학교)  |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
+2019.10-2019.11 | SKC  |  [텍스트전처리, 기계번역, 워드임베딩](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [모두를 위한 기계번역](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [모두를 위한 기계번역](https://tv.naver.com/v/9906991)
 
