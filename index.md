@@ -23,7 +23,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ### International Journal (SCI/SCIE)
 1. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications (SCIE), Q1, IF: 2.10* (Accept)<br>
+*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60* (Accept)<br>
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
