@@ -12,7 +12,7 @@ Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering
 
 ## Research Interest
 
-Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, Natural Language Processing
+Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, Natural Language Processing, Neural Symbolic Computing
 
 ## Professional Experience
 
@@ -20,6 +20,28 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
 ## Publications
+### International Journal (SCI/SCIE)
+1. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences <br>
+**Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
+*Multimedia Tools and Applications (SCIE), Q1, IF: 2.10* (Accept)<br>
+
+2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
+**Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
+*IEEE Access (SCIE), Q1, IF: 4.098* (Accept)<br>
+
+### Domestic Journal
+1. 발달장애인을 위한 커뮤니케이션과 언어 학습 증진을 위한 딥러닝 기반 인공지능 서비스<br>
+**박찬준**, 김양희, 장윤나, Umadevi G.R, 임희석 <br>
+*한국융합학회 논문지 (KCI) (Accept)* 
+
+2. 기계번역 사후처리(Automatic Post Editing)연구<br>
+**박찬준**, 임희석 <br>
+*한국융합학회 논문지 (KCI) (Accept)*
+
+3. 공공 한영 병렬말뭉치를 이용한 기계번역 성능 향상 연구<br>
+**박찬준**, 임희석 <br>
+*한국디지털정책학회 논문지 (KCI) (Accept)*
+
 ### International Conference
 1. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
@@ -100,18 +122,23 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *휴먼 싸이언스*
 
 ## Patents
-
 1. 한국어 맞춤법 교정장치 및 그 방법 <br>
 임희석, **박찬준** <br>
+
+## Teaching
+1. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+2. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+
 
 ## Honors & Awards
 
 Year | Award
 :-----:|-------
+2020.05 | [인공지능 학습용 데이터 활용 우수 사례 선정(Machine Translation 한-영 기계번역 모델)](http://aihub.or.kr/node/4525), NIA
 2019.10 | Best Paper Award, HCLT 2019   
-2019.10 | 1st Place Microsoft AI Accessibility Hackathon (국내 1등/ 팀장), Microsoft
+2019.10 | [1st Place Microsoft AI Accessibility Hackathon (국내 1등/ 팀장)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
 2019.03 | 성균관대학교 대학원 연계 장학생, 성균관대학교
-2018.10 | 차세대 정보 컴퓨팅 개발 사업 언어처리경진대회 장려상,차세대 정보 컴퓨팅 개발 사업
+2018.10 | [차세대 정보 컴퓨팅 개발 사업 언어처리경진대회 장려상](https://sites.google.com/site/koreanlp2018/),차세대 정보 컴퓨팅 개발 사업
 2017.06 | 비트컴퓨터 우수상 (비트회장상), Bit Computer
 2017.12 | 수영로 학업 우수 장학생, 수영로교회
 2016.12 | 수영로 학업 우수 장학생, 수영로교회
@@ -128,10 +155,13 @@ Year | Place | Contents
 2019.08 | NAVER |  [모두를 위한 기계번역](https://tv.naver.com/v/9906991)
 
 ## Demos
-1. [English Grammar Error Correction](http://nlplab.iptime.org:32292/)
+1. [Grammar Error Correction Platform](http://nlplab.iptime.org:32292/)
 2. [Korea Spelling Error Correction](http://nlplab.iptime.org:32288/)
-3. [Korea University Neural Machine Translation](http://nlplab.iptime.org:32296/)
-4. [Neural Symbolic - Greedy Neural Theorem Provers(GNTP)](http://nlplab.iptime.org:32245/)
+3. [Korea University Neural Machine Translation Platform](http://nlplab.iptime.org:32296/)
+4. [Neural Symbolic Inference](http://nlplab.iptime.org:32245/)
+5. [Korean Ancient Neural Machine Translation Platform](http://nlplab.iptime.org:32242/)
+6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](http://nlplab.iptime.org:32257/)
+7. [COVID-19 Machine Translation Platform](http://nlplab.iptime.org:32250/)
 <br><br><br>
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
