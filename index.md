@@ -43,27 +43,35 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *한국디지털정책학회 논문지 (KCI) (Accept)*
 
 ### International Conference
-1. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
+1. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
+**Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
+*The 10th International Conference on Convergence Technology (ICCT 2020)*
+
+2. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
+**Chanjun Park**, Sungjin Park, Kinam Park, Jaechoon Jo, HeuiSeok Lim <br>
+*The 10th International Conference on Convergence Technology (ICCT 2020)*
+
+3. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-2. Data Augmentation Method for Korean Neural Machine Translations<br>
+4. Data Augmentation Method for Korean Neural Machine Translations<br>
 **Chanjun Park**, Kinam Park, Heuiseok Lim<br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-3. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
+5. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
 **Chanjun Park**, Seunggyu Han, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-4. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
+6. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
 **Chanjun Park**, Sora Choi, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-5. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
+7. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
 **Chanjun Park**, Jang Mook Kang<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-6. Free Talking NAO Robot for Children<br>
+8. Free Talking NAO Robot for Children<br>
 **Chanjun Park**, Jaekue choi, Sungjin Park, Yanghee Kim, HeuiSeok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
