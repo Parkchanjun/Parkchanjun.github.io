@@ -12,7 +12,7 @@ Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering
 
 ## Research Interest
 
-Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, Natural Language Processing, Neural Symbolic Computing
+Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, Natural Language Processing, Deep Learning
 
 ## Professional Experience
 
@@ -23,55 +23,59 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ### International Journal (SCI/SCIE)
 1. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60* (Accept)<br>
+*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60, 2020 (Accept)*<br>
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
-*IEEE Access (SCIE), Q1, IF: 4.098* (Accept)<br>
+*IEEE Access (SCIE), Q1, IF: 4.098*, 2020<br>
 
-### Domestic Journal
-1. 발달장애인을 위한 커뮤니케이션과 언어 학습 증진을 위한 딥러닝 기반 인공지능 서비스<br>
-**박찬준**, 김양희, 장윤나, Umadevi G.R, 임희석 <br>
-*한국융합학회 논문지 (KCI) (Accept)* 
+### Domestic Journal (KCI)
+1. An AI Service to support communication and language learning for people with developmental disability<br>
+**Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
+*Journal of the Korea Convergence Society (Accept), 2020* 
 
-2. 기계번역 사후처리(Automatic Post Editing)연구<br>
-**박찬준**, 임희석 <br>
-*한국융합학회 논문지 (KCI) (Accept)*
+2. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+**Chanjun Park**, Heuiseok Lim  <br>
+*Journal of Digital Convergence (Accept), 2020*
 
-3. 공공 한영 병렬말뭉치를 이용한 기계번역 성능 향상 연구<br>
-**박찬준**, 임희석 <br>
-*한국디지털정책학회 논문지 (KCI) (Accept)*
+3. Automatic Post Editing  Research<br>
+**Chanjun Park**, Heuiseok Lim <br>
+*Journal of the Korea Convergence Society, 11(5), 1-8., 2020*
 
 ### International Conference
-1. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
+1. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
+**Chanjun Park**, Yanghee Kim, Yoonna Jang, Umadevi G.R, HeuiSeok Lim <br>
+*The International Conference on Big data, IoT, and Cloud Computing (BIC 2020) (Accept)*
+
+2. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
 **Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-2. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
+3. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
 **Chanjun Park**, Sungjin Park, Kinam Park, Jaechoon Jo, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-3. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
+4. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-4. Data Augmentation Method for Korean Neural Machine Translations<br>
+5. Data Augmentation Method for Korean Neural Machine Translations<br>
 **Chanjun Park**, Kinam Park, Heuiseok Lim<br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-5. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
+6. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
 **Chanjun Park**, Seunggyu Han, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-6. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
+7. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
 **Chanjun Park**, Sora Choi, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-7. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
+8. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
 **Chanjun Park**, Jang Mook Kang<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
-8. Free Talking NAO Robot for Children<br>
+9. Free Talking NAO Robot for Children<br>
 **Chanjun Park**, Jaekue choi, Sungjin Park, Yanghee Kim, HeuiSeok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
@@ -125,13 +129,13 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *Korea Computer Congress 2018*
 
 ### Book Chapters
-1. [자연어처리 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
-임희석, **고려대학교 자연어처리 연구실** <br>
-*휴먼 싸이언스*
+1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
+HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
+*Human Science*
 
 ## Patents
-1. 한국어 맞춤법 교정장치 및 그 방법 <br>
-임희석, **박찬준** <br>
+1. Device and method for correcting Korean spelling <br>
+HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
 1. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
@@ -142,25 +146,25 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 Year | Award
 :-----:|-------
-2020.05 | [인공지능 학습용 데이터 활용 우수 사례 선정(Machine Translation 한-영 기계번역 모델)](http://aihub.or.kr/node/4525), NIA
+2020.05 | [인공지능 학습용 데이터 활용 우수 사례 선정 (Korean-English Neural Machine Translation)](http://aihub.or.kr/node/4525), NIA
 2019.10 | Best Paper Award, HCLT 2019   
-2019.10 | [1st Place Microsoft AI Accessibility Hackathon (국내 1등/ 팀장)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
-2019.03 | 성균관대학교 대학원 연계 장학생, 성균관대학교
+2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
+2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
 2018.10 | [차세대 정보 컴퓨팅 개발 사업 언어처리경진대회 장려상](https://sites.google.com/site/koreanlp2018/),차세대 정보 컴퓨팅 개발 사업
-2017.06 | 비트컴퓨터 우수상 (비트회장상), Bit Computer
-2017.12 | 수영로 학업 우수 장학생, 수영로교회
-2016.12 | 수영로 학업 우수 장학생, 수영로교회
-2015.03 | BUFS 4년 장학생 (Full Scholarship), BUFS
+2017.06 | Bit Computer Excellence Award (President Award), Bit Computer
+2017.12 | Scholarship for academic excellence, Sooyoungro Church
+2016.12 | Scholarship for academic excellence, Sooyoungro Church
+2015.03 | Full Scholarship, BUFS
 
 ## Invited Talk
 
 Year | Place | Contents
 :-----:|------- |-------
-2020.02 | NC SOFT (엔씨소프트)  |  기술이전 세미나
-2020.01 | Dongguk University (동국대학교)  |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
-2019.10-2019.11 | SKC  |  [텍스트전처리, 기계번역, 워드임베딩](https://github.com/Parkchanjun/SKC_MachineTranslation)
-2019.08 | SK T Academy  |  [모두를 위한 기계번역](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
-2019.08 | NAVER |  [모두를 위한 기계번역](https://tv.naver.com/v/9906991)
+2020.02 | NC SOFT |  Technology Transfer Seminar
+2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
+2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translatin, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
+2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
+2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
 ## Demos
 1. [Grammar Error Correction Platform](http://nlplab.iptime.org:32292/)
@@ -171,7 +175,3 @@ Year | Place | Contents
 6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](http://nlplab.iptime.org:32257/)
 7. [COVID-19 Machine Translation Platform](http://nlplab.iptime.org:32250/)
 <br><br><br>
-
- <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
- <!-- Here is a horizontal rule --- -->
- <!-- Here is a blockquote> To a great mind, nothing is little -->
