@@ -21,13 +21,19 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 ## Publications
 ### International Journal (SCI/SCIE)
-1. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
-**Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60, 2020 (Accept)*<br>
+1. Ancient Korean Neural Machine Translation <br>
+**Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
+*IEEE Access (SCIE), Q1, IF: 4.098, 2020 (Accept)*<br>
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access (SCIE), Q1, IF: 4.098*, 2020<br>
+
+3. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
+**Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
+*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60, 2020 (Accept)*<br>
+
+
 
 ### Domestic Journal (KCI)
 1. An AI Service to support communication and language learning for people with developmental disability<br>
