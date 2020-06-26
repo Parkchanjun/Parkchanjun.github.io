@@ -27,7 +27,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
-*IEEE Access, Volume.8, 106264-106272, 2020<br>
+*IEEE Access, Volume.8, 106264-106272, 2020*<br>
 
 3. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
