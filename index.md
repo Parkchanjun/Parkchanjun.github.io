@@ -154,7 +154,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
-2020.05 | [인공지능 학습용 데이터 활용 우수 사례 선정 (Korean-English Neural Machine Translation)](http://aihub.or.kr/node/4525), NIA
+2020.05 | [Best practices for using NIA AI training data(Korean-English Neural Machine Translation model)](http://aihub.or.kr/node/4525), NIA
 2019.10 | Best Paper Award, HCLT 2019   
 2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
 2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
