@@ -27,24 +27,26 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
-*IEEE Access (SCIE), Q1, IF: 4.098*, 2020<br>
+*IEEE Access, Volume.8, 106264-106272, 2020<br>
 
 3. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications (SCIE), Q1, IF: 2.60, 2020 (Accept)*<br>
 
-
-
 ### Domestic Journal (KCI)
-1. An AI Service to support communication and language learning for people with developmental disability<br>
+1. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+**Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
+*Journal of the Korea Convergence Society (Under Review), 2020* 
+
+2. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society (Accept), 2020* 
+*Journal of the Korea Convergence Society, 11(6), 51-57., 2020*
 
-2. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+3. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
-*Journal of Digital Convergence (Accept), 2020*
+*Journal of Digital Convergence, 18(6), 271-277., 2020*
 
-3. Automatic Post Editing  Research<br>
+4. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8., 2020*
 
