@@ -23,7 +23,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ### International Journal (SCI/SCIE)
 1. Ancient Korean Neural Machine Translation <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
-*IEEE Access (SCIE), Q1, IF: 4.098, 2020 (Accept)*<br>
+*IEEE Access, Volume.8, 116617-116625, 2020*<br>
 
 2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
