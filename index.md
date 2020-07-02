@@ -31,7 +31,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 3. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications (SCIE), Q1, IF: 2.60, 2020 (Accept)*<br>
+*Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
 
 ### Domestic Journal (KCI)
 1. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
