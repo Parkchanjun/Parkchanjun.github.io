@@ -36,7 +36,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ### Domestic Journal (KCI)
 1. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society (Under Review), 2020* 
+*Journal of the Korea Convergence Society (Accept), 2020* 
 
 2. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
@@ -88,52 +88,52 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
 ### Domestic Conference
-1. Denoising Transformer기반 한국어 맞춤법 교정기<br>
-**박찬준**, 정솔 , 양기수, 이수미, 조재춘, 임희석 <br>
+1. Korean Spell Correction based on Denoising Transformer<br>
+**Chanjun Park**, Jeong Sol , Kisu Yang, Sumi Lee, Jaechoon Jo, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-2. 신경망 기계번역에서 최적화된 데이터 증강기법 고찰<br>
-**박찬준**, 김규경, 임희석 <br>
+2. Optimization of Data Augmentation Techniques in Neural Machine Translation<br>
+**Chanjun Park**, Kuekyeng Kim, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-3. 병렬 코퍼스 필터링과 한국어에 최적화된 서브 워드 분절 기법을 이용한 기계번역<br>
-**박찬준**, 김경민, 임희석 <br>
+3. Parallel Corpus Filtering and Korean-Optimized Subword Tokenization for Machine Translation<br>
+**Chanjun Park**, Gyeongmin Kim, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-4. 한국어 언어학적 특성 기반 감성분석 모델 비교 분석<br>
-김경민, **박찬준**, 조재춘, 임희석  <br>
+4. Comparative Study of Sentiment Analysis Model based on Korean Linguistic Chracteristics<br>
+Gyeongmin Kim, **Chanjun Park**, Jaechoon Jo, HeuiSeok Lim  <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-5. 자연어 추론에서의 교차 검증 앙상블 기법 (우수논문상)<br>
-양기수, 황태선, 오동석, **박찬준**, 임희석 <br>
+5. Cross-Validated Ensemble Methods in Natural Language Inference (Best Paper Award)<br>
+Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-6. 어절사전 및 형태소사전과 휴리스틱 방법을 이용한 Hybrid 한국어 띄어쓰기 모듈<br>
-**박찬준**, 최진혁, 류법모<br>
+6. Korean Spacing Module using Eojeol dictionary and Morpheme dictionary<br>
+**Chanjun Park**, Jin-hyuk Choi, Pummo Ryu<br>
 *Korea Software Congress 2018*
 
-7. 주소인식 시스템에서 TTS를 활용한 음성인식 성능 개선<br>
-**박찬준**, 김선태, 강민호, 황명진, 박병건, 김연수<br>
+7. Voice recognition performance improvement using TTS system in address recognition system<br>
+**Chanjun Park**, Suntae Kim, Minho Kang, Myeongjin Hwang, Byunggun Park, Yeonsu Kim<br>
 *Korea Software Congress 2018*
 
-8. 지식증강형 실시간 강연통역 서비스 개발 <br>
-**박찬준**, 강민호, 박병건, 김선태, 황명진, 김동필, 김영길<br>
+8. Knowledge-enhancing Real-time Lecture interpreter service Development <br>
+**Chanjun Park**, Minho Kang, Byunggun Park, Suntae Kim, Myeongjin Hwang, Dongpil Kim, Young-kil Kim<br>
 *Korea Software Congress 2018*
 
-9. 도메인 특화 방식을 이용한 비즈니스 회의 환경에서 음성인식 성능 개선<br>
-**박찬준**, 김선태, 강민호, 박병건, 황명진, 김연수<br>
+9. Improved speech recognition performance in business meeting environments using domain-specific method<br>
+**Chanjun Park**, Suntae Kim, Minho Kang, Byunggun Park, Myeongjin Hwang, Yeonsu Kim<br>
 *Korea Software Congress 2018*
 
-10. 2단계 한국어 복합명사 분해기<br>
-**박찬준**, 류법모 <br>
+10. Two-Stage Korea Compound Noun Decomposer<br>
+**Chanjun Park**, Pummo Ryu <br>
 *The 30st Annual Conference on Human & Cognitive Language Technology*
 
-11. 기계학습 알고리즘 앙상블 기법을 이용한 Spam/Ham 분류<br>
-**박찬준**, 류법모 <br>
+11. Spam/Ham Classification using Ensemble Technique of Machine Learning Algorithms<br>
+**Chanjun Park**, Pummo Ryu <br>
 *Korea Computer Congress 2018*
 
-12. 리소스 확장을 이용한 사전 기반 복합명사 분해기<br>
-**박찬준**, 원혜진, 류법모 <br>
+12. Dictionary based Compound Noun Decomposer using Resource extension<br>
+**Chanjun Park**, Hyejin Won, Pummo Ryu <br>
 *Korea Computer Congress 2018*
 
 ### Book Chapters
@@ -158,7 +158,7 @@ Year | Award
 2019.10 | Best Paper Award, HCLT 2019   
 2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
 2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
-2018.10 | [차세대 정보 컴퓨팅 개발 사업 언어처리경진대회 장려상](https://sites.google.com/site/koreanlp2018/),차세대 정보 컴퓨팅 개발 사업
+2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/),Next-generation information computing technology development business
 2017.06 | Bit Computer Excellence Award (President Award), Bit Computer
 2017.12 | Scholarship for academic excellence, Sooyoungro Church
 2016.12 | Scholarship for academic excellence, Sooyoungro Church
