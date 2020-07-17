@@ -158,7 +158,7 @@ Year | Award
 2019.10 | Best Paper Award, HCLT 2019   
 2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
 2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
-2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/),Next-generation information computing technology development business
+2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/), Next-generation information computing technology development business
 2017.06 | Bit Computer Excellence Award (President Award), Bit Computer
 2017.12 | Scholarship for academic excellence, Sooyoungro Church
 2016.12 | Scholarship for academic excellence, Sooyoungro Church
@@ -182,5 +182,6 @@ Year | Place | Contents
 5. [Korean Ancient Neural Machine Translation Platform](http://nlplab.iptime.org:32242/)
 6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](http://nlplab.iptime.org:32257/)
 7. [COVID-19 Machine Translation Platform](http://nlplab.iptime.org:32250/)
-8. [English Free Talking and Grammar Error Correction Feed Back System using NAO Robot](https://www.youtube.com/watch?v=pSBXouica-A)
+8. English Free Talking and Grammar Error Correction Feed Back System using NAO Robot, [Ver01](https://www.youtube.com/watch?v=pSBXouica-A), [Ver02](https://www.youtube.com/watch?v=Rl6dG_4cnFk)
+9. [Ancient Korean Translation & Machine Reading Comprehension with NAO](https://www.youtube.com/watch?v=nXBZe-t9a-4&t=8s)
 <br><br><br>
