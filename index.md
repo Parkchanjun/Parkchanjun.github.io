@@ -53,7 +53,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 ### International Conference
 1. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
 **Chanjun Park**, Yanghee Kim, Yoonna Jang, Umadevi G.R, HeuiSeok Lim <br>
-*The International Conference on Big data, IoT, and Cloud Computing (BIC 2020) (Accept)*
+*The International Conference on Big data, IoT, and Cloud Computing (BIC 2020)*
 
 2. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
 **Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
@@ -142,13 +142,26 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
 ## Patents
-1. Device and method for correcting Korean spelling <br>
+1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+2. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+3. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
+
+4. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+5. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
-1. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-2. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-
+1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+2. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Spring 2020) <br>
+3. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+4. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
 
 ## Honors & Awards
 
