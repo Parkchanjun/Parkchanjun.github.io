@@ -21,15 +21,19 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 ## Publications
 ### International Journal (SCI/SCIE)
-1. Ancient Korean Neural Machine Translation <br>
+1. Decoding Strategies for Improving Low-Resource Machine Translation <br>
+**Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
+*Electronics, 9(10), 2020*<br>
+
+2. Ancient Korean Neural Machine Translation <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 116617-116625, 2020*<br>
 
-2. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
+3. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 106264-106272, 2020*<br>
 
-3. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
+4. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
 
