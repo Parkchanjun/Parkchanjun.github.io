@@ -92,51 +92,71 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
 
 ### Domestic Conference
-1. Korean Spell Correction based on Denoising Transformer<br>
+1. Quality, not Quantity? : Effect of parallel corpus quantity and quality on Neural Machine Translation<br>
+**Chanjun Park**, Yeonsu Lee, Chanhee Lee, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+2. Alleviation of Overcorrection Problem in Neural Korean Spelling Correction<br>
+**Chanjun Park**, Yeonsu Lee, Kisu Yang, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+3. Cross-Lingual Transfer of Pretrained Transformers to Resource-Scarce Languages<br>
+Chanhee Lee, **Chanjun Park**, Kyeonghee Kim, Dongsuk Oh, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+4. Design Neural Machine Translation Model Combining External Symbolic Knowledge<br>
+Sugyeong Eo, **Chanjun Park**, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+5. MMA: Multi-modal Message Aggregation for Korean VQA<br>
+Sungjin Park, **Chanjun Park**, Jaehyung Seo, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+6. Korean Spell Correction based on Denoising Transformer<br>
 **Chanjun Park**, Jeong Sol , Kisu Yang, Sumi Lee, Jaechoon Jo, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-2. Optimization of Data Augmentation Techniques in Neural Machine Translation<br>
+7. Optimization of Data Augmentation Techniques in Neural Machine Translation<br>
 **Chanjun Park**, Kuekyeng Kim, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-3. Parallel Corpus Filtering and Korean-Optimized Subword Tokenization for Machine Translation<br>
+8. Parallel Corpus Filtering and Korean-Optimized Subword Tokenization for Machine Translation<br>
 **Chanjun Park**, Gyeongmin Kim, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-4. Comparative Study of Sentiment Analysis Model based on Korean Linguistic Chracteristics<br>
+9. Comparative Study of Sentiment Analysis Model based on Korean Linguistic Chracteristics<br>
 Gyeongmin Kim, **Chanjun Park**, Jaechoon Jo, HeuiSeok Lim  <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-5. Cross-Validated Ensemble Methods in Natural Language Inference (Best Paper Award)<br>
+10. Cross-Validated Ensemble Methods in Natural Language Inference (Best Paper Award)<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *The 31st Annual Conference on Human & Cognitive Language Technology*
 
-6. Korean Spacing Module using Eojeol dictionary and Morpheme dictionary<br>
+11. Korean Spacing Module using Eojeol dictionary and Morpheme dictionary<br>
 **Chanjun Park**, Jin-hyuk Choi, Pummo Ryu<br>
 *Korea Software Congress 2018*
 
-7. Voice recognition performance improvement using TTS system in address recognition system<br>
+12. Voice recognition performance improvement using TTS system in address recognition system<br>
 **Chanjun Park**, Suntae Kim, Minho Kang, Myeongjin Hwang, Byunggun Park, Yeonsu Kim<br>
 *Korea Software Congress 2018*
 
-8. Knowledge-enhancing Real-time Lecture interpreter service Development <br>
+13. Knowledge-enhancing Real-time Lecture interpreter service Development <br>
 **Chanjun Park**, Minho Kang, Byunggun Park, Suntae Kim, Myeongjin Hwang, Dongpil Kim, Young-kil Kim<br>
 *Korea Software Congress 2018*
 
-9. Improved speech recognition performance in business meeting environments using domain-specific method<br>
+14. Improved speech recognition performance in business meeting environments using domain-specific method<br>
 **Chanjun Park**, Suntae Kim, Minho Kang, Byunggun Park, Myeongjin Hwang, Yeonsu Kim<br>
 *Korea Software Congress 2018*
 
-10. Two-Stage Korea Compound Noun Decomposer<br>
+15. Two-Stage Korea Compound Noun Decomposer<br>
 **Chanjun Park**, Pummo Ryu <br>
 *The 30st Annual Conference on Human & Cognitive Language Technology*
 
-11. Spam/Ham Classification using Ensemble Technique of Machine Learning Algorithms<br>
+16. Spam/Ham Classification using Ensemble Technique of Machine Learning Algorithms<br>
 **Chanjun Park**, Pummo Ryu <br>
 *Korea Computer Congress 2018*
 
-12. Dictionary based Compound Noun Decomposer using Resource extension<br>
+17. Dictionary based Compound Noun Decomposer using Resource extension<br>
 **Chanjun Park**, Hyejin Won, Pummo Ryu <br>
 *Korea Computer Congress 2018*
 
