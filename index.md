@@ -101,7 +101,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *The 32st Annual Conference on Human & Cognitive Language Technology*
 
 3. Cross-Lingual Transfer of Pretrained Transformers to Resource-Scarce Languages<br>
-Chanhee Lee, **Chanjun Park**, Kyeonghee Kim, Dongsuk Oh, HeuiSeok Lim <br>
+Chanhee Lee, **Chanjun Park**, Gyeongmin Kim, Dongsuk Oh, HeuiSeok Lim <br>
 *The 32st Annual Conference on Human & Cognitive Language Technology*
 
 4. Design Neural Machine Translation Model Combining External Symbolic Knowledge<br>
