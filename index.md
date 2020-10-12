@@ -100,7 +100,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 **Chanjun Park**, Yeonsu Lee, Kisu Yang, HeuiSeok Lim <br>
 *The 32st Annual Conference on Human & Cognitive Language Technology*
 
-3. Cross-Lingual Transfer of Pretrained Transformers to Resource-Scarce Languages<br>
+3. Cross-Lingual Transfer of Pretrained Transformers to Resource-Scarce Languages (Best Paper Award)<br>
 Chanhee Lee, **Chanjun Park**, Gyeongmin Kim, Dongsuk Oh, HeuiSeok Lim <br>
 *The 32st Annual Conference on Human & Cognitive Language Technology*
 
