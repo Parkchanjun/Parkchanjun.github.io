@@ -191,8 +191,9 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2020.10 | Best Paper Award, The 32nd Annual Conference on Human & Cognitive Language Technology (HCLT2020)
 2020.05 | [Best practices for using NIA AI training data(Korean-English Neural Machine Translation model)](http://aihub.or.kr/node/4525), NIA
-2019.10 | Best Paper Award, HCLT 2019   
+2019.10 | Best Paper Award, The 31st Annual Conference on Human & Cognitive Language Technology (HCLT2019)  
 2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
 2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
 2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/), Next-generation information computing technology development business
