@@ -55,41 +55,49 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 *Journal of the Korea Convergence Society, 11(5), 1-8., 2020*
 
 ### International Conference
-1. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
+1. Domain-specialize Neural Machine Translation Methodology<br>
+**Chanjun Park**, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
+
+2. Design Neural Machine Translation Model Combining External Symbolic Knowledge in translation task<br>
+Sugyeong Eo, **Chanjun Park**, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
+
+3. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
 **Chanjun Park**, Yanghee Kim, Yoonna Jang, Umadevi G.R, HeuiSeok Lim <br>
 *The International Conference on Big data, IoT, and Cloud Computing (BIC 2020)*
 
-2. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
+4. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
 **Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-3. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
+5. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
 **Chanjun Park**, Sungjin Park, Kinam Park, Jaechoon Jo, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-4. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
+6. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-5. Data Augmentation Method for Korean Neural Machine Translations<br>
+7. Data Augmentation Method for Korean Neural Machine Translations<br>
 **Chanjun Park**, Kinam Park, Heuiseok Lim<br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-6. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
+8. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
 **Chanjun Park**, Seunggyu Han, Heuiseok Lim<br>
-*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-7. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
+9. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
 **Chanjun Park**, Sora Choi, Heuiseok Lim<br>
-*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-8. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
+10. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
 **Chanjun Park**, Jang Mook Kang<br>
-*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-9. Free Talking NAO Robot for Children<br>
+11. Free Talking NAO Robot for Children<br>
 **Chanjun Park**, Jaekue choi, Sungjin Park, Yanghee Kim, HeuiSeok Lim<br>
-*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE’ 2019)*
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
 ### Domestic Conference
 1. Quality, not Quantity? : Effect of parallel corpus quantity and quality on Neural Machine Translation<br>
