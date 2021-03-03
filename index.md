@@ -224,8 +224,9 @@ Year | Award
 2015.03 | Full Scholarship, BUFS
 
 ## Invited Talk
+
 Year | Place | Contents
-:-----:|------- |-------
+:-----:|-------|-------
 2020.03 | LLsoLLu |  Latest natural language processing Research
 2020.02 | NC SOFT |  Technology Transfer Seminar
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
