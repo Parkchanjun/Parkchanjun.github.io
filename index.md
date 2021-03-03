@@ -230,7 +230,7 @@ Year | Place | Contents
 2020.03 | LLsoLLu |  Latest natural language processing Research
 2020.02 | NC SOFT |  Technology Transfer Seminar
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
-2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translatin, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
+2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translation, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
