@@ -225,8 +225,8 @@ Year | Award
 
 ## Invited Talk
 Year | Place | Contents
-:-----:|------- :|-------
-2020.03 | LLsoLLu | Latest natural language processing Research
+:-----:|------- |-------
+2020.03 | LLsoLLu |  Latest natural language processing Research
 2020.02 | NC SOFT |  Technology Transfer Seminar
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
 2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translatin, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
