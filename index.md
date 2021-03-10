@@ -21,6 +21,7 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 
 ## Publications
 ### International Journal (SCI/SCIE)
+
 1. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 11(5), 2021*<br>
@@ -42,6 +43,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
 
 ### Domestic Journal (KCI)
+
 1. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
@@ -67,6 +69,7 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
 ### International Conference
+
 1. Domain-specialize Neural Machine Translation Methodology<br>
 **Chanjun Park**, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
@@ -112,6 +115,7 @@ Sugyeong Eo, **Chanjun Park**, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
 ### Domestic Conference
+
 1. Quality, not Quantity? : Effect of parallel corpus quantity and quality on Neural Machine Translation<br>
 **Chanjun Park**, Yeonsu Lee, Chanhee Lee, HeuiSeok Lim <br>
 *The 32st Annual Conference on Human & Cognitive Language Technology*
@@ -186,22 +190,30 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
 ## Patents
-1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+
+1. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-2. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+2. One-to-Many Multilingual Multi-Intelligent Correction System MMIC (Multilingual-Multi -Intelligence-Correction) <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-3. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+3. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+4. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+5. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 
-4. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+6. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-5. Device and method for correcting Korean spelling <br>
+7. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
+
 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
 2. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
 3. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
@@ -235,6 +247,7 @@ Year | Place | Contents
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
 ## Demos
+
 1. [Grammar Error Correction Platform](http://nlplab.iptime.org:32292/)
 2. [Korea Spelling Error Correction](http://nlplab.iptime.org:32288/)
 3. [Korea University Neural Machine Translation Platform](http://nlplab.iptime.org:32296/)
