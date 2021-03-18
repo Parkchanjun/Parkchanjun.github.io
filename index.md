@@ -20,6 +20,11 @@ Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, 
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
 ## Publications
+### Top Conference
+1. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+**Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
+*NAACL-HLT 2021 Industry Track, 2021 (Accept)*<br>
+
 ### International Journal (SCI/SCIE)
 
 1. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
