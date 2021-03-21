@@ -58,31 +58,27 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
-**Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-4. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
+3. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-5. Cross-Validated Ensemble Methods in Natural Language Inference<br>
+4. Cross-Validated Ensemble Methods in Natural Language Inference<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of KIISE, 48(2), 154-159, 2021*
 
-6. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+5. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
 
-7. An AI Service to support communication and language learning for people with developmental disability<br>
+6. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
 
-8. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+7. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
 *Journal of Digital Convergence, 18(6), 271-277, 2020*
 
-9. Automatic Post Editing  Research<br>
+8. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
