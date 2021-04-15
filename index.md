@@ -11,8 +11,8 @@ Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, AI for Accessibility, AI for Education
 
-Machine Translation, Grammar Error Correction, Simultaneous Speech Translation, Natural Language Processing, Deep Learning
 
 ## Professional Experience
 
@@ -267,9 +267,10 @@ Year | Place | Contents
 3. [Korea University Neural Machine Translation Platform](http://nlplab.iptime.org:32296/)
 4. [Neural Symbolic Inference](http://nlplab.iptime.org:32245/)
 5. [Korean Ancient Neural Machine Translation Platform](http://nlplab.iptime.org:32242/)
-6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](http://nlplab.iptime.org:32257/)
+6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](https://pictalky.df.r.appspot.com/)
 7. [COVID-19 Machine Translation Platform](http://nlplab.iptime.org:32250/)
 8. English Free Talking and Grammar Error Correction Feed Back System using NAO Robot, [Ver01](https://www.youtube.com/watch?v=pSBXouica-A), [Ver02](https://www.youtube.com/watch?v=Rl6dG_4cnFk)
 9. [Ancient Korean Translation & Machine Reading Comprehension with NAO](https://www.youtube.com/watch?v=nXBZe-t9a-4&t=8s)
 10. [Bilingual Education Using NAO](https://www.youtube.com/watch?v=4kCMMa62LDY&t=9s)
+11. [Ko-CSS (Korean Colloquial-Sentence-Splitter) for simultaneous speech translation](http://nlplab.iptime.org:32285/)
 <br><br><br>
