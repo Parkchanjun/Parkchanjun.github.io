@@ -25,7 +25,7 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
-1. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+2. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
@@ -56,10 +56,6 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 1. Latest Researches on Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
-
-2. Recent Automatic Post Editing Research<br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of Digital Convergence, 2021 (Accept)*
 
 3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
