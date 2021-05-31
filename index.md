@@ -57,6 +57,10 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
+2. Recent Automatic Post Editing Research<br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
+*Journal of Digital Convergence, 2021 (Accept)*
+
 3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
