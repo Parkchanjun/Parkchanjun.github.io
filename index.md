@@ -21,10 +21,13 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Publications
 ### Top Conference
+1. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
+*ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
 1. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*NAACL-HLT 2021 Industry Track, 2021 (Accept)*<br>
+*NAACL-HLT 2021 Industry Track, 2021*<br>
 
 ### International Journal (SCI/SCIE)
 
@@ -50,35 +53,43 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 
 ### Domestic Journal (KCI)
 
-1. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
+1. Latest Researches on Quality Estimation<br>
+Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
+2. Recent Automatic Post Editing Research<br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
+*Journal of Digital Convergence, 2021 (Accept)*
+
+3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-2. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
+4. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-3. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
+5. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
+*Journal of the Korea Convergence Society, 12(3), 1-7, 2021*
 
-4. Cross-Validated Ensemble Methods in Natural Language Inference<br>
+6. Cross-Validated Ensemble Methods in Natural Language Inference<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of KIISE, 48(2), 154-159, 2021*
 
-5. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+7. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
 
-6. An AI Service to support communication and language learning for people with developmental disability<br>
+8. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
 
-7. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+9. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
 *Journal of Digital Convergence, 18(6), 271-277, 2020*
 
-8. Automatic Post Editing  Research<br>
+10. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
@@ -208,7 +219,7 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 1. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-2. One-to-Many Multilingual Multi-Intelligent Correction System MMIC (Multilingual-Multi -Intelligence-Correction) <br>
+2. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 3. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
