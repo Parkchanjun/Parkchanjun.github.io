@@ -284,5 +284,5 @@ Year | Place | Contents
 9. [Ancient Korean Translation & Machine Reading Comprehension with NAO](https://www.youtube.com/watch?v=nXBZe-t9a-4&t=8s)
 10. [Bilingual Education Using NAO](https://www.youtube.com/watch?v=4kCMMa62LDY&t=9s)
 11. [Ko-CSS (Korean Colloquial-Sentence-Splitter) for simultaneous speech translation](http://nlplab.iptime.org:32285/)
-12. [BTS (BackTranScription) for STT Post-Processor](https://backtrans-317413.de.r.appspot.com/)
+12. [BTS (BackTranScription) for STT Post-Processor](https://backtrans-317413.de.r.appspot.com/)[Ver01](http://nlplab.iptime.org:32260/), [Ver02](https://backtrans-317413.de.r.appspot.com/)
 <br><br><br>
