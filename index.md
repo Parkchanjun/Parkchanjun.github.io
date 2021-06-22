@@ -63,11 +63,11 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 
 3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
+*Journal of the Korea Convergence Society, 12 (5), 23-29, 2021*
 
 4. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
+*Journal of the Korea Convergence Society, 12 (5), 1-7, 2021*
 
 5. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
