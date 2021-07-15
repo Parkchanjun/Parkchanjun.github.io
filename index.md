@@ -21,33 +21,42 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Publications
 ### Top Conference
+
 1. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
-2. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+2. Dealing with the Paradox of Quality Estimation <br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal Contribution) <br>
+*MT Summit 2021 - LoResMT, 2021 (Accept)*<br>
+
+3. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
 ### International Journal (SCI/SCIE)
 
-1. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
+1. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
+Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim (Equal Contribution) <br>
+*Applied Sciences, 2021 (Accept)*<br>
+
+2. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 11(5), 2021*<br>
 
-2. Decoding Strategies for Improving Low-Resource Machine Translation <br>
+3. Decoding Strategies for Improving Low-Resource Machine Translation <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 9(10), 2020*<br>
 
-3. Ancient Korean Neural Machine Translation <br>
+4. Ancient Korean Neural Machine Translation <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 116617-116625, 2020*<br>
 
-4. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
+5. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 106264-106272, 2020*<br>
 
-5. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
+6. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
 
@@ -264,6 +273,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2021.07 | Busan Social Welfare Develipment Group |  Attending advisory meetings and Focus Group Interview
 2020.03 | LLsoLLu |  Latest natural language processing Research
 2020.02 | NC SOFT |  Technology Transfer Seminar
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
@@ -284,5 +294,5 @@ Year | Place | Contents
 9. [Ancient Korean Translation & Machine Reading Comprehension with NAO](https://www.youtube.com/watch?v=nXBZe-t9a-4&t=8s)
 10. [Bilingual Education Using NAO](https://www.youtube.com/watch?v=4kCMMa62LDY&t=9s)
 11. [Ko-CSS (Korean Colloquial-Sentence-Splitter) for simultaneous speech translation](http://nlplab.iptime.org:32285/)
-12. [BTS (BackTranScription) for STT Post-Processor](https://backtrans-317413.de.r.appspot.com/)[Ver01](http://nlplab.iptime.org:32260/), [Ver02](https://backtrans-317413.de.r.appspot.com/)
+12. [BTS (BackTranScription) for STT Post-Processor](https://backtrans-317413.de.r.appspot.com/), [Ver01](http://nlplab.iptime.org:32260/), [Ver02](https://backtrans-317413.de.r.appspot.com/)
 <br><br><br>
