@@ -11,7 +11,7 @@ Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, AI for Accessibility, AI for Education
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education
 
 
 ## Professional Experience
@@ -28,7 +28,7 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 2. Dealing with the Paradox of Quality Estimation <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal Contribution) <br>
-*MT Summit 2021 - LoResMT, 2021 (Accept)*<br>
+*MT Summit 2021 - LoResMT, 2021*<br>
 
 3. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
@@ -37,11 +37,11 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal
 ### International Journal (SCI/SCIE)
 1. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
-*Applied Sciences, 2021 (Accept)*<br>
+*Applied Sciences, 11(14), 2021*<br>
 
 1. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim (Equal Contribution) <br>
-*Applied Sciences, 2021 (Accept)*<br>
+*Applied Sciences, 11(14), 2021*<br>
 
 2. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
