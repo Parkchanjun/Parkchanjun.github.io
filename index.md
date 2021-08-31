@@ -35,6 +35,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
 ### International Journal (SCI/SCIE)
+1. An Empirical Study on Automatic Post Editing for Neural Machine Translation <br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim (Equal Contribution) <br>
+*IEEE Access, 2021(Accept)*<br>
+
 1. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 11(14), 2021*<br>
