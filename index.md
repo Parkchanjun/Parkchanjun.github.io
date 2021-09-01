@@ -27,7 +27,7 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
 2. Dealing with the Paradox of Quality Estimation <br>
-Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal Contribution) <br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *MT Summit 2021 - LoResMT, 2021*<br>
 
 3. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
@@ -36,7 +36,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim (Equal
 
 ### International Journal (SCI/SCIE)
 1. An Empirical Study on Automatic Post Editing for Neural Machine Translation <br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim (Equal Contribution) <br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021(Accept)*<br>
 
 1. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
@@ -44,7 +44,7 @@ Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 11(14), 2021*<br>
 
 1. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
-Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim (Equal Contribution) <br>
+Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 11(14), 2021*<br>
 
 2. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
