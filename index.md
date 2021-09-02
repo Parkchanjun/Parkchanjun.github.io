@@ -39,73 +39,88 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021(Accept)*<br>
 
-1. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
+2. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 11(14), 2021*<br>
 
-1. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
+3. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 11(14), 2021*<br>
 
-2. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
+4. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 11(5), 2021*<br>
 
-3. Decoding Strategies for Improving Low-Resource Machine Translation <br>
+5. Decoding Strategies for Improving Low-Resource Machine Translation <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 9(10), 2020*<br>
 
-4. Ancient Korean Neural Machine Translation <br>
+6. Ancient Korean Neural Machine Translation <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 116617-116625, 2020*<br>
 
-5. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
+7. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, Volume.8, 106264-106272, 2020*<br>
 
-6. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
+8. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
 
 ### Domestic Journal (KCI)
+1. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
 
-1. Research on Recent Quality Estimation<br>
+2. Study on Decoding Strategies in Neural Machine Translation<br>
+Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
+3. Study on Zero-shot based Quality Estimation<br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
+4. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
+5. Research on Recent Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (7), 37-44, 2021*
 
-2. Recent Automatic Post Editing Research<br>
+6. Recent Automatic Post Editing Research<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of Digital Convergence, 19 (7), 199-208, 2021*
 
-3. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
+7. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 23-29, 2021*
 
-4. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
+8. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 1-7, 2021*
 
-5. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
+9. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12(3), 1-7, 2021*
 
-6. Cross-Validated Ensemble Methods in Natural Language Inference<br>
+10. Cross-Validated Ensemble Methods in Natural Language Inference<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of KIISE, 48(2), 154-159, 2021*
 
-7. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+11. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
 
-8. An AI Service to support communication and language learning for people with developmental disability<br>
+12. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
 
-9. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+13. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
 *Journal of Digital Convergence, 18(6), 271-277, 2020*
 
-10. Automatic Post Editing  Research<br>
+14. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
