@@ -19,18 +19,27 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
+## Professional activities
+
+### Reviewer:            <br>
+Applied Science (Journal, SCIE), Electronics (Journal, SCIE), Entropy (Journal, SCIE)
+
 ## Publications
 ### Top Conference
 
-1. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
+1. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
+**Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
+*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021*<br>
+
+2. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
-2. Dealing with the Paradox of Quality Estimation <br>
+3. Dealing with the Paradox of Quality Estimation <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *MT Summit 2021 - LoResMT, 2021*<br>
 
-3. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+4. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
@@ -246,26 +255,28 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
 ## Patents
-
-1. Improving speech recognition performance using TTS in domain-specific environment <br>
+1. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-2. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
+2. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-3. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+3. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-4. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+4. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-5. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+5. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+HeuiSeok Lim, **Chanjun Park** <br>
+
+6. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 
-6. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+7. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-7. Device and method for correcting Korean spelling <br>
+8. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
