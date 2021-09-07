@@ -19,11 +19,6 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
-## Professional activities
-
-### Reviewer:            <br>
-Applied Science (Journal, SCIE), Electronics (Journal, SCIE), Entropy (Journal, SCIE)
-
 ## Publications
 ### Top Conference
 
