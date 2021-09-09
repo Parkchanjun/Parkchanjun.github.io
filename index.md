@@ -19,6 +19,9 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
+## Academic Services
+Virtual Social Chair, COLING 2022 <br>
+
 ## Publications
 ### Top Conference
 
@@ -249,29 +252,36 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
-## Patents
-1. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
+## International Patents
+1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+HeuiSeok Lim, **Chanjun Park**<br>
+
+## Domestic Patents
+1. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
+HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
+
+2. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-2. Improving speech recognition performance using TTS in domain-specific environment <br>
+3. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-3. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
+4. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-4. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+5. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-5. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+6. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-6. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+7. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 
-7. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+8. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-8. Device and method for correcting Korean spelling <br>
+9. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
