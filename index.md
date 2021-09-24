@@ -333,4 +333,9 @@ Year | Place | Contents
 10. [Bilingual Education Using NAO](https://www.youtube.com/watch?v=4kCMMa62LDY&t=9s)
 11. [Ko-CSS (Korean Colloquial-Sentence-Splitter) for simultaneous speech translation](http://nlplab.iptime.org:32285/)
 12. BTS (BackTranScription) for STT Post-Processor, [Ver01](http://nlplab.iptime.org:32260/), [Ver02](https://backtrans-317413.de.r.appspot.com/)
+13. [Translation platfrom with AIHUB dataset](http://nlplab.iptime.org:32247/)
+14. [Con-Talky](http://nlplab.iptime.org:32245/)
+15. [Korea University English Grammar Corrector KakaoTalk Channel](http://pf.kakao.com/_cqxkps)
+16. [PEEP-Talk](http://pf.kakao.com/_FlDxgs)
+
 <br><br><br>
