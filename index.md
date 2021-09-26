@@ -24,20 +24,23 @@ Virtual Social Chair, COLING 2022 <br>
 
 ## Publications
 ### Top Conference
+1. Towards Syntax-Aware DialogueSummarization using Multi-task Learning<br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*EMNLP 2021 -Widening NLP (WiNLP2021) workshop, 2021*<br>
 
-1. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
+2. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
 *EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021*<br>
 
-2. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
+3. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
-3. Dealing with the Paradox of Quality Estimation <br>
+4. Dealing with the Paradox of Quality Estimation <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *MT Summit 2021 - LoResMT, 2021*<br>
 
-4. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+5. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
