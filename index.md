@@ -44,6 +44,11 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
+### Preprints (Arxiv)
+1. PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities <br>
+**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
+*arxiv, 2021*<br>
+
 ### International Journal (SCI/SCIE)
 1. An Empirical Study on Automatic Post Editing for Neural Machine Translation <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
