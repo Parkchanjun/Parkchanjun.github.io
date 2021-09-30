@@ -32,7 +32,7 @@ Virtual Social Chair, COLING 2022 <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
-### Top Conference
+### Top Conference (Main / Workshop)
 1. Towards Syntax-Aware DialogueSummarization using Multi-task Learning<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *EMNLP 2021 -Widening NLP (WiNLP2021) workshop, 2021*<br>
@@ -41,50 +41,50 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
 *EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021*<br>
 
-3. BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text<br>
+3. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
 
-4. Dealing with the Paradox of Quality Estimation <br>
+4. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *MT Summit 2021 - LoResMT, 2021*<br>
 
-5. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
+5. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
 
 ### International Journal (SCI/SCIE)
-1. An Empirical Study on Automatic Post Editing for Neural Machine Translation <br>
+1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
-*IEEE Access, 2021(Accept)*<br>
+*IEEE Access, 2021*<br>
 
-2. Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue <br>
+2. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
-*Applied Sciences, 11(14), 2021*<br>
+*Applied Sciences, 2021*<br>
 
-3. Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation<br>
+3. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
-*Applied Sciences, 11(14), 2021*<br>
+*Applied Sciences, 2021*<br>
 
-4. Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models<br>
+4. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
-*Applied Sciences, 11(5), 2021*<br>
+*Applied Sciences, 2021*<br>
 
-5. Decoding Strategies for Improving Low-Resource Machine Translation <br>
+5. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
-*Electronics, 9(10), 2020*<br>
+*Electronics, 2020*<br>
 
-6. Ancient Korean Neural Machine Translation <br>
+6. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
-*IEEE Access, Volume.8, 116617-116625, 2020*<br>
+*IEEE Access, 2020*<br>
 
-7. Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection <br>
+7. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
-*IEEE Access, Volume.8, 106264-106272, 2020*<br>
+*IEEE Access, 2020*<br>
 
-8. 	Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia <br>
+8. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications(2020) pp. 1–18. Springer, 2020*<br>
+*Multimedia Tools and Applications, 2020*<br>
 
 ### Domestic Journal (KCI)
 1. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
