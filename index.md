@@ -23,6 +23,15 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 Virtual Social Chair, COLING 2022 <br>
 
 ## Publications
+### Preprints 
+1. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
+*arxiv, 2021*<br>
+
+2. [Who says like a style of Vitamin: Towards Syntax-Aware DialogueSummarization using Multi-task Learning](https://arxiv.org/abs/2109.14199)<br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*arxiv, 2021*<br>
+
 ### Top Conference
 1. Towards Syntax-Aware DialogueSummarization using Multi-task Learning<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
@@ -43,11 +52,6 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 5. Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021*<br>
-
-### Preprints (Arxiv)
-1. PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
-*arxiv, 2021*<br>
 
 ### International Journal (SCI/SCIE)
 1. An Empirical Study on Automatic Post Editing for Neural Machine Translation <br>
@@ -260,36 +264,39 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
-## International Patents
+### International Patents
 1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park**<br>
 
-## Domestic Patents
-1. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
+### Domestic Patents
+1. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
+**Chanjun Park**, HeuiSeok Lim <br>
+
+2. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
 
-2. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
+3. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-3. Improving speech recognition performance using TTS in domain-specific environment <br>
+4. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-4. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
+5. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-5. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+6. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-6. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+7. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-7. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+8. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 
-8. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+9. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-9. Device and method for correcting Korean spelling <br>
+10. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
