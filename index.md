@@ -39,19 +39,19 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 
 2. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
-*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021*<br>
+*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021 - (oral presentation)*<br>
 
 3. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021*<br>
+*ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021 - (oral presentation)*<br>
 
 4. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
-*MT Summit 2021 - LoResMT, 2021*<br>
+*MT Summit 2021 - LoResMT, 2021- (oral presentation)*<br>
 
 5. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*NAACL-HLT 2021 Industry Track, 2021*<br>
+*NAACL-HLT 2021 Industry Track, 2021- (poster/oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
 1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
@@ -195,7 +195,7 @@ Sugyeong Eo, **Chanjun Park**, Heuiseok Lim<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, Sugyeong Eo, Yoonna Jang, Heuiseok Lim <br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
-2. Categorization and Analysis of Error Types in the Korean Speech Recognition System <br>
+2. Categorization and Analysis of Error Types in the Korean Speech Recognition System (Best Paper Award) <br>
 Junyoung Son, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
@@ -203,7 +203,7 @@ Junyoung Son, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
 Hyeonseok Moon, **Chanjun Park**, Jaehyeong Seo, Sugyeong Eo, Heuiseok Lim<br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
-4. KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation <br>
+4. KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation (Best Paper Award) <br>
 Jaehyeong Seo, **Chanjun Park**, Hyeonseok Moon, Sugyeong Eo, Myunghoon Kang, Seounghoon Lee, Heuiseok Lim<br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
@@ -215,7 +215,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 Yoonna Jang, Jungwoo Lim, Yuna Hur, Kisu Yang, **Chanjun Park**, Jaehyung Seo, Seungjun Lee, Heuiseok Lim<br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
-7. PEEP-Talk: Deep Learning-based English Education Platform for Personalized Foreign Language Learning <br>
+7. PEEP-Talk: Deep Learning-based English Education Platform for Personalized Foreign Language Learning (Best Paper Award) <br>
 SeungJun Lee, Yoonna Jang, **Chanjun Park**, Minwoo Kim, Bernardo N, Yahya, Heuiseok Lim <br>
 *The 33rd Annual Conference on Human & Cognitive Language Technology*
 
@@ -366,6 +366,9 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section
+2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - Language Resource Section
+2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - QA and Speech Section
 2020.11 | [1st Place in Flitto Hackathon (Team Lead)](https://www.flitto.com/business/blog/6547023368438992855?country=ko)
 2020.10 | Best Paper Award, The 32nd Annual Conference on Human & Cognitive Language Technology (HCLT2020)
 2020.05 | [Best practices for using NIA AI training data(Korean-English Neural Machine Translation model)](http://aihub.or.kr/node/4525), NIA
