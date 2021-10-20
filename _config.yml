@@ -21,6 +21,8 @@ nav:
    link: ""
  - name: "CV"
    link: "Curriculum_Vitae_Chanjunpark.pdf"
+ - name: "KU-NMT GROUP"
+   link: "http://nlplab.iptime.org:9080/"
 
 remote_theme: ankitsultana/researcher@gem
 
