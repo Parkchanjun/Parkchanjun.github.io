@@ -33,56 +33,64 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
-1. Towards Syntax-Aware DialogueSummarization using Multi-task Learning<br>
+1. Syntax-enhanced Dialogue Summarization using Syntax-aware information <br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*NeurIPS 2021 - Women in Machine Learning (WiML 2021) workshop, 2021*<br>
+
+2. Towards Syntax-Aware Dialogue Summarization using Multi-task Learning<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *EMNLP 2021 -Widening NLP (WiNLP2021) workshop, 2021*<br>
 
-2. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
+3. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
 *EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021 - (Oral presentation)*<br>
 
-3. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
+4. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop, 2021 - (oral presentation)*<br>
 
-4. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
+5. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *MT Summit 2021 - LoResMT, 2021- (Oral presentation)*<br>
 
-5. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
+6. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
+1. Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network<br>
+Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
+*IEEE Access, 2021*<br>
+
+2. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021*<br>
 
-2. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
+3. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
-3. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
+4. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 2021*<br>
 
-4. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
+5. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 2021*<br>
 
-5. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
+6. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 2020*<br>
 
-6. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
+7. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-7. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
+8. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-8. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
+9. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
