@@ -24,12 +24,12 @@ Virtual Social Chair, COLING 2022 <br>
 
 ## Publications
 ### Preprints 
-1. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
+1. [ Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+**Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
-2. [Who says like a style of Vitamin: Towards Syntax-Aware DialogueSummarization using Multi-task Learning](https://arxiv.org/abs/2109.14199)<br>
-Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+2. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
@@ -70,39 +70,43 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network<br>
+1. [Who says like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://arxiv.org/abs/2109.14199)<br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*IEEE Access, 2021*<br>
+
+2. [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
 Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
-2. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
+3. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021*<br>
 
-3. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
+4. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
-4. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
+5. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 2021*<br>
 
-5. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
+6. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 2021*<br>
 
-6. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
+7. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 2020*<br>
 
-7. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
+8. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-8. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
+9. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-9. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
+10. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
@@ -164,48 +168,95 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
 ### International Conference
+1. A Study on Jeju Dialect ASR processor using BackTranScription <br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
 
-1. Domain-specialize Neural Machine Translation Methodology<br>
+2. Domain Specialized Automatic Post Editing System <br>
+Hyeonseok Moon, **Chanjun Park**, Jaehyeong Seo, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+3. Korean Generative Commonsense Reasoning <br>
+Jaehyeong Seo, **Chanjun Park**, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+4. Cross-lingual Zero-shot Transfer for Quality Estimation <br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+5. Categorization of Common Error Types in the Off-the-shelf ASR systems for Korean <br>
+Junyoung Son, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+6. Error Type Categorization Criteria for Korean Spelling Correction <br>	 
+Seonmin Koo, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+7. A High-level Machine Reading Comprehension Model <br>
+Jeongwoo Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+8. Context Detector: Persona Based Natural Conversation using Conversational Agent <br>
+SeungJun Lee, Yoonna Jang, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+9. Proposal of Automatic Essay Scoring Method Using 4-level Natural Language Analysis <br>
+Yujin Kim, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+10. AI for Construction: Development of communication platform for construction field using Natural Language Processing <br>
+Midan Shim, **Chanjun Park**, Yuna Hur, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+11. A Comparative Study on Korean Relation Extraction with entity position information <br>
+Suhyune Son, Yuna Hur, Jungwoo Lim, Midan Shim, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+12. Comparative study of Korean speech recognition based on SpecAugment and Kaldi <br>
+Seounghoon Lee, **Chanjun Park**, Jaehyung Seo, Gyeongmin Kim, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+13. Domain-specialize Neural Machine Translation Methodology<br>
 **Chanjun Park**, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
 
-2. Design Neural Machine Translation Model Combining External Symbolic Knowledge in translation task<br>
+14. Design Neural Machine Translation Model Combining External Symbolic Knowledge in translation task<br>
 Sugyeong Eo, **Chanjun Park**, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
 
-3. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
+15. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
 **Chanjun Park**, Yanghee Kim, Yoonna Jang, Umadevi G.R, HeuiSeok Lim <br>
 *The International Conference on Big data, IoT, and Cloud Computing (BIC 2020)*
 
-4. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
+16. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
 **Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-5. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
+17. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
 **Chanjun Park**, Sungjin Park, Kinam Park, Jaechoon Jo, HeuiSeok Lim <br>
 *The 10th International Conference on Convergence Technology (ICCT 2020)*
 
-6. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
+18. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
 **Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-7. Data Augmentation Method for Korean Neural Machine Translations<br>
+19. Data Augmentation Method for Korean Neural Machine Translations<br>
 **Chanjun Park**, Kinam Park, Heuiseok Lim<br>
 *INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
 
-8. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
+20. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
 **Chanjun Park**, Seunggyu Han, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-9. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
+21. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
 **Chanjun Park**, Sora Choi, Heuiseok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-10. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
+22. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
 **Chanjun Park**, Jang Mook Kang<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
-11. Free Talking NAO Robot for Children<br>
+23. Free Talking NAO Robot for Children<br>
 **Chanjun Park**, Jaekue choi, Sungjin Park, Yanghee Kim, HeuiSeok Lim<br>
 *International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
 
@@ -431,5 +482,7 @@ Year | Place | Contents
 14. [Con-Talky](http://nlplab.iptime.org:32245/)
 15. [Korea University English Grammar Corrector KakaoTalk Channel](http://pf.kakao.com/_cqxkps)
 16. [PEEP-Talk](http://pf.kakao.com/_FlDxgs)
+17. [A Tool for generating High-Quality Parallel Corpus considering Human Translation Market](http://nlplab.iptime.org:9090/)
+18. [A New Tool for Efficiently Generating Quality Estimation Datasets](http://nlplab.iptime.org:9091/)
 
 <br><br><br>
