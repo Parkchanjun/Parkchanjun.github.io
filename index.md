@@ -167,6 +167,7 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
+ <!--
 ### International Conference
 1. A Study on Jeju Dialect ASR processor using BackTranScription <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, Sugyeong Eo, Heuiseok Lim <br>
@@ -385,6 +386,10 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 31. Dictionary based Compound Noun Decomposer using Resource extension<br>
 **Chanjun Park**, Hyejin Won, Pummo Ryu <br>
 *Korea Computer Congress 2018*
+
+-->
+### International & Domestic Conference
+Domestic Conference: 31 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
