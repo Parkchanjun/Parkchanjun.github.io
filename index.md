@@ -33,15 +33,15 @@ Virtual Social Chair, COLING 2022 <br>
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
-1. How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus <br>
+1. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
-2. A New Tool for Efficiently Generating Quality Estimation Datasets <br>
+2. [A New Tool for Efficiently Generating Quality Estimation Datasets](https://arxiv.org/abs/2111.00767) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
-3. Automatic Knowledge Augmentation for Generative Commonsense Reasoning <br>
+3. [Automatic Knowledge Augmentation for Generative Commonsense Reasoning](https://arxiv.org/abs/2111.00192) <br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
@@ -167,6 +167,224 @@ Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
+### International Conference
+1. A Study on Jeju Dialect ASR processor using BackTranScription <br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+2. Domain Specialized Automatic Post Editing System <br>
+Hyeonseok Moon, **Chanjun Park**, Jaehyeong Seo, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+3. Korean Generative Commonsense Reasoning <br>
+Jaehyeong Seo, **Chanjun Park**, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+4. Cross-lingual Zero-shot Transfer for Quality Estimation <br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+5. Categorization of Common Error Types in the Off-the-shelf ASR systems for Korean <br>
+Junyoung Son, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+6. Error Type Categorization Criteria for Korean Spelling Correction <br>	 
+Seonmin Koo, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+7. A High-level Machine Reading Comprehension Model <br>
+Jeongwoo Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+8. Context Detector: Persona Based Natural Conversation using Conversational Agent <br>
+SeungJun Lee, Yoonna Jang, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+9. Proposal of Automatic Essay Scoring Method Using 4-level Natural Language Analysis <br>
+Yujin Kim, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+10. AI for Construction: Development of communication platform for construction field using Natural Language Processing <br>
+Midan Shim, **Chanjun Park**, Yuna Hur, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+11. A Comparative Study on Korean Relation Extraction with entity position information <br>
+Suhyune Son, Yuna Hur, Jungwoo Lim, Midan Shim, **Chanjun Park**, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+12. Comparative study of Korean speech recognition based on SpecAugment and Kaldi <br>
+Seounghoon Lee, **Chanjun Park**, Jaehyung Seo, Gyeongmin Kim, Heuiseok Lim <br>
+*International Conference on Interdisciplinary Research on Computer Science, Psychology, and Education (ICICPE 2021)*
+
+13. Domain-specialize Neural Machine Translation Methodology<br>
+**Chanjun Park**, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
+
+14. Design Neural Machine Translation Model Combining External Symbolic Knowledge in translation task<br>
+Sugyeong Eo, **Chanjun Park**, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2020)*
+
+15. PicTalky: Deep learning-based speech therapy platform for developmental disabilities<br>
+**Chanjun Park**, Yanghee Kim, Yoonna Jang, Umadevi G.R, HeuiSeok Lim <br>
+*The International Conference on Big data, IoT, and Cloud Computing (BIC 2020)*
+
+16. Toward High Quality Parallel Corpus Using Monolingual Corpus<br>
+**Chanjun Park**, Youngdae Oh, Jongkeun Choi, Dongpil Kim, HeuiSeok Lim <br>
+*The 10th International Conference on Convergence Technology (ICCT 2020)*
+
+17. Can artificial intelligence translate the Annals of the Joseon Dynasty ?<br>
+**Chanjun Park**, Sungjin Park, Kinam Park, Jaechoon Jo, HeuiSeok Lim <br>
+*The 10th International Conference on Convergence Technology (ICCT 2020)*
+
+18. Self- Supervised Korean Spelling Correction via Denoising Transformer<br>
+**Chanjun Park**, Sungjin Park, Heuiseok Lim, <br>
+*INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
+
+19. Data Augmentation Method for Korean Neural Machine Translations<br>
+**Chanjun Park**, Kinam Park, Heuiseok Lim<br>
+*INTERNATIONAL CONFERENCE ON INFORMATION, SYSTEM AND CONVERGENCE APPLICATIONS(ICISCA 2020)*
+
+20. Quality before Quantity: Improved Machine Translation performance using parallel corpus filtering<br>
+**Chanjun Park**, Seunggyu Han, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
+
+21. Improved Machine Translation Performance Using Two Stage Subword Tokenization<br>
+**Chanjun Park**, Sora Choi, Heuiseok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
+
+22. Improved Machine Translation Performance Using Relative Ratio of Original and Synthetic Corpus<br>
+**Chanjun Park**, Jang Mook Kang<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
+
+23. Free Talking NAO Robot for Children<br>
+**Chanjun Park**, Jaekue choi, Sungjin Park, Yanghee Kim, HeuiSeok Lim<br>
+*International conference on Interdisciplinary research on Computer Science, Psychology, and Education (ICICPE 2019)*
+
+### Domestic Conference
+
+1. BackTranScription (BTS)-based Jeju Automatic Speech Recognition Post-processor Research <br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Heonseok Moon, Sugyeong Eo, Yoonna Jang, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+2. Categorization and Analysis of Error Types in the Korean Speech Recognition System **(Best Paper Award)** <br>
+Junyoung Son, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+3. Verification of the Domain Specialized Automatic Post Editing Model <br>
+Hyeonseok Moon, **Chanjun Park**, Jaehyeong Seo, Sugyeong Eo, Heuiseok Lim<br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+4. KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation **(Best Paper Award)**  <br>
+Jaehyeong Seo, **Chanjun Park**, Hyeonseok Moon, Sugyeong Eo, Myunghoon Kang, Seounghoon Lee, Heuiseok Lim<br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+5. Word-level Korean-English Quality Estimation <br>
+Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+6. Persona-based Korean Conversational Model <br>
+Yoonna Jang, Jungwoo Lim, Yuna Hur, Kisu Yang, **Chanjun Park**, Jaehyung Seo, Seungjun Lee, Heuiseok Lim<br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+7. PEEP-Talk: Deep Learning-based English Education Platform for Personalized Foreign Language Learning **(Best Paper Award)**  <br>
+SeungJun Lee, Yoonna Jang, **Chanjun Park**, Minwoo Kim, Bernardo N, Yahya, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+8. A Comparative Study on Korean Relation Extraction with entity position information <br>
+Suhyune Son, Yuna Hur, Jungwoo Lim, Midan Shim, **Chanjun Park**, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+9. Con-Talky: Information Extraction and Visualization Platform for Communication of Construction Industry <br>
+Midan Shim, **Chanjun Park**, Yuna Hur, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+10. Deep Learning based Korean Dialect Machine Translation Research <br>
+Sangbeom Lim, **Chanjun Park**, Jaechoon Jo, Yeongwook Yang <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+11. Comparative study of Korean speech recognition based on SpecAugment and Kaldi <br>
+Seounghoon Lee, **Chanjun Park**, Jaehyung Seo, Gyeongmin Kim, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+12. Model Training and Data Augmentation Schemes For the High-level Machine Reading Comprehension <br>
+Jeongwoo Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+13. Proposal of Automated Essay Scoring Method based on Deep-Learning <br>
+Yujin Kim, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+14. Attention Patterns and Semantics of Korean Language Models <br>
+Kisu Yang, Yoonna Jang, Jungwoo Lim, **Chanjun Park**, Hwanseok Jang, Heuiseok Lim <br>
+*The 33rd Annual Conference on Human & Cognitive Language Technology*
+
+15. Quality, not Quantity? : Effect of parallel corpus quantity and quality on Neural Machine Translation<br>
+**Chanjun Park**, Yeonsu Lee, Chanhee Lee, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+16. Alleviation of Overcorrection Problem in Neural Korean Spelling Correction<br>
+**Chanjun Park**, Yeonsu Lee, Kisu Yang, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+17. Cross-Lingual Transfer of Pretrained Transformers to Resource-Scarce Languages **(Best Paper Award)** <br>
+Chanhee Lee, **Chanjun Park**, Gyeongmin Kim, Dongsuk Oh, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+18. Design Neural Machine Translation Model Combining External Symbolic Knowledge<br>
+Sugyeong Eo, **Chanjun Park**, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+19. MMA: Multi-modal Message Aggregation for Korean VQA<br>
+Sungjin Park, **Chanjun Park**, Jaehyung Seo, HeuiSeok Lim <br>
+*The 32st Annual Conference on Human & Cognitive Language Technology*
+
+20. Korean Spell Correction based on Denoising Transformer<br>
+**Chanjun Park**, Jeong Sol , Kisu Yang, Sumi Lee, Jaechoon Jo, HeuiSeok Lim <br>
+*The 31st Annual Conference on Human & Cognitive Language Technology*
+
+21. Optimization of Data Augmentation Techniques in Neural Machine Translation<br>
+**Chanjun Park**, Kuekyeng Kim, HeuiSeok Lim <br>
+*The 31st Annual Conference on Human & Cognitive Language Technology*
+
+22. Parallel Corpus Filtering and Korean-Optimized Subword Tokenization for Machine Translation<br>
+**Chanjun Park**, Gyeongmin Kim, HeuiSeok Lim <br>
+*The 31st Annual Conference on Human & Cognitive Language Technology*
+
+23. Comparative Study of Sentiment Analysis Model based on Korean Linguistic Chracteristics<br>
+Gyeongmin Kim, **Chanjun Park**, Jaechoon Jo, HeuiSeok Lim  <br>
+*The 31st Annual Conference on Human & Cognitive Language Technology*
+
+24. Cross-Validated Ensemble Methods in Natural Language Inference **(Best Paper Award)** <br>
+Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
+*The 31st Annual Conference on Human & Cognitive Language Technology*
+
+25. Korean Spacing Module using Eojeol dictionary and Morpheme dictionary<br>
+**Chanjun Park**, Jin-hyuk Choi, Pummo Ryu<br>
+*Korea Software Congress 2018*
+
+26. Voice recognition performance improvement using TTS system in address recognition system<br>
+**Chanjun Park**, Suntae Kim, Minho Kang, Myeongjin Hwang, Byunggun Park, Yeonsu Kim<br>
+*Korea Software Congress 2018*
+
+27. Knowledge-enhancing Real-time Lecture interpreter service Development <br>
+**Chanjun Park**, Minho Kang, Byunggun Park, Suntae Kim, Myeongjin Hwang, Dongpil Kim, Young-kil Kim<br>
+*Korea Software Congress 2018*
+
+28. Improved speech recognition performance in business meeting environments using domain-specific method<br>
+**Chanjun Park**, Suntae Kim, Minho Kang, Byunggun Park, Myeongjin Hwang, Yeonsu Kim<br>
+*Korea Software Congress 2018*
+
+29. Two-Stage Korea Compound Noun Decomposer<br>
+**Chanjun Park**, Pummo Ryu <br>
+*The 30st Annual Conference on Human & Cognitive Language Technology*
+
+30. Spam/Ham Classification using Ensemble Technique of Machine Learning Algorithms<br>
+**Chanjun Park**, Pummo Ryu <br>
+*Korea Computer Congress 2018*
+
+31. Dictionary based Compound Noun Decomposer using Resource extension<br>
+**Chanjun Park**, Hyejin Won, Pummo Ryu <br>
+*Korea Computer Congress 2018*
 
 ### International & Domestic Conference
 Domestic Conference: 31 papers, International Conference: 23 papers
