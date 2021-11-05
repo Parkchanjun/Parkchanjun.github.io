@@ -53,7 +53,7 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *EMNLP 2021 -Widening NLP (WiNLP2021) workshop, 2021*<br>
 
-6. Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation<br>
+6. [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
 *EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP, 2021 - (Oral presentation)*<br>
 
