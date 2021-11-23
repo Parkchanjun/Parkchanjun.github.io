@@ -24,7 +24,7 @@ Virtual Social Chair, COLING 2022 <br>
 
 ## Publications
 ### Preprints 
-1. [ Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+1. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
 **Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
@@ -49,7 +49,7 @@ Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *NeurIPS 2021 - Women in Machine Learning (WiML 2021) workshop, 2021*<br>
 
-5. Towards Syntax-Aware Dialogue Summarization using Multi-task Learning<br>
+5. [Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](http://www.winlp.org/wp-content/uploads/2021/11/winlp2021_55_Paper.pdf)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *EMNLP 2021 -Widening NLP (WiNLP2021) workshop, 2021*<br>
 
@@ -111,64 +111,68 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### Domestic Journal (KCI)
-1. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
+1. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
+Seonmin Koo, **Chanjun Park**, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
+2. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-2. Study on Decoding Strategies in Neural Machine Translation<br>
+3. Study on Decoding Strategies in Neural Machine Translation<br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-3. Study on Zero-shot based Quality Estimation<br>
+4. Study on Zero-shot based Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-4. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
+5. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-5. Research on Recent Quality Estimation<br>
+6. Research on Recent Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (7), 37-44, 2021*
 
-6. Recent Automatic Post Editing Research<br>
+7. Recent Automatic Post Editing Research<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of Digital Convergence, 19 (7), 199-208, 2021*
 
-7. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
+8. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 23-29, 2021*
 
-8. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
+9. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 1-7, 2021*
 
-9. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
+10. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12(3), 1-7, 2021*
 
-10. Cross-Validated Ensemble Methods in Natural Language Inference<br>
+11. Cross-Validated Ensemble Methods in Natural Language Inference<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of KIISE, 48(2), 154-159, 2021*
 
-11. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+12. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
 
-12. An AI Service to support communication and language learning for people with developmental disability<br>
+13. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
 
-13. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+14. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
 *Journal of Digital Convergence, 18(6), 271-277, 2020*
 
-14. Automatic Post Editing  Research<br>
+15. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
 ### International & Domestic Conference
-Domestic Conference: 31 papers, International Conference: 23 papers
+Domestic Conference: 32 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
