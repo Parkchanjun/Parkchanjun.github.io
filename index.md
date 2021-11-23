@@ -184,34 +184,37 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 HeuiSeok Lim, **Chanjun Park**<br>
 
 ### Domestic Patents
-1. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
+1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
+HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
+
+2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
 
-2. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
+3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
 
-3. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
+4. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-4. Improving speech recognition performance using TTS in domain-specific environment <br>
+5. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-5. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
+6. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-6. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+7. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-7. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
+8. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-8. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
+9. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
 
-9. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
+10. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
-10. Device and method for correcting Korean spelling <br>
+11. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
 
 ## Teaching
