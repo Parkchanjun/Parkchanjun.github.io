@@ -21,14 +21,20 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Academic Services
 Virtual Social Chair, COLING 2022 <br>
+Reviewer for ACL ARR 2021 <br>
+Reviewer for MDPI (Applied Sciences, Electronics, Entropy)
 
 ## Publications
 ### Preprints 
-1. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+1. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
+Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuiseok Lim <br>
+*arxiv, 2021*<br>
+
+2. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
 **Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
-2. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+3. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
