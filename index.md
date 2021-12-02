@@ -45,15 +45,15 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 
 2. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021 - (oral presentation)*<br>
+*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
 3. [A New Tool for Efficiently Generating Quality Estimation Datasets](https://arxiv.org/abs/2111.00767) <br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021 - (oral presentation)*<br>
+*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
 4. [Automatic Knowledge Augmentation for Generative Commonsense Reasoning](https://arxiv.org/abs/2111.00192) <br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021 - (oral presentation)*<br>
+*NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
 5. Syntax-enhanced Dialogue Summarization using Syntax-aware information <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
