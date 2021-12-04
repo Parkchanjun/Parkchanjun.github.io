@@ -21,7 +21,8 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Academic Services
 Virtual Social Chair, COLING 2022 <br>
-Reviewer for ACL ARR 2021 <br>
+Reviewer for ACL 2022 <br>
+Reviewer for NAACL 2022 <br>
 Reviewer for MDPI (Applied Sciences, Electronics, Entropy)
 
 ## Publications
