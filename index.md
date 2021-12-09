@@ -40,7 +40,7 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
-1. FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue <br>
+1. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
 *AAAI 2022 -Artificial Intelligence for Education(AI4EDU), 2022*<br>
 
@@ -123,11 +123,11 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 
 ### Domestic Journal (KCI)
 1. Empirical study on BlenderBot 2.0’s errors analysis in terms of model, data and dialogue <br>
-Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim <br>
+Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Aram So, Jeongbae Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
 1. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
-Seonmin Koo, **Chanjun Park**, Heuiseok Lim<br>
+Seonmin Koo, **Chanjun Park**, Aram So Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
 2. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
