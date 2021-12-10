@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. See CV for more information.
+Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
@@ -127,7 +127,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Aram So, Jeo
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
 1. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
-Seonmin Koo, **Chanjun Park**, Aram So Heuiseok Lim<br>
+Seonmin Koo, **Chanjun Park**, Aram So, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
 2. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
@@ -243,6 +243,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2021.12 | Naver Ph.D. Fellowship 2021
 2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section
 2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - Language Resource Section
 2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - QA and Speech Section
