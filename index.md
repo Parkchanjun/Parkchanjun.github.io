@@ -122,6 +122,10 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### Domestic Journal (KCI)
+1. Error Analysis of Recent Conversational Agent-based Commercialization Education Platform <br>
+SeungJun Lee, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
 1. Empirical study on BlenderBot 2.0’s errors analysis in terms of model, data and dialogue <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Aram So, Jeongbae Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
