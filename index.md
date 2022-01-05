@@ -81,7 +81,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [Who says like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://arxiv.org/abs/2109.14199)<br>
+1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
@@ -122,6 +122,10 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### Domestic Journal (KCI)
+1. Deep Learning based Korean Dialect Machine Translation Research Considering Linguistics Features and Service <br>
+Sangbeom Lim, **Chanjun Park**, Yeongwook Yang*<br>
+*Journal of the Korea Convergence Society, 2021 (Accept)*
+
 1. Error Analysis of Recent Conversational Agent-based Commercialization Education Platform <br>
 SeungJun Lee, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
