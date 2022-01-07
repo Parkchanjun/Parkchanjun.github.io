@@ -57,7 +57,7 @@ Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 
 5. Syntax-enhanced Dialogue Summarization using Syntax-aware information <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*NeurIPS 2021 - Women in Machine Learning (WiML 2021) workshop, 2021 - (Contributed Talk /Poster)*<br>
+*NeurIPS 2021 - Women in Machine Learning (WiML 2021) workshop, 2021 - (Contributed Talk / Oral presentation)*<br>
 
 6. [Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](http://www.winlp.org/wp-content/uploads/2021/11/winlp2021_55_Paper.pdf)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
