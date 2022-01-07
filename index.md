@@ -21,8 +21,7 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Academic Services
 Virtual Social Chair, COLING 2022 <br>
-Reviewer for ACL 2022 <br>
-Reviewer for NAACL 2022 <br>
+Reviewer for ACL 2022, NAACL 2022 <br>
 Reviewer for MDPI (Applied Sciences, Electronics, Entropy)
 
 ## Publications
@@ -123,74 +122,74 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 
 ### Domestic Journal (KCI)
 1. Deep Learning based Korean Dialect Machine Translation Research Considering Linguistics Features and Service <br>
-Sangbeom Lim, **Chanjun Park**, Yeongwook Yang*<br>
+Sangbeom Lim, **Chanjun Park**, Yeongwook Yang<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-1. Error Analysis of Recent Conversational Agent-based Commercialization Education Platform <br>
+2. Error Analysis of Recent Conversational Agent-based Commercialization Education Platform <br>
 SeungJun Lee, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-1. Empirical study on BlenderBot 2.0’s errors analysis in terms of model, data and dialogue <br>
+3. Empirical study on BlenderBot 2.0’s errors analysis in terms of model, data and dialogue <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Aram So, Jeongbae Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-1. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
+4. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
 Seonmin Koo, **Chanjun Park**, Aram So, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-2. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
+5. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-3. Study on Decoding Strategies in Neural Machine Translation<br>
+6. Study on Decoding Strategies in Neural Machine Translation<br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-4. Study on Zero-shot based Quality Estimation<br>
+7. Study on Zero-shot based Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-5. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
+8. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 2021 (Accept)*
 
-6. Research on Recent Quality Estimation<br>
+9. Research on Recent Quality Estimation<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (7), 37-44, 2021*
 
-7. Recent Automatic Post Editing Research<br>
+10. Recent Automatic Post Editing Research<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
 *Journal of Digital Convergence, 19 (7), 199-208, 2021*
 
-8. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
+11. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
 **Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 23-29, 2021*
 
-9. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
+12. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12 (5), 1-7, 2021*
 
-10. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
+13. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
 *Journal of the Korea Convergence Society, 12(3), 1-7, 2021*
 
-11. Cross-Validated Ensemble Methods in Natural Language Inference<br>
+14. Cross-Validated Ensemble Methods in Natural Language Inference<br>
 Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
 *Journal of KIISE, 48(2), 154-159, 2021*
 
-12. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
+15. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
 **Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
 
-13. An AI Service to support communication and language learning for people with developmental disability<br>
+16. An AI Service to support communication and language learning for people with developmental disability<br>
 **Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
 
-14. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
+17. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
 **Chanjun Park**, Heuiseok Lim  <br>
 *Journal of Digital Convergence, 18(6), 271-277, 2020*
 
-15. Automatic Post Editing  Research<br>
+18. Automatic Post Editing  Research<br>
 **Chanjun Park**, Heuiseok Lim <br>
 *Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
 
@@ -278,27 +277,5 @@ Year | Place | Contents
 2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translation, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
-
-## Demos
-
-1. [Grammar Error Correction Platform](http://nlplab.iptime.org:32292/)
-2. [Korea Spelling Error Correction](http://nlplab.iptime.org:32288/)
-3. [Korea University Neural Machine Translation Platform](http://nlplab.iptime.org:32296/)
-4. [Neural Symbolic Inference](http://nlplab.iptime.org:32245/)
-5. [Korean Ancient Neural Machine Translation Platform](http://nlplab.iptime.org:32242/)
-6. [PicTalky: Text to Pictogram for Children with Developmental Disabilities](https://pictalky-311.de.r.appspot.com/)
-7. [COVID-19 Machine Translation Platform](http://nlplab.iptime.org:32250/)
-8. English Free Talking and Grammar Error Correction Feed Back System using NAO Robot, [Ver01](https://www.youtube.com/watch?v=pSBXouica-A), [Ver02](https://www.youtube.com/watch?v=Rl6dG_4cnFk)
-9. [Ancient Korean Translation & Machine Reading Comprehension with NAO](https://www.youtube.com/watch?v=nXBZe-t9a-4&t=8s)
-10. [Bilingual Education Using NAO](https://www.youtube.com/watch?v=4kCMMa62LDY&t=9s)
-11. [Ko-CSS (Korean Colloquial-Sentence-Splitter) for simultaneous speech translation](http://nlplab.iptime.org:32285/)
-12. BTS (BackTranScription) for STT Post-Processor, [Ver01](http://nlplab.iptime.org:32260/), [Ver02](https://backtrans-317413.de.r.appspot.com/)
-13. [Translation platfrom with AIHUB dataset](http://nlplab.iptime.org:32247/)
-14. [Con-Talky](http://nlplab.iptime.org:32245/)
-15. [Korea University English Grammar Corrector KakaoTalk Channel](http://pf.kakao.com/_cqxkps)
-16. [PEEP-Talk](http://pf.kakao.com/_FlDxgs)
-17. [A Tool for generating High-Quality Parallel Corpus considering Human Translation Market](http://nlplab.iptime.org:9090/)
-18. [A New Tool for Efficiently Generating Quality Estimation Datasets](http://nlplab.iptime.org:9091/)
-19. [A Self-Supervised Automatic Post-Editing Data Generation Tool](http://nlplab.iptime.org:9092/)
 
 <br><br><br>
