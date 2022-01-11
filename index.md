@@ -26,15 +26,19 @@ Reviewer for MDPI (Applied Sciences, Electronics, Entropy)
 
 ## Publications
 ### Preprints 
-1. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
+1. [Empirical study on BlenderBot 2.0’s Errors Analysis in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
+Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+*arxiv, 2022*<br>
+
+2. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
-2. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+3. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
 **Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
-3. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+4. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
@@ -55,7 +59,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 *NeurIPS 2021 - Data-centric AI (DCAI) workshop, 2021*<br>
 
-5. Syntax-enhanced Dialogue Summarization using Syntax-aware information <br>
+5. [Syntax-enhanced Dialogue Summarization using Syntax-aware information](https://www.researchgate.net/publication/357602112_Syntax-enhanced_Dialogue_Summarization_using_Syntax-aware_information) <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *NeurIPS 2021 - Women in Machine Learning (WiML 2021) workshop, 2021 - (Contributed Talk / Oral presentation)*<br>
 
