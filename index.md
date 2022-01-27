@@ -11,7 +11,7 @@ Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation
 
 
 ## Professional Experience
@@ -22,7 +22,6 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 ## Academic Services
 Virtual Social Chair, COLING 2022 <br>
 Reviewer for ACL 2022, NAACL 2022 <br>
-Reviewer for MDPI (Applied Sciences, Electronics, Entropy)
 
 ## Publications
 ### Preprints 
@@ -124,81 +123,8 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
-### Domestic Journal (KCI)
-1. Deep Learning based Korean Dialect Machine Translation Research Considering Linguistics Features and Service <br>
-Sangbeom Lim, **Chanjun Park**, Yeongwook Yang<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-2. Error Analysis of Recent Conversational Agent-based Commercialization Education Platform <br>
-SeungJun Lee, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-3. Empirical study on BlenderBot 2.0’s errors analysis in terms of model, data and dialogue <br>
-Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Aram So, Jeongbae Park, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-4. Classification and analysis of error types for deep learning-based Korean spelling correction <br>
-Seonmin Koo, **Chanjun Park**, Aram So, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-5. A Study on Verification of Back TranScription(BTS)-based Data Construction<br>
-**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-6. Study on Decoding Strategies in Neural Machine Translation<br>
-Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-7. Study on Zero-shot based Quality Estimation<br>
-Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-8. The Verification of the Transfer Learning Based Automatic Post Editing Model<br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 2021 (Accept)*
-
-9. Research on Recent Quality Estimation<br>
-Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 12 (7), 37-44, 2021*
-
-10. Recent Automatic Post Editing Research<br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim<br>
-*Journal of Digital Convergence, 19 (7), 199-208, 2021*
-
-11. A study on performance improvement considering the balance between corpus in Neural Machine Translation<br>
-**Chanjun Park**, Kinam Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 12 (5), 23-29, 2021*
-
-12. Filter-mBART Based Neural Machine Translation Using Parallel Corpus Filtering<br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, JeongBae Park, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 12 (5), 1-7, 2021*
-
-13. Research on Subword Tokenization of Korean Neural Machine Translation and Proposal for Tokenization Method to Separate Jongsung from Syllables<br>
-Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Heuiseok Lim<br>
-*Journal of the Korea Convergence Society, 12(3), 1-7, 2021*
-
-14. Cross-Validated Ensemble Methods in Natural Language Inference<br>
-Kisu Yang, Taesun Whang, Dongsuk Oh, **Chanjun Park**, HeuiSeok Lim <br>
-*Journal of KIISE, 48(2), 154-159, 2021*
-
-15. Neural Machine translation specialized for Coronavirus Disease-19(COVID-19)<br>
-**Chanjun Park**, Kyeonghee Kim, Kinam Park, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 11(9), 7-13, 2020*
-
-16. An AI Service to support communication and language learning for people with developmental disability<br>
-**Chanjun Park**, Yang-Hee Kim, Yoonna Jang, Umadevi G.R, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 11(6), 51-57, 2020*
-
-17. A Study on the Performance Improvement of Machine Translation Using Public Korean-English Parallel Corpus<br>
-**Chanjun Park**, Heuiseok Lim  <br>
-*Journal of Digital Convergence, 18(6), 271-277, 2020*
-
-18. Automatic Post Editing  Research<br>
-**Chanjun Park**, Heuiseok Lim <br>
-*Journal of the Korea Convergence Society, 11(5), 1-8, 2020*
-
 ### International & Domestic Conference
-Domestic Conference: 32 papers, International Conference: 23 papers
+Domestic Journal (KCI): 18 papers, Domestic Conference: 32 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
@@ -274,6 +200,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2022.01 | Dongguk University |  Artificial intelligence and Machine Translation
 2021.07 | Busan Social Welfare Development Group |  Attending advisory meetings and Focus Group Interview
 2020.03 | LLsoLLu |  Latest natural language processing Research
 2020.02 | NC SOFT |  Technology Transfer Seminar
