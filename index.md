@@ -20,8 +20,8 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
 ## Academic Services
-Virtual Social Chair, COLING 2022 <br>
-Reviewer for ACL 2022, NAACL 2022 <br>
+Virtual Social Chair: COLING 2022 <br>
+Program committee: ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br>
 
 ## Publications
 ### Preprints 
@@ -83,48 +83,52 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
+1. An Automatic Post Editing with Efficient and Simple Data Generation Method<br>
+Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+*IEEE Access, 2022*<br>
+
+2. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
-2. [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
+3. [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
 Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
-3. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
+4. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021*<br>
 
-4. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
+5. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
-5. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
+6. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 2021*<br>
 
-6. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
+7. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 2021*<br>
 
-7. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
+8. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 2020*<br>
 
-8. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
+9. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-9. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
+10. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-10. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
+11. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
 ### International & Domestic Conference
-Domestic Journal (KCI): 18 papers, Domestic Conference: 32 papers, International Conference: 23 papers
+Domestic Journal (KCI): 19 papers, Domestic Conference: 32 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
