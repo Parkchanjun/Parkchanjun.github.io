@@ -5,23 +5,23 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
+Hi! I am currently working as an AI Research Engineer at Upstage <a href="https://www.upstage.ai/">. Also I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Semantic Search and Information Retrieval
 
 
 ## Professional Experience
-
+2022.03 - Now: Upstage AI Research Engineer <br>
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
-Program committee: ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br>
+Program committee (Reviewer): ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br>
 
 ## Publications
 ### Preprints 
@@ -83,7 +83,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. An Automatic Post Editing with Efficient and Simple Data Generation Method<br>
+1. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
 Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
@@ -128,7 +128,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### International & Domestic Conference
-Domestic Journal (KCI): 19 papers, Domestic Conference: 32 papers, International Conference: 23 papers
+Domestic Journal (KCI): 20 papers, Domestic Conference: 32 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
