@@ -42,17 +42,21 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuis
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
+1. A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation <br>
+Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
+*NAACL 2022 - Findings, 2022*<br>
+
 1. Priming Ancient Korean Neural Machine Translation <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*LREC 2022, 2022*<br>
+*LREC 2022, 2022 - (Oral presentation)*<br>
 
 2. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
-*LREC 2022, 2022*<br>
+*LREC 2022, 2022 - (Poster)*<br>
 
 3. Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing <br>
 Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
-*LREC 2022, 2022*<br>
+*LREC 2022, 2022 - (Poster)*<br>
 
 4. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
