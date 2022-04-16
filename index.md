@@ -99,7 +99,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Hybrid Retriever System for Industrial Frequently Asked Questions <br>
+1. Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions <br>
 Jaehyung Seo, Taemin Lee, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Imatitikua D AIyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park <br>
 *Mathematics, 2022* <br>
 
