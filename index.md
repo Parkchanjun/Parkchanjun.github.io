@@ -99,7 +99,11 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Word-level Quality Estimation for Korean-English Neural Machine Translation <br>
+1. Return on Advertising Spend Prediction with Task Decomposition based LSTM Model <br>
+Hyeonseok Moon, Taemin Lee, Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Imatitikua D. AIyanyo, Jeongbae Park, Aram So, Kyoungwha Ok, Kinam Park  <br>
+*Mathematics, 2022* <br>
+
+1. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
@@ -164,7 +168,10 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 *Human Science*
 
 ### International Patents
-1. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
+1. METHOD FOR GENERATING TRAINING DATA AND METHOD FOR POST-PROCESSING OF SPEECH RECOGNITION USING THE SAME <br>
+HeuiSeok Lim, **Chanjun Park**<br>
+
+2. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park**<br>
 
 ### Domestic Patents
