@@ -11,7 +11,7 @@ Hi! I am currently working as an AI Research Engineer at <a href="https://www.up
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Semantic Search and Information Retrieval
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
 
 
 ## Professional Experience
@@ -21,7 +21,7 @@ Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancie
 
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
-Program committee (Reviewer): ACL 2022, ACL 2022-Insights, NAACL 2022, NAACL 2022-Industry Track  <br>
+Program committee (Reviewer): [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), ARR (ACL 2022, NAACL 2022, NAACL 2022-Industry Track)  <br>
 
 ## Publications
 ### Preprints 
@@ -174,43 +174,56 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 ### International Patents
 1. METHOD FOR GENERATING TRAINING DATA AND METHOD FOR POST-PROCESSING OF SPEECH RECOGNITION USING THE SAME <br>
 HeuiSeok Lim, **Chanjun Park**<br>
+*Apply for a patent* <br>
 
 2. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park**<br>
+*Apply for a patent* <br>
 
 ### Domestic Patents
 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
+*Apply for a patent* <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
+*Apply for a patent* <br>
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
+*Apply for a patent* <br>
 
 4. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 5. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 6. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 7. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 8. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Granted Patent (10-2390154)* <br>
 
 9. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
+*Apply for a patent* <br>
 
 10. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 11. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
+*Apply for a patent* <br>
 
 ## Teaching
 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
