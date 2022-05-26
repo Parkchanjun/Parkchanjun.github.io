@@ -33,11 +33,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, SeungJun Lee, Heuiseok Lim <br>
 *arxiv, 2021*<br>
 
-3. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
-**Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*arxiv, 2021*<br>
-
-4. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+3. [PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim<br>
 *arxiv, 2021*<br>
 
@@ -99,71 +95,75 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. AI for Patents: A Novel yet Effective and Efficient Framework for Patent Analysis <br>
+1. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+**Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
+*Applied Sciences, 2022*<br>
+
+2. [AI for Patents: A Novel yet Effective and Efficient Framework for Patent Analysis](https://ieeexplore.ieee.org/document/9779775) <br>
 Junyoung Son, Hyeonseok Moon, Jeongwoo Lee, Seolhwa Lee, **Chanjun Park**, Wonkyung Jung, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-2. [AI student: A Machine Reading Comprehension System for the Korean College Scholastic Ability Test](https://www.mdpi.com/2227-7390/10/9/1486) <br>
+3. [AI student: A Machine Reading Comprehension System for the Korean College Scholastic Ability Test](https://www.mdpi.com/2227-7390/10/9/1486) <br>
 Gyeongmin Kim, Soomin Lee, **Chanjun Park**, Jaechoon Jo <br>
 *Mathematics, 2022* <br>
 
-3. [Return on Advertising Spend Prediction with Task Decomposition based LSTM Model](https://www.mdpi.com/2227-7390/10/10/1637) <br>
+4. [Return on Advertising Spend Prediction with Task Decomposition based LSTM Model](https://www.mdpi.com/2227-7390/10/10/1637) <br>
 Hyeonseok Moon, Taemin Lee, Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Imatitikua D. AIyanyo, Jeongbae Park, Aram So, Kyoungwha Ok, Kinam Park  <br>
 *Mathematics, 2022* <br>
 
-4. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
+5. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
-5. [Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions](https://www.mdpi.com/2227-7390/10/8/1335) <br>
+6. [Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions](https://www.mdpi.com/2227-7390/10/8/1335) <br>
 Jaehyung Seo, Taemin Lee, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Imatitikua D AIyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park <br>
 *Mathematics, 2022* <br>
 
-6. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
+7. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
 **Chanjun Park**, Woo-Young Go, Sugyeong Eo, Hyeonseok Moon, Seolhwa Lee, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-7. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
+8. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
 Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2022*<br>
 
-8. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
+9. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
-9. [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
+10. [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
 Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
 
-10. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
+11. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *IEEE Access, 2021*<br>
 
-11. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
+12. [Variational Reward Estimator Bottleneck: Towards Robust Reward Estimator for Multi-Domain Task-Oriented Dialogue](https://www.mdpi.com/2076-3417/11/14/6624) <br>
 Jeiyoon Park, Chanhee Lee, **Chanjun Park**, Kuekyeng Kim, Heuiseok Lim <br>
 *Applied Sciences, 2021*<br>
 
-12. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
+13. [Comparative Analysis of Current Approaches to Quality Estimation for Neural Machine Translation](https://www.mdpi.com/2076-3417/11/14/6584)<br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *Applied Sciences, 2021*<br>
 
-13. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
+14. [Exploring the Data Efficiency of Cross-Lingual Post-Training in Pretrained Language Models](https://www.mdpi.com/2076-3417/11/5/1974)<br>
 Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseok Lim<br>
 *Applied Sciences, 2021*<br>
 
-14. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
+15. [Decoding Strategies for Improving Low-Resource Machine Translation](https://www.mdpi.com/2079-9292/9/10/1562) <br>
 **Chanjun Park**, YeongWookYang, Kinam Park, Heuiseok Lim <br>
 *Electronics, 2020*<br>
 
-15. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
+16. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-16. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
+17. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
 **Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
 *IEEE Access, 2020*<br>
 
-17. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
+18. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
