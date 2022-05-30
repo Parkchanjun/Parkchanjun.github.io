@@ -95,7 +95,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [Empirical Analysis of Korean Public AI Hub Parallel Corpora and in-depth Analysis using LIWC](https://arxiv.org/abs/2110.15023) <br>
+1. [Empirical Analysis of Parallel Corpora and in-depth Analysis using LIWC](https://www.mdpi.com/2076-3417/12/11/5545) <br>
 **Chanjun Park**, Midan Shim, Sugyeong Eo, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *Applied Sciences, 2022*<br>
 
