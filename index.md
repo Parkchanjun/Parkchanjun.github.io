@@ -25,7 +25,7 @@ Program committee (Reviewer): [ACL 2022-Insights](https://insights-workshop.gith
 
 ## Publications
 ### Preprints 
-1. [Empirical study on BlenderBot 2.0’s Errors Analysis in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
+1. [There is no rose without a thorn: Finding weaknesses on BlenderBot 2.0 in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *arxiv, 2022*<br>
 
@@ -38,19 +38,19 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuiseok Lim <br>
 *ICML 2022 - DataPerf workshop, 2022*
 
-2. A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation <br>
+2. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings, 2022*<br>
 
-3. Priming Ancient Korean Neural Machine Translation <br>
+3. [Priming Ancient Korean Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.3.pdf) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022, 2022 - (Oral presentation)*<br>
 
-4. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
+4. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.132.pdf) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
 *LREC 2022, 2022 - (Poster)*<br>
 
-5. Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing <br>
+5. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.93.pdf) <br>
 Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
 *LREC 2022, 2022 - (Poster)*<br>
 
@@ -95,7 +95,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders <br>
+1. [BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders](https://www.mdpi.com/2076-3417/12/13/6686) <br>
 Jeongwoo Lee, Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *Applied Sciences, 2022*<br>
 
@@ -264,6 +264,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
 2022.01 | Dongguk University |  Artificial intelligence and Machine Translation
 2021.07 | Busan Social Welfare Development Group |  Attending advisory meetings and Focus Group Interview
 2020.03 | LLsoLLu |  Latest natural language processing Research
