@@ -5,17 +5,14 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a MS/Ph.D student in the Department of Computer Science and Engineering at Korea University. My advisor is Prof. <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, and I am part of the <a href="http://nlp.korea.ac.kr/">Natural Language Processing & Artificial Intelligence Lab</a>. I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. See CV for more information.
-
- <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
- <!-- (https://github.com/bk2dcradle/researcher) -->
+Hi! I am currently working as an AI Research Engineer & Data Manager at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 110 papers in the field of Natural Language Processing, especially Machine Translation, and applied for 13 patents. See CV for more information.
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
+Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Data Management and Engineering, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
 
 
 ## Professional Experience
-2022.03 - Now: Upstage AI Research Engineer <br>
+2022.03 - Now: Upstage AI Research Engineer & Data Manager <br>
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
@@ -95,7 +92,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Utilization Strategy of User Engagements in Korean Fake News Detection <br>
+1. [Utilization Strategy of User Engagements in Korean Fake News Detection](https://ieeexplore.ieee.org/document/9841541) <br>
 Myunghoon Kang, Jaehyung Seo, **Chanjun Park**, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
@@ -186,40 +183,40 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 ### International Patents
 1. METHOD FOR GENERATING TRAINING DATA AND METHOD FOR POST-PROCESSING OF SPEECH RECOGNITION USING THE SAME <br>
 HeuiSeok Lim, **Chanjun Park**<br>
-*Apply for a patent* <br>
+*Apply for a patent (17/739,383)* <br>
 
 2. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park**<br>
-*Apply for a patent* <br>
+*Apply for a patent (PCT/KR2021/012195)* <br>
 
 ### Domestic Patents
 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0156657)* <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0127438)* <br>
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0118924)* <br>
 
 4. DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0117011)* <br>
 
 5. Improving speech recognition performance using TTS in domain-specific environment <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0028816)* <br>
 
 6. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2021-0060914)* <br>
 
 7. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Granted Patent (10-2409667)* <br>
 
 8. Correction performance evaluation metrics of neural network machine translation and method of constructing the same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
@@ -227,15 +224,15 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 9. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
-*Apply for a patent* <br>
+*Apply for a patent (10-2020-0110844)* <br>
 
 10. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Granted Patent (10-2425922)* <br>
 
 11. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Apply for a patent* <br>
+*Granted Patent (To be Release)* <br>
 
 ## Teaching
 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
