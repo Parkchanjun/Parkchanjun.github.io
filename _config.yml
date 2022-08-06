@@ -17,10 +17,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "CV"
+ - name: "CV (Full)"
    link: "Curriculum_Vitae_Chanjunpark.pdf"
+ - name: "CV (Short)"
+   link: "Curriculum_Vitae_Chanjunpark_Short.pdf"
  - name: "KU-NMT GROUP"
    link: "http://kunmt.org/"
+
 
 remote_theme: ankitsultana/researcher@gem
 
