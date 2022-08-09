@@ -8,7 +8,7 @@ layout: default
 Hi! I am currently working as an AI Research Engineer & Data Manager at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 110 papers in the field of Natural Language Processing, especially Machine Translation, and applied for 13 patents. See CV for more information.
 
 ## Research Interest
-Neural Machine Translation, Domain Specialized Neural Machine Translation, Ancient Korean Neural Machine Translation, Simultaneous Speech Translation, Automatic Post Editing, Quality Estimation, Korean Spelling Correction, Grammar Error Correction, Speech Recognition Post-Processor, Dialogue Summarization, AI for Accessibility, AI for Education, Language Resource and Evaluation, Data Management and Engineering, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
+Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Engineering, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
 
 
 ## Professional Experience
