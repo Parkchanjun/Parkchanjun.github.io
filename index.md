@@ -31,6 +31,11 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
+1. QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation <br>
+Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim
+ <br>
+*COLING 2022, 2022*
+
 1. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuiseok Lim <br>
 *ICML 2022 - DataPerf workshop, 2022*
@@ -232,7 +237,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 11. Device and method for correcting Korean spelling <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Granted Patent (To be Release)* <br>
+*Granted Patent (10-2430918)* <br>
 
 ## Teaching
 1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
