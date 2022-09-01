@@ -101,6 +101,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge <br>
+Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, **Chanjun Park**, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
+*Knowledge-Based Systems, 2022*<br>
+
 1. [Utilization Strategy of User Engagements in Korean Fake News Detection](https://ieeexplore.ieee.org/document/9841541) <br>
 Myunghoon Kang, Jaehyung Seo, **Chanjun Park**, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
