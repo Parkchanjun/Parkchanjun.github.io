@@ -5,14 +5,14 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer & Data Manager at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 110 papers in the field of Natural Language Processing, especially Machine Translation, and applied for 13 patents. See CV for more information.
+Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 110 papers in the field of Natural Language Processing, especially Machine Translation, and applied for 13 patents. See CV for more information.
 
 ## Research Interest
 Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Engineering, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
 
 
 ## Professional Experience
-2022.03 - Now: Upstage AI Research Engineer & Data Manager <br>
+2022.03 - Now: Upstage AI Research Engineer <br>
 2018.09 - 2019.07: SYSTRAN Research Engineer <br>
 2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
 
@@ -101,7 +101,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge <br>
+1. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546) <br>
 Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, **Chanjun Park**, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
 *Knowledge-Based Systems, 2022*<br>
 
