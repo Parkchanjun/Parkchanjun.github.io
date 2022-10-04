@@ -5,10 +5,10 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 115 papers in the field of Natural Language Processing, especially Machine Translation, and applied for 13 patents. See CV for more information.
+Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 130 papers in the field of Natural Language Processing, especially Machine Translation. See CV for more information.
 
 ## Research Interest
-Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Engineering, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), Quality Assurance
+Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Pipeline, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience)
 
 
 ## Professional Experience
@@ -105,7 +105,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. The ASR post-processor performance challenges of BackTranScription (BTS) : Data-Centric and Model-Centric Approaches <br>
+1. [The ASR post-processor performance challenges of BackTranScription (BTS) : Data-Centric and Model-Centric Approaches](https://www.mdpi.com/2227-7390/10/19/3618) <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Heuiseok Lim <br>
 *Mathematics, 2022* <br>
 
