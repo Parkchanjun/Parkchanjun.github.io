@@ -35,6 +35,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
+1. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task <br>
+Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
+*WMT 2022 - EMNLP 2022, 2022* <br>
+
 1. QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim
  <br>
@@ -105,7 +109,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. It’s Enough! Korean-Prompt-based Engineering for Few-shot Learners <br>
+1. Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners <br>
 Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
