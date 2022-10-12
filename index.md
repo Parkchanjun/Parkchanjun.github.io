@@ -35,6 +35,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2021*<br>
 
 ### Top Conference (Main / Workshop)
+1. PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities <br>
+**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
+*AACL 2022 Demo Track, 2022* <br>
+
 1. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *WMT 2022 - EMNLP 2022, 2022* <br>
