@@ -29,6 +29,7 @@ Suhyune Son, **Chanjun Park**, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jan
 2. [There is no rose without a thorn: Finding weaknesses on BlenderBot 2.0 in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *arxiv, 2022*<br>
+
 ### Top Conference (Main / Workshop)
 1. PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
