@@ -273,6 +273,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2022.10 | Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)
 2021.12 | Naver Ph.D. Fellowship 2021
 2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section
 2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - Language Resource Section
