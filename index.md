@@ -8,7 +8,7 @@ layout: default
 Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 130 papers in the field of Natural Language Processing, especially Machine Translation. See CV for more information.
 
 ## Research Interest
-Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Pipeline, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience)
+Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Pipeline, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), OCR
 
 
 ## Professional Experience
@@ -19,6 +19,7 @@ Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, D
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
 Program committee: EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
+Reviewer: IEEE Access, Cybernetics and Systems, Applied Sciences, Electronics, Entropy <br>
 
 ## Publications
 ### Preprints 
@@ -31,7 +32,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
-1. PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities <br>
+1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
 *AACL 2022 - Demo Track, 2022* <br>
 
@@ -109,6 +110,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria <br>
+Seonmin Koo, **Chanjun Park**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))**  <br>
+*IEEE Access, 2022*<br>
+
 1. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
 Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
