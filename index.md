@@ -19,7 +19,7 @@ Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, D
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
 Program committee: EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
-Reviewer: IEEE Access, Cybernetics and Systems, Applied Sciences, Electronics, Entropy <br>
+Reviewer: IEEE Access, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
 ### Preprints 
@@ -110,7 +110,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria <br>
+1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
 Seonmin Koo, **Chanjun Park**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))**  <br>
 *IEEE Access, 2022*<br>
 
@@ -207,7 +207,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### International & Domestic Conference
-Domestic Journal (KCI): 20 papers, Domestic Conference: 45 papers, International Conference: 23 papers
+Domestic Journal (KCI): 20 papers, Domestic Conference: 47 papers, International Conference: 23 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
