@@ -207,7 +207,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### International & Domestic Conference
-Domestic Journal (KCI): 20 papers, Domestic Conference: 47 papers, International Conference: 23 papers
+Domestic Journal (KCI): 20 papers, Domestic Conference: 47 papers, International Conference: 29 papers
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
