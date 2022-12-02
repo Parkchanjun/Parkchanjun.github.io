@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 130 papers in the field of Natural Language Processing, especially Machine Translation. See CV for more information.
+Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 140 papers in the field of Natural Language Processing, especially Machine Translation. See CV for more information.
 
 ## Research Interest
 Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Pipeline, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), OCR
@@ -32,11 +32,11 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
-1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://arxiv.org/abs/2109.12941) <br>
+1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://preview.aclanthology.org/aacl-22-ingestion/2022.aacl-demo.3/) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
 *AACL 2022 - Demo Track, 2022* <br>
 
-2. KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task <br>
+2. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *WMT 2022 - EMNLP 2022, 2022* <br>
 
@@ -302,6 +302,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2022.12 | Sunmoon University |  Real-World Centric AI
 2022.08 | Kyungsung University |  Language and Information Studies and the Future of Artificial Intelligence
 2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
 2022.01 | Dongguk University |  Artificial intelligence and Machine Translation
