@@ -5,11 +5,14 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 140 papers in the field of Natural Language Processing, especially Machine Translation. See CV for more information.
+Hi! I am currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a>. Also I am a Ph.D candidate in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>). I am the founder and leader of <a href="http://kunmt.org/">KU-NMT Group</a>. I received Naver Ph.D. Fellowship 2021. I have published more than 140 papers in the field of Natural Language Processing, especially Machine Translation. I have registered 5 patents and applied for 13 patents. See CV for more information.
 
 ## Research Interest
-Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, Data Management and Pipeline, Semantic Search and Information Retrieval, CX (Customer Experience), UX (User Experience), OCR
+Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
 
+## Education
+2019.09 - 2023.08: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
+2015.03 - 2019.02: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Professional Experience
 2022.03 - Now: Upstage AI Research Engineer <br>
@@ -18,7 +21,7 @@ Data-Centric AI, Neural Machine Translation, Language Resource and Evaluation, D
 
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
-Program committee: EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
+Program committee: ACL 2023-Industry Track, EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
 Reviewer: IEEE Access, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
@@ -258,7 +261,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 9. APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE <br>
 HeuiSeok Lim, **Chanjun Park**, Yanghee Kim <br>
-*Apply for a patent (10-2020-0110844)* <br>
+*Granted Patent  (10-2476497)* <br>
 
 10. METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>

@@ -19,8 +19,6 @@ sass:
 nav:
  - name: "CV (Full)"
    link: "Curriculum_Vitae_Chanjunpark.pdf"
- - name: "CV (Short)"
-   link: "Curriculum_Vitae_Chanjunpark_Short.pdf"
  - name: "KU-NMT GROUP"
    link: "http://kunmt.org/"
 
