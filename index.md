@@ -28,7 +28,7 @@ Reviewer: IEEE Access, International Journal of Human-Computer Interaction, Cybe
 ### Preprints 
 1. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
 Eujeong Choi, **Chanjun Park** **(Corresponding Author)** <br>
-*arxiv, 2022*<br>
+*arxiv, 2023*<br>
 
 2. [Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models](https://arxiv.org/abs/2209.06422) <br>
 Suhyune Son, **Chanjun Park**, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jang, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
