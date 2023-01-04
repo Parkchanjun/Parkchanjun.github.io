@@ -11,18 +11,18 @@ Chanjun Park is a researcher in the field of artificial intelligence, with a foc
 Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
 
 ## Education
-2019.09 - 2023.08: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
-2015.03 - 2019.02: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
+* **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
+* **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Professional Experience
-2022.03 - Now: Upstage AI Research Engineer <br>
-2018.09 - 2019.07: SYSTRAN Research Engineer <br>
-2018.06 - 2018.08: SYSTRAN Research Engineer Intern 
+* **2022.03 - Now**: Upstage AI Research Engineer <br>
+* **2018.09 - 2019.07**: SYSTRAN Research Engineer <br>
+* **2018.06 - 2018.08**: SYSTRAN Research Engineer Intern 
 
 ## Academic Services
-Virtual Social Chair: COLING 2022 <br>
-Program committee: ACL 2023-Industry Track, EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
-Reviewer: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
+* **Virtual Social Chair**: COLING 2022 <br>
+* **Program committee**: ACL 2023-Industry Track, EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
+* **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
 ### Preprints 
