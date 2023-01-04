@@ -22,12 +22,12 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 ## Academic Services
 Virtual Social Chair: COLING 2022 <br>
 Program committee: ACL 2023-Industry Track, EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
-Reviewer: IEEE Access, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
+Reviewer: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
 ### Preprints 
 1. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
-Eujeong Choi, Chanjun Park **(Corresponding Author)** <br>
+Eujeong Choi, **Chanjun Park** **(Corresponding Author)** <br>
 *arxiv, 2022*<br>
 
 2. [Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models](https://arxiv.org/abs/2209.06422) <br>
