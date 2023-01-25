@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Chanjun Park is a researcher in the field of artificial intelligence, with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
+Chanjun Park is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
 
 ## Research Interest
 Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
@@ -21,7 +21,7 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 
 ## Academic Services
 * **Virtual Social Chair**: COLING 2022 <br>
-* **Program committee**: ACL 2023-Industry Track, EACL 2022, [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
+* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
 * **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
@@ -41,7 +41,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 ### Top Conference (Main / Workshop)
 1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://preview.aclanthology.org/aacl-22-ingestion/2022.aacl-demo.3/) <br>
 **Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
-*AACL 2022 - Demo Track, 2022* <br>
+*AACL-IJCNLP 2022 - Demo Track, 2022* <br>
 
 2. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://www.statmt.org/wmt22/pdf/2022.wmt-1.56.pdf) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
@@ -214,7 +214,10 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 *Multimedia Tools and Applications, 2020*<br>
 
 ### International & Domestic Conference
-Domestic Journal (KCI): 20 papers, Domestic Conference: 47 papers, International Conference: 29 papers
+* **Domestic Journal (KCI)**: 20 papers <br>
+* **Domestic Conference**: 47 papers <br>
+* **International Conference (Excluding Top-Conference)**: 29 papers <br>
+
 
 ### Book Chapters
 1. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
