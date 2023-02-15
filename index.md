@@ -293,6 +293,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2023.02 | Research Encouragement Scholarship, Korea University
 2022.12 | 1st place in Quality Estimation Shared Task 2022 - Sentence-level "Critical Error Detection", WMT 2022 (EMNLP 2022)
 2022.10 | Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)
 2021.12 | Naver Ph.D. Fellowship 2021
