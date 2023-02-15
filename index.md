@@ -117,6 +117,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. [A Survey on Evaluation Metrics for Machine Translation]() <br>
+Seungjun Lee, Jungseob Lee, Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
+*Mathematics, 2023* <br>
+
 1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
 Seonmin Koo, **Chanjun Park**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))**  <br>
 *IEEE Access, 2022*<br>
@@ -312,6 +316,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html)
 2022.12 | Sunmoon University |  Real-World Centric AI
 2022.08 | Kyungsung University |  Language and Information Studies and the Future of Artificial Intelligence
 2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
