@@ -21,7 +21,7 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 
 ## Academic Services
 * **Virtual Social Chair**: COLING 2022 <br>
-* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, ARR (ACL 2022, NAACL 2022)  <br>
+* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
 ## Publications
