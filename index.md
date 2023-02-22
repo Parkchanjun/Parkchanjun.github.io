@@ -283,16 +283,18 @@ HeuiSeok Lim, **Chanjun Park** <br>
 *Granted Patent (10-2430918)* <br>
 
 ## Teaching
-1. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
-2. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-3. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-4. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-5. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+1. [Data-centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
+2. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
+3. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+4. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+5. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+6. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
 
 ## Honors & Awards
 
 Year | Award
 :-----:|-------
+2023.02 | Best Paper Award, Korea University
 2023.02 | Research Encouragement Scholarship, Korea University
 2022.12 | 1st place in Quality Estimation Shared Task 2022 - Sentence-level "Critical Error Detection", WMT 2022 (EMNLP 2022)
 2022.10 | Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)
