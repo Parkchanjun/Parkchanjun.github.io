@@ -20,6 +20,7 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 * **2018.06 - 2018.08**: SYSTRAN Research Engineer Intern 
 
 ## Academic Services
+* **Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: COLING 2022 <br>
 * **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
