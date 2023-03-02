@@ -17,7 +17,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "CV (Full)"
+ - name: "CV"
    link: "Curriculum_Vitae_Chanjunpark.pdf"
  - name: "KU-NMT GROUP"
    link: "http://kunmt.org/"

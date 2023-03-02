@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Chanjun Park is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>,. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>,. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
 
 ## Research Interest
 Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
@@ -15,15 +15,15 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Professional Experience
-* **2022.03 - Now**: Upstage AI Research Engineer <br>
-* **2018.09 - 2019.07**: SYSTRAN Research Engineer <br>
-* **2018.06 - 2018.08**: SYSTRAN Research Engineer Intern 
+* **2022.03 - Now**: [Upstage](https://en.upstage.ai/), AI Research Engineer <br>
+* **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
+* **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
 ## Academic Services
 * **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, Reviewer of ARR (2022~Current)  <br>
-* **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
+* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
+* **Reviewer**: [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 ## Publications
 ### Preprints 
@@ -320,7 +320,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html)
+2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
 2022.12 | Sunmoon University |  Real-World Centric AI
 2022.08 | Kyungsung University |  Language and Information Studies and the Future of Artificial Intelligence
 2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
