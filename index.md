@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-Chanjun Park is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
+Chanjun Park is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>,. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
 
 ## Research Interest
 Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
@@ -20,8 +20,8 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 * **2018.06 - 2018.08**: SYSTRAN Research Engineer Intern 
 
 ## Academic Services
-* **Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
-* **Virtual Social Chair**: COLING 2022 <br>
+* **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
+* **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), NAACL 2022-Industry Track, Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: IEEE Access, International Journal of Human-Computer Interaction, Cybernetics and Systems, Applied Sciences, Electronics, Entropy, Connection Science <br>
 
