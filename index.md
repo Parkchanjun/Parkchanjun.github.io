@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>,. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-centric AI and Machine Translation. He is currently working as an AI Research Engineer at <a href="https://www.upstage.ai/">Upstage</a> and is expected to earn his Ph.D in the Department of Computer Science and Engineering at Korea University in August 2023, under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>. He has published more than 140 papers in the field of natural language processing, and has registered 5 patents and applied for 13 more. See CV for more information.
 
 ## Research Interest
 Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-World-centric AI
@@ -27,15 +27,19 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 
 ## Publications
 ### Preprints 
-1. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
+1. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
+**Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
+*arxiv, 2023*<br>
+
+2. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
 Eujeong Choi, **Chanjun Park** **(Corresponding Author)** <br>
 *arxiv, 2023*<br>
 
-2. [Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models](https://arxiv.org/abs/2209.06422) <br>
+3. [Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models](https://arxiv.org/abs/2209.06422) <br>
 Suhyune Son, **Chanjun Park**, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jang, Jaehyung Seo, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *arxiv, 2022*<br>
 
-3. [There is no rose without a thorn: Finding weaknesses on BlenderBot 2.0 in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
+4. [There is no rose without a thorn: Finding weaknesses on BlenderBot 2.0 in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
 Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *arxiv, 2022*<br>
 
