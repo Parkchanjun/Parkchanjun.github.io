@@ -22,7 +22,7 @@ Data-centric AI, Machine Translation, Language Resource and Evaluation, Real-Wor
 ## Academic Services
 * **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program committee**: ACL 2023-Industry Track, EACL 2023, [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
+* **Program committee**: [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023 - BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 ## Publications
@@ -324,6 +324,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.05 | KIDA (Korea Institute for Defense Analysis) |  Data-Centric AI in the Large Language Model Era
 2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
 2022.12 | Sunmoon University |  Real-World Centric AI
 2022.08 | Kyungsung University |  Language and Information Studies and the Future of Artificial Intelligence
