@@ -41,7 +41,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
-1. Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction <br>
+1. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
 **Chanjun Park**, Seonmin Koo, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
@@ -49,15 +49,15 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 Eujeong Choi, **Chanjun Park** **(Corresponding Author)** <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-3. Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios <br>
+3. [Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios](https://arxiv.org/abs/2306.14373) <br>
 NamHyeok Kim, **Chanjun Park** **(Corresponding Author)** <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-4. Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations (DMOps) <br>
+4. [Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations](https://arxiv.org/abs/2306.14374) (DMOps) <br>
 Damrin Kim, NamHyeok Kim, **Chanjun Park** **(Corresponding Author)**, Harksoo Kim **(Corresponding Author)**  <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-5. Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation <br>
+5. [Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation](https://arxiv.org/abs/2306.14514) <br>
 Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
@@ -65,7 +65,7 @@ Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-7. Knowledge Graph-Augmented Korean Generative Commonsense Reasoning <br>
+7. [Knowledge Graph-Augmented Korean Generative Commonsense Reasoning](https://arxiv.org/abs/2306.14470) <br>
 Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
