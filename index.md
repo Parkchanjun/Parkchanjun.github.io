@@ -362,6 +362,7 @@ Year | Award
 2015.03 | Full Scholarship, BUFS
 
 ## Invited Talk
+
 Year | Place | Contents
 :-----:|-------|-------
 2023.07 | Jeju National University |  Real-World Artificial Intelligence and Large Language Model for Everyone
