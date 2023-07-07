@@ -159,6 +159,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. Doubts on the Reliability of Parallel Corpus Filtering <br>
+Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
+*Expert Systems With Applications, 2023* <br>
+
 1. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006) <br>
 Seungjun Lee, Jungseob Lee, Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *Mathematics, 2023* <br>
