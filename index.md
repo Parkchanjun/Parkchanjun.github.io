@@ -73,11 +73,11 @@ Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok
 Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-8. Improving Formality-Sensitive Machine Translation using Data-Centric Approaches and Prompt Engineering <br>
+8. [Improving Formality-Sensitive Machine Translation using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
 Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 *IWSLT 2023 - ACL 2023, 2023* <br>
 
-9. PEEP-Talk: A Situational Dialogue-based Chatbot for English Education <br>
+9. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
 Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Nugroho Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo Track, 2023* <br>
 
