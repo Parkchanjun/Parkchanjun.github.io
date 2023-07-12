@@ -23,7 +23,7 @@ Data-Centric AI, Machine Translation, Large Language Model (LLM)
 ## Academic Services
 * **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program committee**: [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
+* **Program committee**: [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 ## Publications
@@ -369,6 +369,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.07 | TensorFlow Korea LLM Day |  Language Model to Large Language Model
 2023.07 | Jeju National University |  Real-World Artificial Intelligence and Large Language Model for Everyone
 2023.06 | AI EDucation Alliance Policy lab (AIEDAP) |  Deep Learning Understanding and Practice
 2023.05 | KIDA (Korea Institute for Defense Analysis) |  Data-Centric AI in the Large Language Model Era
