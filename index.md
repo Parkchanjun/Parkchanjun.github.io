@@ -365,6 +365,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
 2023.07 | Jeju National University |  Real-World Artificial Intelligence and Large Language Model for Everyone
 2023.06 | AI EDucation Alliance Policy lab (AIEDAP) |  Deep Learning Understanding and Practice
