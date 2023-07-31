@@ -306,7 +306,7 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 6. Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same <br>
 HeuiSeok Lim, **Chanjun Park** <br>
-*Granted Patent (10-2021-0060914)* <br>
+*Granted Patent (10-2557810)* <br>
 
 7. METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION <br>
 HeuiSeok Lim, **Chanjun Park** <br>
@@ -367,6 +367,7 @@ Year | Award
 Year | Place | Contents
 :-----:|-------|-------
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
+2023.07 | POSCO RIST |  Data-Centric AI in Real-World
 2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
 2023.07 | Jeju National University |  Real-World Artificial Intelligence and Large Language Model for Everyone
