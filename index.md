@@ -329,13 +329,14 @@ HeuiSeok Lim, **Chanjun Park** <br>
 *Granted Patent (10-2430918)* <br>
 
 ## Teaching
-1. Finance Specialized Large Language Model for Everyone, Instructor, Upstage Online Course. (2023) <br>
-2. [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
-3. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
-4. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-5. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-6. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-7. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+1. [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
+2. Finance Specialized Large Language Model for Everyone, Instructor, Upstage Online Course. (2023) <br>
+3. [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
+4. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
+5. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+6. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+7. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+8. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
 
 ## Honors & Awards
 
@@ -366,6 +367,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.08 | Upstage Webinar |  [The Future of Finance/Insurance Transformed by Generative AI](https://www.upstage.ai/webinar/fintech-insuretech-genai?utm_source=starshare&utm_medium=share&utm_campaign=finwgenai&fbclid=IwAR3xI_mqqbYjUNzqSlNfCsGPK2ZgyRK_lIxsAmoA54kWZ6YiPE2Ce_LodBM)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
 2023.07 | POSCO RIST |  Data-Centric AI in Real-World
 2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
