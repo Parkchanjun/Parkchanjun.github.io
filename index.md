@@ -156,11 +156,15 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
+1. Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction <br>
+Seonmin Koo, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim   **(Equal Contribution(First Co-Author))**  <br>
+*IEEE Access, 2023*<br>
+
+2. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
 Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
 *Expert Systems With Applications, 2023* <br>
 
-1. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006) <br>
+3. [A Survey on Evaluation Metrics for Machine Translation](https://www.mdpi.com/2227-7390/11/4/1006) <br>
 Seungjun Lee, Jungseob Lee, Hyeonseok Moon, **Chanjun Park**, Jaehyung Seo, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *Mathematics, 2023* <br>
 
@@ -395,12 +399,13 @@ Year | Place | Contents
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
-## Advisor
+## Advisor & Mentoring
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.09 | [Ministry of Economy and Finance](https://english.moef.go.kr/) |  AI Data and Privacy Law
-2023.09 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model
+2023.09 | [Ministry of Economy and Finance](https://english.moef.go.kr/) |  AI Data and Privacy Law (Advisor)
+2023.09 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model (Advisor)
+2023.08 | [elice](https://ai-eduhackathon.imweb.me/) |  AI Edu Hackathon (Mentoring)
 
 ## Newspaper Article (Press)
 
