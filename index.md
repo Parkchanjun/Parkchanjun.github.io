@@ -295,7 +295,7 @@ HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
-*Apply for a patent (10-2021-0127438)* <br>
+*Granted Patent (10-2021-0127438)* <br>
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
@@ -375,8 +375,9 @@ Year | Award
 Year | Place | Contents
 :-----:|-------|-------
 2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
+2023.09 | Korea Institute of Patent Information |  From Language Model to Large Language Model (LLM) and Upstage LLM
 2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
-2023.09 | Hyndai Global Service(HGS) |  From Language Model to Large Language Model
+2023.08 | Hyndai Global Service (HGS) |  From Language Model to Large Language Model
 2023.08 | Upstage Webinar |  [The Future of Finance/Insurance Transformed by Generative AI](https://www.upstage.ai/webinar/fintech-insuretech-genai?utm_source=starshare&utm_medium=share&utm_campaign=finwgenai&fbclid=IwAR3xI_mqqbYjUNzqSlNfCsGPK2ZgyRK_lIxsAmoA54kWZ6YiPE2Ce_LodBM)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
 2023.07 | POSCO RIST |  Data-Centric AI in Real-World
@@ -403,20 +404,20 @@ Year | Place | Contents
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.09 | [Ministry of Economy and Finance](https://english.moef.go.kr/) |  AI Data and Privacy Law (Advisor)
-2023.09 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model (Advisor)
+2023.08 | [Ministry of Economy and Finance](https://english.moef.go.kr/) |  AI Data and Privacy Law (Advisor)
+2023.08 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model (Advisor)
 2023.08 | [elice](https://ai-eduhackathon.imweb.me/) |  AI Edu Hackathon (Mentoring)
 
 ## Newspaper Article (Press)
 
 Year | Headline | Press
 :-----:|-------|-------
-2023.08 | ["기업 맞춤용 챗GPT 쓰세요" 오픈AI 급하게 만든 이 숫자](https://www.joongang.co.kr/article/25186967#home) |  중앙일보
+2023.08 | [기업 맞춤용 챗GPT 쓰세요" 오픈AI 급하게 만든 이 숫자](https://www.joongang.co.kr/article/25186967#home) |  중앙일보
 2023.08 | [세계 1위 기술 증명...업스테이지에 '글로벌'은 도전 아닌 현실](https://www.aitimes.com/news/articleView.html?idxno=152958) |  AI TIMES
 2023.08 | [챗GPT 제친 업스테이지 박찬준 리더 "협업이 AI 시장서 성패 가를 것"](https://www.etoday.co.kr/news/view/2277082) |  이투데이
 2023.08 | [업스테이지, 금융권 특화 생성형AI 접목 노하우 공개한다](https://www.upstage.ai/newsroom/upstage-talks-financeai) |  뉴시스, 파이낸셜뉴스, 아시아투데이 등 다수 언론사
 2023.07 | [AI시대, 데이터의 시대/박찬준 업스테이지 AI 리서치 엔지니어](https://www.seoul.co.kr/news/newsView.php?id=20230725025004&wlog_tag3=naver) |  서울신문
-2023.07 | ['데이터 AI' 논문 7건, 세계적 학술지 채택](https://www.mk.co.kr/news/it/10792047) |  매일경제
+2023.07 | [데이터 AI 논문 7건, 세계적 학술지 채택](https://www.mk.co.kr/news/it/10792047) |  매일경제
 2023.06 | [업스테이지, 글로벌 머신러닝 AI 학회서 논문 7편 채택](https://www.sedaily.com/NewsView/29QYSOIXML) |  매일경제, 서울경제, 디지털투데이, 이코노믹리뷰 등 30개 이상 언론사
 2022.05 | [성장성·유연한 조직문화에 반했죠](https://www.sedaily.com/NewsView/265XEW0U0Z) |  서울경제
 
