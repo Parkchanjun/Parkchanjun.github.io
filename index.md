@@ -377,7 +377,7 @@ Year | Place | Contents
 2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
 2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
-2023.08 | Hyndai Global Service (HGS) |  Upstage LLM and latest B2B LLM trends
+2023.08 | HD Korea Shipbuilding & Offshore Engineering |  Upstage LLM and latest B2B LLM trends
 2023.08 | Upstage Webinar |  [The Future of Finance/Insurance Transformed by Generative AI](https://www.upstage.ai/webinar/fintech-insuretech-genai?utm_source=starshare&utm_medium=share&utm_campaign=finwgenai&fbclid=IwAR3xI_mqqbYjUNzqSlNfCsGPK2ZgyRK_lIxsAmoA54kWZ6YiPE2Ce_LodBM)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
 2023.07 | POSCO RIST |  Data-Centric AI in Real-World
