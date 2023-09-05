@@ -42,6 +42,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
+1. Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection <br>
+DaHyun Jung, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
+*IJCNLP-AACL 2023, 2023*<br>
+
 1. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
 **Chanjun Park**, Seonmin Koo, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
@@ -156,7 +160,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction <br>
+1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394) <br>
 Seonmin Koo, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim   **(Equal Contribution(First Co-Author))**  <br>
 *IEEE Access, 2023*<br>
 
@@ -295,7 +299,7 @@ HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
-*Granted Patent (10-2021-0127438)* <br>
+*Granted Patent (10-2574167)* <br>
 
 3. DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING <br>
 HeuiSeok Lim, Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo <br>
@@ -374,9 +378,11 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.09 | Korea University |  From Language Model to Large Language Model
 2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
 2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
+2023.09 | Fast Campus |  Job Employment Special Lecture
 2023.08 | HD Korea Shipbuilding & Offshore Engineering |  Upstage LLM and latest B2B LLM trends
 2023.08 | Upstage Webinar |  [The Future of Finance/Insurance Transformed by Generative AI](https://www.upstage.ai/webinar/fintech-insuretech-genai?utm_source=starshare&utm_medium=share&utm_campaign=finwgenai&fbclid=IwAR3xI_mqqbYjUNzqSlNfCsGPK2ZgyRK_lIxsAmoA54kWZ6YiPE2Ce_LodBM)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
@@ -411,6 +417,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.09 | [NIA, 글로벌 LLM 플랫폼 '업스테이지'와 국내 '초거대 언어 모델' 생태계 활성화에 기반 다진다!](https://www.aitimes.kr/news/articleView.html?idxno=28851) |  인공지능신문
+2023.09 | [한국어 데이터 토큰 1조개 함께 모으자](https://www.hani.co.kr/arti/economy/it/1106968.html) |  한겨레
 2023.08 | [기업 맞춤용 챗GPT 쓰세요" 오픈AI 급하게 만든 이 숫자](https://www.joongang.co.kr/article/25186967#home) |  중앙일보
 2023.08 | [세계 1위 기술 증명...업스테이지에 '글로벌'은 도전 아닌 현실](https://www.aitimes.com/news/articleView.html?idxno=152958) |  AI TIMES
 2023.08 | [챗GPT 제친 업스테이지 박찬준 리더 "협업이 AI 시장서 성패 가를 것"](https://www.etoday.co.kr/news/view/2277082) |  이투데이
