@@ -378,6 +378,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
 2023.09 | Korea University |  From Language Model to Large Language Model
 2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
