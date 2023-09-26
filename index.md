@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="chanjunpark.jpg">
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Model (LLM). He is currently working as an Technical Leader (TL) at <a href="https://www.upstage.ai/">Upstage</a> LLM Team.
-In 2023, he received Ph.D. from Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a> for the work on “Data-Centric Neural Machine Translation”. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>. He has published more than 150 papers in the field of NLP. See CV for more information.
+In 2023, he received Ph.D. from Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a> for the work on “Data-Centric Neural Machine Translation”. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a>. He has published more than 160 papers in the field of NLP. See CV for more information.
 
 ## Research Interest
 Large Language Model (LLM), Data-Centric AI, Machine Translation
@@ -42,6 +42,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
+1. Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse  <br>
+Seungyoon Lee, **Chanjun Park**, DaHyun Jung, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+*ICDM 2023 - The First Workshop on Data-Centric AI, 2023*<br>
+
 1. Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection <br>
 DaHyun Jung, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IJCNLP-AACL 2023, 2023*<br>
@@ -379,6 +383,8 @@ Year | Award
 Year | Place | Contents
 :-----:|-------|-------
 2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
+2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
+2023.09 | HD Korea Shipbuilding & Offshore Engineering |  Upstage and Private LLM
 2023.09 | Korea University |  From Language Model to Large Language Model
 2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
