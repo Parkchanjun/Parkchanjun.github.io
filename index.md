@@ -43,7 +43,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 
 ### Top Conference (Main / Workshop)
 1. Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse  <br>
-Seungyoon Lee, **Chanjun Park**, DaHyun Jung, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
+Seungyoon Lee, DaHyun Jung, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICDM 2023 - The First Workshop on Data-Centric AI, 2023*<br>
 
 1. Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection <br>
@@ -274,7 +274,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 
 ### International & Domestic Conference
 * **Domestic Journal (KCI)**: 20 papers <br>
-* **Domestic Conference**: 49 papers <br>
+* **Domestic Conference**: 57 papers <br>
 * **International Conference (Excluding Top-Conference)**: 30 papers <br>
 
 
