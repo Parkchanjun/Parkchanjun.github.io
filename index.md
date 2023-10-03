@@ -25,7 +25,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program committee**: [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
-* **Reviewer**: [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
+* **Reviewer**: [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 ## Publications
 ### Preprints 
@@ -164,6 +164,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model <br>
+Dahyun Jung, **Chanjun Park**, Sugyeong Eo, Heuiseok Lim <br>
+*Mathematics, 2023* <br>
+
 1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394) <br>
 Seonmin Koo, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim   **(Equal Contribution(First Co-Author))**  <br>
 *IEEE Access, 2023*<br>
