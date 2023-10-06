@@ -164,7 +164,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model <br>
+1. [Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model](https://www.mdpi.com/2227-7390/11/19/4169) <br>
 Dahyun Jung, **Chanjun Park**, Sugyeong Eo, Heuiseok Lim <br>
 *Mathematics, 2023* <br>
 
