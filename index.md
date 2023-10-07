@@ -361,6 +361,8 @@ HeuiSeok Lim, **Chanjun Park** <br>
 
 Year | Award
 :-----:|-------
+2023.10 | Best Paper Award, The 35th Annual Conference on Human & Cognitive Language Technology (HCLT2023) - Language Model 2 Section
+2023.10 | Best Paper Award, The 35th Annual Conference on Human & Cognitive Language Technology (HCLT2023) - Data Bias & Ethics Section
 2023.02 | Best Paper Award, Korea University
 2023.02 | Research Encouragement Scholarship, Korea University
 2022.12 | 1st place in Quality Estimation Shared Task 2022 - Sentence-level "Critical Error Detection", WMT 2022 (EMNLP 2022)
