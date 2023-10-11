@@ -438,6 +438,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.10 | [마커AI, 차트를 점령하다...최초 1위는 옴니어스닷AI](https://www.aitimes.com/news/articleView.html?idxno=154236) |  AI TIMES
 2023.09 | [NIA, 글로벌 LLM 플랫폼 '업스테이지'와 국내 '초거대 언어 모델' 생태계 활성화에 기반 다진다!](https://www.aitimes.kr/news/articleView.html?idxno=28851) |  인공지능신문
 2023.09 | [한국어 데이터 토큰 1조개 함께 모으자](https://www.hani.co.kr/arti/economy/it/1106968.html) |  한겨레
 2023.08 | [기업 맞춤용 챗GPT 쓰세요" 오픈AI 급하게 만든 이 숫자](https://www.joongang.co.kr/article/25186967#home) |  중앙일보
