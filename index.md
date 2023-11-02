@@ -54,7 +54,7 @@ Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuise
 Seungyoon Lee, DaHyun Jung, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICDM 2023 - The First Workshop on Data-Centric AI, 2023*<br>
 
-4. Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection <br>
+4. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.22.pdf) <br>
 DaHyun Jung, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IJCNLP-AACL 2023, 2023*<br>
 
@@ -287,7 +287,7 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 ### International & Domestic Conference
 * **Domestic Journal (KCI)**: 20 papers <br>
 * **Domestic Conference**: 57 papers <br>
-* **International Conference (Excluding Top-Conference)**: 30 papers <br>
+* **International Conference (Excluding Top-Conference)**: 34 papers <br>
 
 
 ### Book Chapters
@@ -427,6 +427,12 @@ Year | Place | Contents
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
+## External Activities
+
+Year | Place | Contents
+:-----:|-------|-------
+2023.10~ | [AI 프라이버시 민·관 정책협의회](https://www.youtube.com/watch?v=Z1GEsgLKzc4) |  3분과(투명성 확보)
+
 ## Advisor & Mentoring
 
 Year | Place | Contents
@@ -438,6 +444,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.10 | ['글로벌 AI 규범, 민·관이 함께!'... 개인정보위, ‘인공지능 프라이버시 민·관 정책협의회’ 출범](https://www.aitimes.kr/news/articleView.html?idxno=29251) |  AI TIMES 등 다수 언론사
+2023.10 | [인공지능 자연어처리 세계 최고 기술 기업으로...업스테이지, NLP 최고 권위 EMNLP 2023에 논문 2편 채택](https://www.aitimes.kr/news/articleView.html?idxno=29194) |  AI TIMES 등 다수 언론사
 2023.10 | [마커AI, 차트를 점령하다...최초 1위는 옴니어스닷AI](https://www.aitimes.com/news/articleView.html?idxno=154236) |  AI TIMES
 2023.09 | [NIA, 글로벌 LLM 플랫폼 '업스테이지'와 국내 '초거대 언어 모델' 생태계 활성화에 기반 다진다!](https://www.aitimes.kr/news/articleView.html?idxno=28851) |  인공지능신문
 2023.09 | [한국어 데이터 토큰 1조개 함께 모으자](https://www.hani.co.kr/arti/economy/it/1106968.html) |  한겨레
