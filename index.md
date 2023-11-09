@@ -311,7 +311,7 @@ HeuiSeok Lim, **Chanjun Park**<br>
 ### Domestic Patents
 1. DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION <br>
 HeuiSeok Lim, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon <br>
-*Apply for a patent (10-2021-0156657)* <br>
+*Granted Patent (10-2593447)* <br>
 
 2. APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION <br>
 **Chanjun Park**, HeuiSeok Lim <br>
@@ -396,6 +396,11 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.11 | Kyungpook National University  |  From Language Model to Large Language Model
+2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
+2023.11 | Jeju National University  |  Upstage LLM One Pager
+2023.11 | Busan University of Foreign Studies  |  From Language Model to Large Language Model
+2023.11 | Human-Inspired AI Research  |  Upstage LLM One Pager
 2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
 2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
 2023.09 | HD Korea Shipbuilding & Offshore Engineering |  Upstage and Private LLM
