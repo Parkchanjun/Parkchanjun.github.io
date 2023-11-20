@@ -396,7 +396,8 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.11 | Kyungpook National University  |  From Language Model to Large Language Model
+2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/main/main.php)
+2023.11 | Kyungpook National University  |  Upstage LLM One Pager
 2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
 2023.11 | Jeju National University  |  Upstage LLM One Pager
 2023.11 | Busan University of Foreign Studies  |  From Language Model to Large Language Model
@@ -449,6 +450,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.11 | [강화학습법 'DPO', 'RLHF' 대안으로 인기...마커AI 1위 탈환](https://www.aitimes.com/news/articleView.html?idxno=155284) |  AI TIMES
 2023.10 | ['글로벌 AI 규범, 민·관이 함께!'... 개인정보위, ‘인공지능 프라이버시 민·관 정책협의회’ 출범](https://www.aitimes.kr/news/articleView.html?idxno=29251) |  AI TIMES 등 다수 언론사
 2023.10 | [인공지능 자연어처리 세계 최고 기술 기업으로...업스테이지, NLP 최고 권위 EMNLP 2023에 논문 2편 채택](https://www.aitimes.kr/news/articleView.html?idxno=29194) |  AI TIMES 등 다수 언론사
 2023.10 | [마커AI, 차트를 점령하다...최초 1위는 옴니어스닷AI](https://www.aitimes.com/news/articleView.html?idxno=154236) |  AI TIMES
