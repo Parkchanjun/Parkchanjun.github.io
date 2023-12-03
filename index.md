@@ -25,7 +25,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program committee**: [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
-* **Reviewer**: [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
+* **Reviewer**: [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 ## Publications
 ### Preprints 
@@ -396,11 +396,13 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/main/main.php)
+2023.12 | Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability |  Upstage’s Vision for Ethical and Trustworthy Large Language Models
+2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/sub02/sub04.php)
 2023.11 | Kyungpook National University  |  Upstage LLM One Pager
 2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
 2023.11 | Jeju National University  |  Upstage LLM One Pager
 2023.11 | Busan University of Foreign Studies  |  From Language Model to Large Language Model
+2023.11 | KB Kookmin Bank  |  Areas of Generative AI Application in Business
 2023.11 | Human-Inspired AI Research  |  Upstage LLM One Pager
 2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
 2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
@@ -443,6 +445,7 @@ Year | Place | Contents
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.12 | [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do) |  National Institute of the Korean Language Project  (Advisor)
 2023.08 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model (Advisor)
 2023.08 | [elice](https://ai-eduhackathon.imweb.me/) |  AI Edu Hackathon (Mentoring)
 
@@ -450,6 +453,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.12 | [떠오르는 '미스트랄 7B'...'라마 2' 이어 한국어 모델 세대교체 주도](https://www.aitimes.com/news/articleView.html?idxno=155624) |  AI TIMES
+2023.11 | [논문 쓰는 회사들… AI 기술기업들 유력 저널에 게재](https://n.news.naver.com/article/081/0003411469?sid=101) |  서울신문
 2023.11 | [강화학습법 'DPO', 'RLHF' 대안으로 인기...마커AI 1위 탈환](https://www.aitimes.com/news/articleView.html?idxno=155284) |  AI TIMES
 2023.10 | ['글로벌 AI 규범, 민·관이 함께!'... 개인정보위, ‘인공지능 프라이버시 민·관 정책협의회’ 출범](https://www.aitimes.kr/news/articleView.html?idxno=29251) |  AI TIMES 등 다수 언론사
 2023.10 | [인공지능 자연어처리 세계 최고 기술 기업으로...업스테이지, NLP 최고 권위 EMNLP 2023에 논문 2편 채택](https://www.aitimes.kr/news/articleView.html?idxno=29194) |  AI TIMES 등 다수 언론사
