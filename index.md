@@ -405,6 +405,7 @@ Year | Place | Contents
 2023.11 | KB Kookmin Bank  |  Areas of Generative AI Application in Business
 2023.11 | Human-Inspired AI Research  |  Upstage LLM One Pager
 2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
+2023.09 | Woongjin Thinkbig |  Upstage LLM One Pager
 2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
 2023.09 | HD Korea Shipbuilding & Offshore Engineering |  Upstage and Private LLM
 2023.09 | Korea University |  From Language Model to Large Language Model
