@@ -42,12 +42,16 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
-1. KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing  <br>
+1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  **(Equal Contribution(First Co-Author))** <br>
 *EMNLP 2023, 2023* <br>
 
-2. CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients  <br>
+2. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/)  <br>
 Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuiseok Lim <br>
+*EMNLP 2023, 2023* <br>
+
+3. [Proceedings of the Seventh Widening NLP Workshop (WiNLP 2023)](https://aclanthology.org/2023.winlp-1.0/) <br>
+Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**
 *EMNLP 2023, 2023* <br>
 
 3. Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse  <br>
@@ -396,7 +400,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2023.12 | Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability |  Upstage’s Vision for Ethical and Trustworthy Large Language Models
+2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
 2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/sub02/sub04.php)
 2023.11 | Kyungpook National University  |  Upstage LLM One Pager
 2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
@@ -454,6 +458,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.12 | [구글 '제미나이'로 AI 공세…평가는 “글쎄”](https://n.news.naver.com/mnews/article/030/0003163809?sid=105) |  전자신문
 2023.12 | [떠오르는 '미스트랄 7B'...'라마 2' 이어 한국어 모델 세대교체 주도](https://www.aitimes.com/news/articleView.html?idxno=155624) |  AI TIMES
 2023.11 | [논문 쓰는 회사들… AI 기술기업들 유력 저널에 게재](https://n.news.naver.com/article/081/0003411469?sid=101) |  서울신문
 2023.11 | [강화학습법 'DPO', 'RLHF' 대안으로 인기...마커AI 1위 탈환](https://www.aitimes.com/news/articleView.html?idxno=155284) |  AI TIMES
