@@ -400,6 +400,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2023.12 | Seoul Metropolitan Office of Education-AI & Digital Education Conference |  Reset Moment by Large Language Model
 2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
 2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/sub02/sub04.php)
 2023.11 | Kyungpook National University  |  Upstage LLM One Pager
@@ -458,6 +459,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2023.12 | [업스테이지 연구진, '초거대 언어모델 연구 동향' 이라는 한국어 LLM 서베이 논문 공개](https://www.aitimes.kr/news/articleView.html?idxno=29669) |  인공지능 신문
+2023.12 | [구글 건재 보여준 AI ‘제미나이’… 전문가 “GPT-4 능가하진 않아”](https://www.munhwa.com/news/view.html?no=2023120801071407275001) |  문화일보
 2023.12 | [구글 '제미나이'로 AI 공세…평가는 “글쎄”](https://n.news.naver.com/mnews/article/030/0003163809?sid=105) |  전자신문
 2023.12 | [떠오르는 '미스트랄 7B'...'라마 2' 이어 한국어 모델 세대교체 주도](https://www.aitimes.com/news/articleView.html?idxno=155624) |  AI TIMES
 2023.11 | [논문 쓰는 회사들… AI 기술기업들 유력 저널에 게재](https://n.news.naver.com/article/081/0003411469?sid=101) |  서울신문
