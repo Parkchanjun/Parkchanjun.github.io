@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Model (LLM). He is currently working as an Technical Leader (TL) at <a href="https://www.upstage.ai/">Upstage</a> LLM Team.
-In 2023, he received Ph.D. from Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a> for the work on “Data-Centric Neural Machine Translation”. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 160 papers in the field of NLP. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Model (LLM). He is currently working as an Technical Leader (TL) at <a href="https://www.upstage.ai/">Upstage</a> LLM Team. He is currently interested in forming an LLM-based ecosystem and has created initiatives such as the <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a> and the <a href="https://en.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received Ph.D. from Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a> for the work on “Data-Centric Neural Machine Translation”. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 160 papers in the field of NLP. See CV for more information.
 
 ## Research Interest
 Large Language Model (LLM), Data-Centric AI, Machine Translation
@@ -22,11 +21,18 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
 ## Academic Services
-* **Program Chair**: [Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
-* **Publication Chair**: [Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
+* **Program Chair**: [EMNLP 2023-Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
+* **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program committee**: [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
 * **Reviewer**: [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
+
+
+## External Activities
+* **Committee Member**: [AI Privacy Public-Private Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
+* **Advisor**: [식약처 (Ministry of Food and Drug Safety)](https://www.mfds.go.kr/index.do), 2023.12~ <br>
+* **Advisor**: [연세대학교 언어정보연구원 (Yonsei University-Institute of Language and Information Studies)](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
+* **Advisor**: [소프트웨어정책연구소 (Software Policy & Research Institute)](https://spri.kr/), 2023.08 <br>
 
 ## Publications
 ### Preprints 
@@ -442,21 +448,6 @@ Year | Place | Contents
 2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translation, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
-
-## External Activities
-
-Year | Organization | Contents
-:-----:|-------|-------
-2023.10~ | [AI 프라이버시 민·관 정책협의회](https://www.youtube.com/watch?v=Z1GEsgLKzc4) |  3분과(투명성 확보)
-
-## Advisor & Mentoring
-
-Year | Organization | Contents
-:-----:|-------|-------
-2023.12 | [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do) | Generative AI  (Advisor)
-2023.12 | [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do) |  National Institute of the Korean Language Project  (Advisor)
-2023.08 | [Software Policy & Research Institute](https://spri.kr/) |  Generative AI, Large Language Model (Advisor)
-2023.08 | [elice](https://ai-eduhackathon.imweb.me/) |  AI Edu Hackathon (Mentoring)
 
 ## Newspaper Article (Press)
 
