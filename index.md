@@ -29,10 +29,10 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 
 ## External Activities
-* **Committee Member**: [AI Privacy Public-Private Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
-* **Advisor**: [식약처 (Ministry of Food and Drug Safety)](https://www.mfds.go.kr/index.do), 2023.12~ <br>
-* **Advisor**: [연세대학교 언어정보연구원 (Yonsei University-Institute of Language and Information Studies)](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
-* **Advisor**: [소프트웨어정책연구소 (Software Policy & Research Institute)](https://spri.kr/), 2023.08 <br>
+* **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
+* **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
+* **Advisor**: [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
+* **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
 
 ## Publications
 ### Preprints 
