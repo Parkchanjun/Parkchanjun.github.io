@@ -30,6 +30,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## External Activities
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
+* **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01 <br>
 * **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
 * **Advisor**: [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
 * **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
@@ -411,6 +412,8 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Upstage LLM One Pager
+2024.01 | National Library of Korea  |  Upstage LLM One Pager
 2023.12 | Ministry of Science and ICT - Data Utilization Council  |  Upstage LLM One Pager
 2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
 2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
@@ -457,6 +460,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.01 | [버티컬 시장에 쏠리는 눈...AI발 M&A 슈퍼사이클 열린다](https://www.etoday.co.kr/news/view/2318763) |  이투데이
 2023.12 | [과기정통부, 제4회 AI 데이터 활용협의회 개최](https://www.asiatoday.co.kr/view.php?key=20231221010012919) |  아시아투데이 등 다수 언론사
 2023.12 | [서울교육청, 16일 'AI·디지털 교육 컨퍼런스' 개최](https://www.edaily.co.kr/news/read?newsId=02341926635838520&mediaCodeNo=257&OutLnkChk=Y) |  이데일리 등 다수 언론사
 2023.12 | [업스테이지 연구진, '초거대 언어모델 연구 동향' 이라는 한국어 LLM 서베이 논문 공개](https://www.aitimes.kr/news/articleView.html?idxno=29669) |  인공지능 신문
