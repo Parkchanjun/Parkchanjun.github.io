@@ -54,6 +54,14 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
+1. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing  <br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
+*EACL 2024 (Findings of EACL 2024)., 2024* <br>
+
+1. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation  <br>
+Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
+*EACL 2024 (Findings of EACL 2024)., 2024* <br>
+
 1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  **(Equal Contribution(First Co-Author))** <br>
 *EMNLP 2023, 2023* <br>
@@ -412,7 +420,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Upstage LLM One Pager
+2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Current State of Artificial Intelligence (AI) and Its Application Strategies in the Defense Sector
 2024.01 | National Library of Korea  |  Upstage LLM One Pager
 2023.12 | Ministry of Science and ICT - Data Utilization Council  |  Upstage LLM One Pager
 2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
