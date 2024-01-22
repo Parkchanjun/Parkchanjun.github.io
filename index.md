@@ -420,6 +420,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.01 | [Center for Data-Driven Discovery](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Current State of Artificial Intelligence (AI) and Its Application Strategies in the Defense Sector
 2024.01 | National Library of Korea  |  Upstage LLM One Pager
 2023.12 | Ministry of Science and ICT - Data Utilization Council  |  Upstage LLM One Pager
