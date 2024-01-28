@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Model (LLM). He is currently working as an Technical Leader (TL) at <a href="https://www.upstage.ai/">Upstage</a> LLM Team. He is currently interested in forming an LLM-based ecosystem and has created initiatives such as the <a href="https://arxiv.org/abs/2312.15166">SOLAR</a>, <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a> and the <a href="https://en.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received Ph.D. from Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a> for the work on “Data-Centric Neural Machine Translation”. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and leader of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 160 papers in the field of NLP. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Models (LLM). He is currently working as a Technical Leader (TL) at the <a href="https://www.upstage.ai/">Upstage</a> LLM Team. His current interests include forming an LLM-based ecosystem, and he has initiated projects such as <a href="https://arxiv.org/abs/2312.15166">SOLAR</a>, the <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a>, and the <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and chief scientist of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 170 papers in the field of NLP. See CV for more information.
 
 ## Research Interest
 Large Language Model (LLM), Data-Centric AI, Machine Translation
@@ -56,11 +56,11 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 ### Top Conference (Main / Workshop)
 1. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
-*EACL 2024 (Findings of EACL 2024)., 2024* <br>
+*EACL 2024 (Findings of EACL 2024), 2024* <br>
 
 1. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation  <br>
 Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
-*EACL 2024 (Findings of EACL 2024)., 2024* <br>
+*EACL 2024 (Findings of EACL 2024), 2024* <br>
 
 1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  **(Equal Contribution(First Co-Author))** <br>
@@ -308,8 +308,8 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
-### International & Domestic Conference
-* **Domestic Journal (KCI)**: 20 papers <br>
+### KCI / International & Domestic Conference
+* **Domestic Journal (KCI)**: 21 papers <br>
 * **Domestic Conference**: 57 papers <br>
 * **International Conference (Excluding Top-Conference)**: 34 papers <br>
 
@@ -420,6 +420,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.02 | FuriosaAI  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | [The University of Tokyo - Center for Data-Driven Discovery](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Current State of Artificial Intelligence (AI) and Its Application Strategies in the Defense Sector
 2024.01 | National Library of Korea  |  Upstage LLM One Pager
