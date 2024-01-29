@@ -74,7 +74,7 @@ Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuise
 Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
 *EMNLP 2023, 2023* <br>
 
-3. Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse  <br>
+3. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://arxiv.org/abs/2401.14616)  <br>
 Seungyoon Lee, DaHyun Jung, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICDM 2023 - The First Workshop on Data-Centric AI, 2023*<br>
 
@@ -102,7 +102,7 @@ Damrin Kim, NamHyeok Kim, **Chanjun Park** **(Corresponding Author)**, Harksoo K
 Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
-10. Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline <br>
+10. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
 Seonmin Koo, **Chanjun Park**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop, 2023*<br>
 
