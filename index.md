@@ -431,7 +431,7 @@ Year | Place | Contents
 2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/sub02/sub04.php)
 2023.11 | Kyungpook National University  |  Upstage LLM One Pager
 2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
-2023.11 | Jeju National University  |  Upstage LLM One Pager
+2023.11 | Jeju National University - Guest lecture  |  Upstage LLM One Pager
 2023.11 | Busan University of Foreign Studies  |  From Language Model to Large Language Model
 2023.11 | KB Kookmin Bank  |  Areas of Generative AI Application in Business
 2023.11 | Human-Inspired AI Research  |  Upstage LLM One Pager
@@ -439,8 +439,8 @@ Year | Place | Contents
 2023.09 | Woongjin Thinkbig |  Upstage LLM One Pager
 2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
 2023.09 | HD Korea Shipbuilding & Offshore Engineering |  Upstage and Private LLM
-2023.09 | Korea University |  From Language Model to Large Language Model
-2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
+2023.09 | Korea University - Guest lecture |  From Language Model to Large Language Model
+2023.09 | HanYang University - Guest lecture |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
 2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
 2023.09 | Fast Campus |  Job Employment Special Lecture
