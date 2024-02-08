@@ -420,6 +420,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.02 | Fast Campus |  Job Employment Special Lecture
 2024.02 | FuriosaAI  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | [The University of Tokyo - Center for Data-Driven Discovery](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Current State of Artificial Intelligence (AI) and Its Application Strategies in the Defense Sector
