@@ -480,6 +480,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.02 | [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](https://huggingface.co/blog/leaderboards-on-the-hub-upstage) |  Hugging Face
 2024.02 | [Ko-LLM 리더보드, 5개월간 대성공...확장·전환 통해 실사용 도움 될 것](https://www.aitimes.com/news/articleView.html?idxno=157075) |  AI TIMES
 2024.01 | [버티컬 시장에 쏠리는 눈...AI발 M&A 슈퍼사이클 열린다](https://www.etoday.co.kr/news/view/2318763) |  이투데이
 2023.12 | [과기정통부, 제4회 AI 데이터 활용협의회 개최](https://www.asiatoday.co.kr/view.php?key=20231221010012919) |  아시아투데이 등 다수 언론사
