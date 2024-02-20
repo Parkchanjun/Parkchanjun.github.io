@@ -54,6 +54,14 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
+1. Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean  <br>
+Seungyoon Lee, **Chanjun Park** **(Corresponding Author)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Corresponding Author)** <br>
+*LREC-COLING 2024, 2024* <br>
+
+1. KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation  <br>
+Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
+*LREC-COLING 2024, 2024* <br>
+
 1. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
 *EACL 2024 (Findings of EACL 2024), 2024* <br>
@@ -74,7 +82,7 @@ Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuise
 Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
 *EMNLP 2023, 2023* <br>
 
-3. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://arxiv.org/abs/2401.14616)  <br>
+3. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
 Seungyoon Lee, DaHyun Jung, **Chanjun Park**, Seolhwa Lee, Heuiseok Lim **(Equal Contribution(First Co-Author))** <br>
 *ICDM 2023 - The First Workshop on Data-Centric AI, 2023*<br>
 
@@ -420,6 +428,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.02 | Korea University College of Medicine - Intelligent Medical Data Lab | SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.02 | Fast Campus |  Job Employment Special Lecture
 2024.02 | FuriosaAI  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | [The University of Tokyo - Center for Data-Driven Discovery](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
@@ -471,6 +480,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.02 | [Ko-LLM 리더보드, 5개월간 대성공...확장·전환 통해 실사용 도움 될 것](https://www.aitimes.com/news/articleView.html?idxno=157075) |  AI TIMES
 2024.01 | [버티컬 시장에 쏠리는 눈...AI발 M&A 슈퍼사이클 열린다](https://www.etoday.co.kr/news/view/2318763) |  이투데이
 2023.12 | [과기정통부, 제4회 AI 데이터 활용협의회 개최](https://www.asiatoday.co.kr/view.php?key=20231221010012919) |  아시아투데이 등 다수 언론사
 2023.12 | [서울교육청, 16일 'AI·디지털 교육 컨퍼런스' 개최](https://www.edaily.co.kr/news/read?newsId=02341926635838520&mediaCodeNo=257&OutLnkChk=Y) |  이데일리 등 다수 언론사
