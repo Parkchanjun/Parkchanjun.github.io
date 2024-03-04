@@ -24,7 +24,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Program Chair**: [EMNLP 2023-Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program committee**: [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [EACL 2023](https://2023.eacl.org/), [EACL 2023-Insights](https://insights-workshop.github.io/index), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf), Reviewer of ARR (2022~Current)  <br>
+* **Program committee**: Reviewer of [ACL Rolling Review](https://aclrollingreview.org/people) (2022~Current), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
 * **Reviewer**: [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 
@@ -54,6 +54,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
+1. Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism  <br>
+**Chanjun Park**, Minsoo Khang, Dahyun Kim <br>
+*ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop, 2024*<br>
+
 1. Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean  <br>
 Seungyoon Lee, **Chanjun Park** **(Corresponding Author)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Corresponding Author)** <br>
 *LREC-COLING 2024, 2024* <br>
