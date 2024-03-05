@@ -54,7 +54,7 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### Top Conference (Main / Workshop)
-1. Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism  <br>
+1. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
 **Chanjun Park**, Minsoo Khang, Dahyun Kim <br>
 *ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop, 2024*<br>
 
