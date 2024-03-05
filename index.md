@@ -485,6 +485,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.02 | [사임 압박에 소송전까지…'AI 패권' 두고 쟁탈전](https://n.news.naver.com/mnews/article/055/0001135904?sid=101) | SBS
 2024.02 | [포브스코리아 30세 미만 30인 2024 (5) SCIENCE/SW ](https://jmagazine.joins.com/forbes/view/339290) |  Forbes Korea
 2024.02 | [포브스코리아 30세 미만 30인 2024](https://jmagazine.joins.com/forbes/view/339285) |  Forbes Korea
 2024.02 | [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](https://huggingface.co/blog/leaderboards-on-the-hub-upstage) |  Hugging Face
