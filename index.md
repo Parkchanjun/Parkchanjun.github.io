@@ -485,6 +485,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.03 | [업스테이지, 데이터 전처리 메커니즘 ‘데이터버스’ 오픈 소스 공개](https://www.aitimes.com/news/articleView.html?idxno=157776) | AI TIMES
 2024.03 | [이세영 뤼튼 대표 등 AI 전문가 5인, 포브스코리아 '30세 미만 30인' 선정](https://www.aitimes.com/news/articleView.html?idxno=157738) | AI TIMES
 2024.03 | [사임 압박에 소송전까지…'AI 패권' 두고 쟁탈전](https://n.news.naver.com/mnews/article/055/0001135904?sid=101) | SBS
 2024.02 | [포브스코리아 30세 미만 30인 2024 (5) SCIENCE/SW ](https://jmagazine.joins.com/forbes/view/339290) |  Forbes Korea
