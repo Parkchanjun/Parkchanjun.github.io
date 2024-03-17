@@ -66,11 +66,11 @@ Seungyoon Lee, **Chanjun Park** **(Corresponding Author)**, DaHyun Jung, Hyeonse
 Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *LREC-COLING 2024, 2024* <br>
 
-1. Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing  <br>
+1. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
 *EACL 2024 (Findings of EACL 2024), 2024* <br>
 
-1. Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation  <br>
+1. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
 Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
 *EACL 2024 (Findings of EACL 2024), 2024* <br>
 
