@@ -485,6 +485,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.03 | [AI 끝판왕 ‘AGI’ 위한 3박자…전문가들 의견 봤더니](https://www.epnc.co.kr/news/articleView.html?idxno=241372) | Tech World News
 2024.03 | [업스테이지, 데이터 전처리 메커니즘 ‘데이터버스’ 오픈 소스 공개](https://www.aitimes.com/news/articleView.html?idxno=157776) | AI TIMES
 2024.03 | [이세영 뤼튼 대표 등 AI 전문가 5인, 포브스코리아 '30세 미만 30인' 선정](https://www.aitimes.com/news/articleView.html?idxno=157738) | AI TIMES
 2024.03 | [사임 압박에 소송전까지…'AI 패권' 두고 쟁탈전](https://n.news.naver.com/mnews/article/055/0001135904?sid=101) | SBS
