@@ -479,10 +479,11 @@ Year | Place | Contents
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
-## Newspaper Article (Press)
+## Media Coverages (Press, Blog)
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.03 | [데이터 처리에 관한 모든 것, 데이터버스의 오픈 소스](https://www.upstage.ai/feed/tech/dataverse-preprocessing-open-source) | Upstage Tech Blog
 2024.03 | [AI 끝판왕 ‘AGI’ 위한 3박자…전문가들 의견 봤더니](https://www.epnc.co.kr/news/articleView.html?idxno=241372) | Tech World News
 2024.03 | [업스테이지, 데이터 전처리 메커니즘 ‘데이터버스’ 오픈 소스 공개](https://www.aitimes.com/news/articleView.html?idxno=157776) | AI TIMES
 2024.03 | [이세영 뤼튼 대표 등 AI 전문가 5인, 포브스코리아 '30세 미만 30인' 선정](https://www.aitimes.com/news/articleView.html?idxno=157738) | AI TIMES
@@ -498,6 +499,8 @@ Year | Headline | Press
 2023.12 | [구글 건재 보여준 AI ‘제미나이’… 전문가 “GPT-4 능가하진 않아”](https://www.munhwa.com/news/view.html?no=2023120801071407275001) |  문화일보
 2023.12 | [구글 '제미나이'로 AI 공세…평가는 “글쎄”](https://n.news.naver.com/mnews/article/030/0003163809?sid=105) |  전자신문
 2023.12 | [떠오르는 '미스트랄 7B'...'라마 2' 이어 한국어 모델 세대교체 주도](https://www.aitimes.com/news/articleView.html?idxno=155624) |  AI TIMES
+2023.12 | [LLM 리더보드? 한국에는 ‘Open Ko-LLM’이 있다! ](https://www.youtube.com/watch?v=1404IlP6V5E) |  Upstage Youtube
+2023.12 | [한국어 AI 경쟁력을 강화하는 ‘Open Ko-LLM 리더보드’](https://www.content.upstage.ai/blog/people/open-ko-llm-leaderboard-interview) |  Upstage Tech Blog
 2023.11 | [논문 쓰는 회사들… AI 기술기업들 유력 저널에 게재](https://n.news.naver.com/article/081/0003411469?sid=101) |  서울신문
 2023.11 | [강화학습법 'DPO', 'RLHF' 대안으로 인기...마커AI 1위 탈환](https://www.aitimes.com/news/articleView.html?idxno=155284) |  AI TIMES
 2023.10 | ['글로벌 AI 규범, 민·관이 함께!'... 개인정보위, ‘인공지능 프라이버시 민·관 정책협의회’ 출범](https://www.aitimes.kr/news/articleView.html?idxno=29251) |  AI TIMES 등 다수 언론사
@@ -512,6 +515,10 @@ Year | Headline | Press
 2023.07 | [AI시대, 데이터의 시대/박찬준 업스테이지 AI 리서치 엔지니어](https://www.seoul.co.kr/news/newsView.php?id=20230725025004&wlog_tag3=naver) |  서울신문
 2023.07 | [데이터 AI 논문 7건, 세계적 학술지 채택](https://www.mk.co.kr/news/it/10792047) |  매일경제
 2023.06 | [업스테이지, 글로벌 머신러닝 AI 학회서 논문 7편 채택](https://www.sedaily.com/NewsView/29QYSOIXML) |  매일경제, 서울경제, 디지털투데이, 이코노믹리뷰 등 30개 이상 언론사
+2023.04 | [Data-Centric AI 관점으로 재해석하는 자연언어처리 기반 History of AI](https://www.content.upstage.ai/blog/tech/reinterpreting-the-history-of-nlp-based-ai-through-a-data-centric-perspective) |  Upstage Tech Blog
+2023.04 | [DMOps(Data Management Operation and Recipes), 현업에서 데이터 구축하기](https://www.content.upstage.ai/blog/tech/dmops-data-management-operation-and-recipes) |  Upstage Tech Blog
+2023.04 | [Data-Centric AI와 Real-World](https://www.content.upstage.ai/blog/tech/data-centric-ai-in-the-real-world) |  Upstage Tech Blog
+2023.04 | [AI·DATA SUMMIT 2023-Real-World Centric AI](https://www.youtube.com/watch?v=20NXHKGV3uI&t=1305s) |  allshow TV Youtube
 2022.05 | [성장성·유연한 조직문화에 반했죠](https://www.sedaily.com/NewsView/265XEW0U0Z) |  서울경제
 
 <br><br><br>
