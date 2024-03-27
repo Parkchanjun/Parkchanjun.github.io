@@ -24,7 +24,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Program Chair**: [EMNLP 2023-Widening NLP (WiNLP) Workshop](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
+* **Program committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
 * **Reviewer**: [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 
@@ -483,6 +483,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.03 | [Story Pack - 박찬준](https://techcntlab.com/story-pack/%EA%B4%91%EA%B8%B0%EC%9D%98-ai-%EB%85%BC%EB%AC%B8%EB%A8%B8%EC%8B%A0-%EB%B0%95%EC%B0%AC%EC%A4%80-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%8C%A9-%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/) | 디지털 데일리 콘텐츠랩
 2024.03 | [데이터 처리에 관한 모든 것, 데이터버스의 오픈 소스](https://www.upstage.ai/feed/tech/dataverse-preprocessing-open-source) | Upstage Tech Blog
 2024.03 | [AI 끝판왕 ‘AGI’ 위한 3박자…전문가들 의견 봤더니](https://www.epnc.co.kr/news/articleView.html?idxno=241372) | Tech World News
 2024.03 | [업스테이지, 데이터 전처리 메커니즘 ‘데이터버스’ 오픈 소스 공개](https://www.aitimes.com/news/articleView.html?idxno=157776) | AI TIMES
