@@ -37,10 +37,6 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## Publications
 ### Preprints 
-1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
-Dahyun Kim, **Chanjun Park**, Sanghoon Kim, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim **(Equal Contribution(First Co-Author), Corresponding Author)** <br>
-*arxiv, 2023*<br>
-
 1. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
 **Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *arxiv, 2023*<br>
@@ -54,6 +50,10 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 *arxiv, 2022*<br>
 
 ### International Conference (Main / Workshop)
+1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
+Sanghoon Kim, Dahyun Kim, **Chanjun Park**, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim **(Equal Contribution(First Co-Author), Corresponding Author)** <br>
+*NAACL 2024 Industry Track, 2024*<br>
+
 1. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
 **Chanjun Park**, Minsoo Khang, Dahyun Kim <br>
 *ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop, 2024*<br>
