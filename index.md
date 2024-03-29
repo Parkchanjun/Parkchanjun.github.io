@@ -491,6 +491,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.03 | ["1000명 '레드팀' 공격 막자"…한국 대표 AI, 맹훈련 나선다](https://news.mt.co.kr/mtview.php?no=2024032812322053453) | 머니 투데이
+2024.03 | [업스테이지 솔라 논문, 자연어 처리 학회 ‘NAACL’ 채택](https://www.yna.co.kr/view/AKR20240329048800017?input=1195m) | 연합뉴스 외 다수 언론사
 2024.03 | [Story Pack - 박찬준](https://techcntlab.com/story-pack/%EA%B4%91%EA%B8%B0%EC%9D%98-ai-%EB%85%BC%EB%AC%B8%EB%A8%B8%EC%8B%A0-%EB%B0%95%EC%B0%AC%EC%A4%80-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%8C%A9-%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/) | 디지털 데일리 콘텐츠랩
 2024.03 | [데이터 처리에 관한 모든 것, 데이터버스의 오픈 소스](https://www.upstage.ai/feed/tech/dataverse-preprocessing-open-source) | Upstage Tech Blog
 2024.03 | [AI 끝판왕 ‘AGI’ 위한 3박자…전문가들 의견 봤더니](https://www.epnc.co.kr/news/articleView.html?idxno=241372) | Tech World News
