@@ -37,6 +37,14 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## Publications
 ### Preprints 
+1. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
+Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park** **(Corresponding Author)**<br>
+*arxiv, 2024*<br>
+
+1. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
+Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park** **(Corresponding Author)**<br>
+*arxiv, 2024*<br>
+
 1. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
 **Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *arxiv, 2023*<br>
