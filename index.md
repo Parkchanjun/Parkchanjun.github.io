@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Models (LLM). He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a> LLM Team. His current interests include forming an LLM-based ecosystem, and he has initiated projects such as <a href="https://arxiv.org/abs/2312.15166">SOLAR</a>, <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a>, <a href="https://github.com/UpstageAI/dataverse/">Dataverse</a> and <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and chief scientist of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 170 papers in the field of NLP. Finally, he is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Data-Centric AI, Machine Translation and Large Language Models (LLM). He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a> LLM Team. His current interests include forming an LLM-based ecosystem, and he has initiated projects such as <a href="https://arxiv.org/abs/2312.15166">SOLAR</a>, <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a>, <a href="https://github.com/UpstageAI/dataverse/">Dataverse</a>,  <a href="https://github.com/UpstageAI/evalverse">Evalverse</a> and <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and chief scientist of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, and is currently serving as the Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 170 papers in the field of NLP. Finally, he is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
 
 ## Research Interest
 Large Language Model (LLM), Data-Centric AI, Machine Translation
@@ -29,14 +29,21 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 
 ## External Activities
+* **Committee Member**: [AI Ethics and trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
 * **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01 <br>
 * **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
 * **Advisor**: [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
 * **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
 
+
+
 ## Publications
 ### Preprints 
+1. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://arxiv.org/abs/2404.00943) <br>
+Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park** **(Corresponding Author)**<br>
+*arxiv, 2024*<br>
+
 1. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
 Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park** **(Corresponding Author)**<br>
 *arxiv, 2024*<br>
@@ -491,6 +498,9 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [Upstage AI Introduces Dataverse for Addressing Challenges in Data Processing for Large Language Models](https://www.marktechpost.com/2024/04/01/upstage-ai-introduces-dataverse-for-addressing-challenges-in-data-processing-for-large-language-models/) | Marktechpost Media
+2024.04 | [Teaching SOLAR to Shine: How Upstage AI’s sDPO Aligns Language Models with Human Values](https://www.marktechpost.com/2024/03/31/teaching-solar-to-shine-how-upstage-ais-sdpo-aligns-language-models-with-human-values/) | Marktechpost Media
+2024.04 | [20대에 180편 썼다...'AI 논문머신' 박찬준 이야기 [스토리팩-업스테이지⑤]](https://www.ddaily.co.kr/page/view/2024040110213094382) | 디지털 데일리
 2024.03 | ["1000명 '레드팀' 공격 막자"…한국 대표 AI, 맹훈련 나선다](https://news.mt.co.kr/mtview.php?no=2024032812322053453) | 머니 투데이
 2024.03 | [업스테이지 솔라 논문, 자연어 처리 학회 ‘NAACL’ 채택](https://www.yna.co.kr/view/AKR20240329048800017?input=1195m) | 연합뉴스 외 다수 언론사
 2024.03 | [Story Pack - 박찬준](https://techcntlab.com/story-pack/%EA%B4%91%EA%B8%B0%EC%9D%98-ai-%EB%85%BC%EB%AC%B8%EB%A8%B8%EC%8B%A0-%EB%B0%95%EC%B0%AC%EC%A4%80-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%8C%A9-%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80/) | 디지털 데일리 콘텐츠랩
