@@ -498,6 +498,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [야놀자·이든티앤에스, NIA·업스테이지 선정 '올해의 한국어 LLM'](https://n.news.naver.com/article/008/0005022223?sid=105)
+2024.04 | [Open Source All About Data Processing, Dataverse](https://huggingface.co/blog/EujeongChoi/dataverse-opensource-for-data-processing) | Hugging Face
 2024.04 | [Upstage AI Introduces Dataverse for Addressing Challenges in Data Processing for Large Language Models](https://www.marktechpost.com/2024/04/01/upstage-ai-introduces-dataverse-for-addressing-challenges-in-data-processing-for-large-language-models/) | Marktechpost Media
 2024.04 | [Teaching SOLAR to Shine: How Upstage AI’s sDPO Aligns Language Models with Human Values](https://www.marktechpost.com/2024/03/31/teaching-solar-to-shine-how-upstage-ais-sdpo-aligns-language-models-with-human-values/) | Marktechpost Media
 2024.04 | [20대에 180편 썼다...'AI 논문머신' 박찬준 이야기 [스토리팩-업스테이지⑤]](https://www.ddaily.co.kr/page/view/2024040110213094382) | 디지털 데일리
