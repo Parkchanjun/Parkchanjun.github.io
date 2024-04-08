@@ -40,6 +40,10 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## Publications
 ### Preprints 
+1. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2404.03887) <br>
+Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park** **(Corresponding Author)**<br>
+*arxiv, 2024*<br>
+
 1. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://arxiv.org/abs/2404.00943) <br>
 Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park** **(Corresponding Author)**<br>
 *arxiv, 2024*<br>
