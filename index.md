@@ -228,6 +228,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. [Towards Harnessing the Most of ChatGPT for Korean Grammatical Error Correction]() <br>
+**Chanjun Park**, Seonmin Koo, Gyeongmin Kim, Heuiseok Lim  <br>
+*Applied Sciences, 2024*<br>
+
 1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati]() <br>
 Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
 *IEEE Access, 2024*<br>
