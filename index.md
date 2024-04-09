@@ -29,6 +29,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 
 ## External Activities
+* **Advisor**: [육군발전자문위 정보화분과 자문위원](), 2024.05~2025.04 <br>
 * **Committee Member**: [AI Ethics and trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
 * **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01 <br>
@@ -37,7 +38,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
 
 
-
+육군발전자문위   정보화분과 자문위원
 ## Publications
 ### Preprints 
 1. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2404.03887) <br>
@@ -227,6 +228,10 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
+1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati]() <br>
+Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
+*IEEE Access, 2024*<br>
+
 1. [Enhancing Machine Translation Quality Estimation via Fine-grained Error Analysis and Large Language Model](https://www.mdpi.com/2227-7390/11/19/4169) <br>
 Dahyun Jung, **Chanjun Park**, Sugyeong Eo, Heuiseok Lim <br>
 *Mathematics, 2023* <br>
@@ -502,6 +507,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [네이버의 AI 전쟁, 특수](https://www.fortunekorea.co.kr/news/articleView.html?idxno=36813) | Fortune Korea
 2024.04 | [야놀자·이든티앤에스, NIA·업스테이지 선정 '올해의 한국어 LLM'](https://n.news.naver.com/article/008/0005022223?sid=105) | 연합뉴스 외 다수 언론사
 2024.04 | [Open Source All About Data Processing, Dataverse](https://huggingface.co/blog/EujeongChoi/dataverse-opensource-for-data-processing) | Hugging Face
 2024.04 | [Upstage AI Introduces Dataverse for Addressing Challenges in Data Processing for Large Language Models](https://www.marktechpost.com/2024/04/01/upstage-ai-introduces-dataverse-for-addressing-challenges-in-data-processing-for-large-language-models/) | Marktechpost Media
