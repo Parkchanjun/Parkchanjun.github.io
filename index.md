@@ -29,7 +29,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 
 ## External Activities
-* **Advisor**: [육군발전자문위 정보화분과 자문위원](), 2024.05~2025.04 <br>
+* **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
 * **Committee Member**: [AI Ethics and trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
 * **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01 <br>
@@ -228,7 +228,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 *NAACL-HLT 2021 Industry Track, 2021- (Poster/Oral presentation)*<br>
 
 ### International Journal (SCI/SCIE)
-1. [Towards Harnessing the Most of ChatGPT for Korean Grammatical Error Correction]() <br>
+1. [Towards Harnessing the Most of ChatGPT for Korean Grammatical Error Correction](https://www.mdpi.com/2076-3417/14/8/3195) <br>
 **Chanjun Park**, Seonmin Koo, Gyeongmin Kim, Heuiseok Lim  <br>
 *Applied Sciences, 2024*<br>
 
