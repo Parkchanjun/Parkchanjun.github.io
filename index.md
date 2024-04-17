@@ -459,6 +459,9 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.04 | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem | Hallym University
+2024.04 | Current state of Large-Scale Generative AI Development | Korean Society of Artificial Intelligence in Medicine
+2024.04 | Open Ko-LLM Leaderboard and ites Ecosystem | NIA
 2024.02 | Korea University College of Medicine - Intelligent Medical Data Lab | SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.02 | Fast Campus |  Job Employment Special Lecture
 2024.02 | FuriosaAI  |  SOLAR: The Next Frontier in Large Language Models by Upstage
@@ -511,6 +514,10 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [MathGPT: Leveraging Llama 2 to create a platform for highly personalized learning](https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/) | Meta
+2024.04 | [Evalverse: Revolutionizing Large Language Model Evaluation with a Unified, User-Friendly Framework](https://www.upstage.ai/feed/tech/evalverse-llm-evaluation-opensource) | Upstage Tech Blog
+2024.04 | [과정 모르는 ‘AI 블랙박스’…해결 아닌 해석 필요한 이유](https://www.epnc.co.kr/news/articleView.html?idxno=300324) | Tech World News
+2024.04 | [기존 벤치마크 한계 도달...새로운 LLM 평가 수단 속속 등장 ](https://www.aitimes.com/news/articleView.html?idxno=158785) | AI TIMES
 2024.04 | [네이버의 AI 전쟁, 특수](https://www.fortunekorea.co.kr/news/articleView.html?idxno=36813) | Fortune Korea
 2024.04 | [야놀자·이든티앤에스, NIA·업스테이지 선정 '올해의 한국어 LLM'](https://n.news.naver.com/article/008/0005022223?sid=105) | 연합뉴스 외 다수 언론사
 2024.04 | [Open Source All About Data Processing, Dataverse](https://huggingface.co/blog/EujeongChoi/dataverse-opensource-for-data-processing) | Hugging Face
