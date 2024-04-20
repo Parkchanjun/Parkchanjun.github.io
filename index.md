@@ -30,7 +30,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
-* **Committee Member**: [AI Ethics and trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
+* **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
 * **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01 <br>
 * **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
@@ -82,7 +82,7 @@ Sanghoon Kim, Dahyun Kim, **Chanjun Park**, Wonsung Lee, Wonho Song, Yunsu Kim, 
 Seungyoon Lee, **Chanjun Park** **(Corresponding Author)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim **(Corresponding Author)** <br>
 *LREC-COLING 2024, 2024 - (Oral presentation)* <br>
 
-1. KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation  <br>
+1. Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation  <br>
 Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *LREC-COLING 2024, 2024 - (Oral presentation)* <br>
 
@@ -232,7 +232,7 @@ Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim **(Equ
 **Chanjun Park**, Seonmin Koo, Gyeongmin Kim, Heuiseok Lim  <br>
 *Applied Sciences, 2024*<br>
 
-1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati]() <br>
+1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
 Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
 *IEEE Access, 2024*<br>
 
@@ -514,6 +514,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [AI 윤리 신뢰성 포럼’ 출범…참가자는 누구?](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2024.04 | [MathGPT: Leveraging Llama 2 to create a platform for highly personalized learning](https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/) | Meta
 2024.04 | [Evalverse: Revolutionizing Large Language Model Evaluation with a Unified, User-Friendly Framework](https://www.upstage.ai/feed/tech/evalverse-llm-evaluation-opensource) | Upstage Tech Blog
 2024.04 | [과정 모르는 ‘AI 블랙박스’…해결 아닌 해석 필요한 이유](https://www.epnc.co.kr/news/articleView.html?idxno=300324) | Tech World News
