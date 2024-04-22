@@ -459,6 +459,8 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.05 | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem | [AI Tech 2024 - AI Frontier for AI Era](https://dubiz.co.kr/Event/249)
+2024.05 | The Ecosystem of LLMs from a Real-World Perspective | [No code·Low code Hyper-automation Conference 2024](https://jco.zdnet.co.kr/conference/hyper2024)
 2024.04 | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem | Hallym University
 2024.04 | Current state of Large-Scale Generative AI Development | Korean Society of Artificial Intelligence in Medicine
 2024.04 | Open Ko-LLM Leaderboard and ites Ecosystem | NIA
@@ -514,6 +516,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [오는 5월 AI Tech 2024 개최...생성형 AI 활용 전략에 '집중'](https://www.hellot.net/news/article.html?no=89209) | 헬로티
 2024.04 | [AI 윤리 신뢰성 포럼’ 출범…참가자는 누구?](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2024.04 | [MathGPT: Leveraging Llama 2 to create a platform for highly personalized learning](https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/) | Meta
 2024.04 | [Evalverse: Revolutionizing Large Language Model Evaluation with a Unified, User-Friendly Framework](https://www.upstage.ai/feed/tech/evalverse-llm-evaluation-opensource) | Upstage Tech Blog
