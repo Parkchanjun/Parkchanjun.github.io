@@ -516,6 +516,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.04 | [업스테이지, '오픈 Ko-LLM 리더보드' 대대적 개편](https://www.etnews.com/20240423000214) | 헬로티
 2024.04 | [오는 5월 AI Tech 2024 개최...생성형 AI 활용 전략에 '집중'](https://www.hellot.net/news/article.html?no=89209) | 헬로티
 2024.04 | [AI 윤리 신뢰성 포럼’ 출범…참가자는 누구?](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2024.04 | [MathGPT: Leveraging Llama 2 to create a platform for highly personalized learning](https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/) | Meta
