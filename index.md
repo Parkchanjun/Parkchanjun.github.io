@@ -74,6 +74,14 @@ Jungseob Lee, Suhyune Son, Midan Shim, Yujin Kim, **Chanjun Park**, Heuiseok Lim
 Sanghoon Kim, Dahyun Kim, **Chanjun Park**, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim **(Equal Contribution(First Co-Author), Corresponding Author)** <br>
 *NAACL 2024 Industry Track, 2024*<br>
 
+1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4]() <br>
+Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park**, Heuiseok Lim **(Corresponding Author)** <br>
+*NAACL 2024 Student Research Workshop, 2024*<br>
+
+1. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation]() <br>
+Dahyun Jung, Sugyeong Eo, **Chanjun Park**, Heuiseok Lim **(Corresponding Author)** <br>
+*NAACL 2024 Student Research Workshop, 2024*<br>
+
 1. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
 **Chanjun Park**, Minsoo Khang, Dahyun Kim <br>
 *ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop, 2024*<br>
