@@ -87,7 +87,7 @@ Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop, 2024*<br>
 
 1. [Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean]()  <br>
-Seungyoon Lee, **Chanjun Park (✝)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
+Seungyoon Lee, **Chanjun Park (✝)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim (✝) <br>
 *LREC-COLING 2024, 2024 - (Oral presentation)* <br>
 
 1. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation]()  <br>
@@ -356,9 +356,11 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
 
-### Domestic Journal (KCI) / Domestic Conference
+### Domestic Journal (KCI) / Domestic Conference / Other International Conference
 * **Domestic Journal (KCI)**: [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
 * **Domestic Conference**: [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
+* **Other International Conferences**: [34 papers]() <br>
+
 
 ### Book Chapters
 1. Data-Centric Neural Machine Translation - A Real-World Approaches <br>
