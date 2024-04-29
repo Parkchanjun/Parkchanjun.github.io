@@ -37,10 +37,12 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Advisor**: [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
 * **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
 
-
-육군발전자문위   정보화분과 자문위원
 ## Publications
 ### Preprints 
+1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
+Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
+*arxiv, 2024*<br>
+
 1. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2404.03887) <br>
 Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
