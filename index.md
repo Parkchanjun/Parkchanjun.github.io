@@ -29,6 +29,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 
 ## External Activities
+* **Advisor**: [National Institute of Korean Language (국립국어원 AI 말평)](https://www.korean.go.kr/), 2024.05~ <br>
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
 * **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
@@ -445,6 +446,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.05 | LLM Evaluation and its Ecosystem | TTA
 2024.05 | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem | ETRI
 2024.05 | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem | [AI Tech 2024 - AI Frontier for AI Era](https://dubiz.co.kr/Event/249)
 2024.05 | The Ecosystem of LLMs from a Real-World Perspective | [No code·Low code Hyper-automation Conference 2024](https://jco.zdnet.co.kr/conference/hyper2024)
@@ -503,6 +505,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | [업스테이지 "솔라, 특정 분야서 'GPT4' 넘을 수 있어"](https://zdnet.co.kr/view/?no=20240502171540) | ZDNET Korea
 2024.04 | [업스테이지, '오픈 Ko-LLM 리더보드' 대대적 개편](https://www.etnews.com/20240423000214) | 전자신문
 2024.04 | [오는 5월 AI Tech 2024 개최...생성형 AI 활용 전략에 '집중'](https://www.hellot.net/news/article.html?no=89209) | 헬로티
 2024.04 | [AI 윤리 신뢰성 포럼’ 출범…참가자는 누구?](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
