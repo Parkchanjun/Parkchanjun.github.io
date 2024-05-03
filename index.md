@@ -506,6 +506,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | [특정 분야 강점 업스테이지 ‘솔라’, 온디바이스 옷 입는다](https://digitalchosun.dizzo.com/site/data/html_dir/2024/05/03/2024050380227.html) | 디지틀 조선일보
 2024.05 | [Upstage Full-stack LLM Ecosystem](https://techcntlab.com/ai/%ED%92%80%EC%8A%A4%ED%83%9D-llm-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%93%A4%EC%96%B4%EB%8A%94-%EB%B4%A4%EB%82%98-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%8C%A9-%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4/) | 디지털 데일리
 2024.05 | [업스테이지 "솔라, 특정 분야서 'GPT4' 넘을 수 있어"](https://zdnet.co.kr/view/?no=20240502171540) | ZDNET Korea
 2024.04 | [업스테이지, '오픈 Ko-LLM 리더보드' 대대적 개편](https://www.etnews.com/20240423000214) | 전자신문
