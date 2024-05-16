@@ -73,6 +73,18 @@ Jungseob Lee (\*), Suhyune Son (\*), Midan Shim (\*), Yujin Kim (\*), **Chanjun 
 *arxiv, 2022*<br>
 
 ### International Conference (Main / Workshop)
+1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark]() <br>
+**Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
+*ACL 2024*<br>
+
+1. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models]() <br>
+Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
+*ACL 2024 (Findings of ACL 2024)*<br>
+
+1. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
+Jungseob Lee, Hyeonseok Moon, Seungjun Lee, Sugyeong Eo, **Chanjun Park**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim <br>
+*ACL 2024 (Findings of ACL 2024)*<br>
+
 1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
 Sanghoon Kim (\*, ✝), Dahyun Kim (\*), **Chanjun Park (\*, ✝)**, Wonsung Lee (\*, ✝), Wonho Song (\*), Yunsu Kim (\*), Hyeonwoo Kim (\*), Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee (✝), Sunghun Kim (✝)  <br>
 *NAACL 2024 - Industry Track*<br>
@@ -509,6 +521,10 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | [격화되는 AI 패권 경쟁 속 안전성 확보 법·제도 `제자리`…"`AI 기본법` 조속히 통과돼야"](https://www.dt.co.kr/contents.html?article_no=2024051602109931029009&ref=naver) | 디지털 타임스
+2024.05 | [한자리에 모인 AI 관계자들 “안전한 AI 기술과 문화 전파해야](https://www.skyedaily.com/news/news_view.html?ID=232130) | 스카이 데일리
+2024.05 | [LLM 비즈니스도 '풀스택'을 준비해야 할 때](https://www.ddaily.co.kr/page/view/2024051315215220855) | 디지털 데일리
+2024.05 | [국제인공지능윤리협회, AI 윤리 논하는 ‘2024 ASC’ 컨퍼런스 개최](https://www.mk.co.kr/news/it/11015335) | 매일경제 외 다수 언론사
 2024.05 | [플리토-업스테이지, 손잡고 AI 언어 데이터 구축 추진](https://n.news.naver.com/article/138/0002173002?sid=105) | 디지털데일리 외 다수 언론사
 2024.05 | [Evalverse: Revolutionizing Large Language Model Evaluation with a Unified, User-Friendly Framework](https://huggingface.co/blog/Yescia/evalverse-llm-evaluation-opensource) | Hugging Face
 2024.05 | [특정 분야 강점 업스테이지 ‘솔라’, 온디바이스 옷 입는다](https://digitalchosun.dizzo.com/site/data/html_dir/2024/05/03/2024050380227.html) | 디지틀 조선일보
