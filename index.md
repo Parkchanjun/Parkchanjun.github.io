@@ -82,7 +82,7 @@ Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuise
 *ACL 2024 (Findings of ACL 2024)*<br>
 
 1. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
-Jungseob Lee, Hyeonseok Moon, Seungjun Lee, Sugyeong Eo, **Chanjun Park**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim <br>
+Jungseob Lee, Hyeonseok Moon, Seungjun Lee, Sugyeong Eo, **Chanjun Park (✝)**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
 *ACL 2024 (Findings of ACL 2024)*<br>
 
 1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
@@ -521,6 +521,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | [What does it mean to use AI ‘ethically’?](https://nodeshore.tech/what-does-it-mean-to-use-ai-ethically/) | NODESHORE
+2024.05 | [“AI 발전하듯 AI 윤리도 진화해야”…네이버·업스테이지의 공통된 시각](https://www.epnc.co.kr/news/articleView.html?idxno=301009) | 테크 월드
 2024.05 | [격화되는 AI 패권 경쟁 속 안전성 확보 법·제도 `제자리`…"`AI 기본법` 조속히 통과돼야"](https://www.dt.co.kr/contents.html?article_no=2024051602109931029009&ref=naver) | 디지털 타임스
 2024.05 | [한자리에 모인 AI 관계자들 “안전한 AI 기술과 문화 전파해야](https://www.skyedaily.com/news/news_view.html?ID=232130) | 스카이 데일리
 2024.05 | [LLM 비즈니스도 '풀스택'을 준비해야 할 때](https://www.ddaily.co.kr/page/view/2024051315215220855) | 디지털 데일리
