@@ -72,18 +72,18 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 Jungseob Lee (\*), Suhyune Son (\*), Midan Shim (\*), Yujin Kim (\*), **Chanjun Park (\*)**, Heuiseok Lim  <br>
 *arxiv, 2022*<br>
 
-### International Conference (Main / Workshop)
+### International Conference
 1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark]() <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
 
 1. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models]() <br>
 Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
-*ACL 2024 (Findings of ACL 2024)*<br>
+*ACL 2024-Findings*<br>
 
 1. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
 Jungseob Lee, Hyeonseok Moon, Seungjun Lee, Sugyeong Eo, **Chanjun Park (✝)**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
-*ACL 2024 (Findings of ACL 2024)*<br>
+*ACL 2024-Findings*<br>
 
 1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
 Sanghoon Kim (\*, ✝), Dahyun Kim (\*), **Chanjun Park (\*, ✝)**, Wonsung Lee (\*, ✝), Wonho Song (\*), Yunsu Kim (\*), Hyeonwoo Kim (\*), Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee (✝), Sunghun Kim (✝)  <br>
@@ -111,11 +111,11 @@ Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuise
 
 1. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
-*EACL 2024 (Findings of EACL 2024)* <br>
+*EACL 2024-Findings* <br>
 
 1. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
 Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
-*EACL 2024 (Findings of EACL 2024)* <br>
+*EACL 2024-Findings* <br>
 
 1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
@@ -196,7 +196,7 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuis
 
 19. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
-*NAACL 2022 - Findings*<br>
+*NAACL 2022-Findings*<br>
 
 20. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
