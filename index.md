@@ -459,7 +459,8 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2024.05 | [Applied ML: LLMs and Knowledge Graphs](https://lu.ma/8eb2v3hn?tk=9SeDjW) - Tokyo | The Ecosystem of LLMs from a Real-World Perspective
+2024.06 | Kyungpook National University | The Ecosystem of LLMs from a Real-World Perspective
+2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
 2024.05 | Chungnam National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Safety Compass Conference ​2024](https://2024asc.oopy.io/) | Data and Evaluation Methods for Trustworthy AI
 2024.05 | Chonbuk National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
