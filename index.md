@@ -68,10 +68,6 @@ Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chan
 Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Chanhee Lee, Yoonna Jang, Jaehyung Seo, Heuiseok Lim <br>
 *arxiv, 2022*<br>
 
-8. [There is no rose without a thorn: Finding weaknesses on BlenderBot 2.0 in terms of Model, Data and User-Centric Approach](https://arxiv.org/abs/2201.03239) <br>
-Jungseob Lee (\*), Suhyune Son (\*), Midan Shim (\*), Yujin Kim (\*), **Chanjun Park (\*)**, Heuiseok Lim  <br>
-*arxiv, 2022*<br>
-
 ### International Conference
 1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark]() <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
@@ -247,11 +243,15 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop*, Oral<br>
 
-23. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-LoResMT.1/) <br>
+23. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *MT Summit 2021 - LoResMT*, Oral<br>
 
 ### International Journal (SCI/SCIE)
+1. [Analysis of the Effectiveness of Model, Data, and User-Centric Approaches for Chat Application: A Case Study of BlenderBot 2.0]() <br>
+**Chanjun Park (\*)**, Jungseob Lee (\*), Suhyune Son (\*), Kinam Park, Jungsun Jang, Heuiseok Lim  <br>
+*Applied Sciences, 2024*<br>
+
 1. [Towards Harnessing the Most of ChatGPT for Korean Grammatical Error Correction](https://www.mdpi.com/2076-3417/14/8/3195) <br>
 **Chanjun Park (\*)**, Seonmin Koo (\*), Gyeongmin Kim, Heuiseok Lim  <br>
 *Applied Sciences, 2024*<br>
@@ -460,6 +460,7 @@ Year | Award
 Year | Place | Contents
 :-----:|-------|-------
 2024.06 | Kyungpook National University | The Ecosystem of LLMs from a Real-World Perspective
+2024.05 | Konkuk University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
 2024.05 | Chungnam National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Safety Compass Conference ​2024](https://2024asc.oopy.io/) | Data and Evaluation Methods for Trustworthy AI
@@ -523,6 +524,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | [올트먼 “우리 AI 밥 줘야지!” 도둑질도 부른 데이터 전쟁](https://www.joongang.co.kr/article/25250486#home) | 중앙일보 Plus
 2024.05 | [업스테이지 “성능·실용성 모두 갖춘 LLM 개발이 목표”](https://www.dailian.co.kr/news/view/1363053/?sc=Naver) | 데일리안
 2024.05 | [What does it mean to use AI ‘ethically’?](https://nodeshore.tech/what-does-it-mean-to-use-ai-ethically/) | NODESHORE
 2024.05 | [“AI 발전하듯 AI 윤리도 진화해야”…네이버·업스테이지의 공통된 시각](https://www.epnc.co.kr/news/articleView.html?idxno=301009) | 테크 월드
