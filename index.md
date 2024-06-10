@@ -40,6 +40,14 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 
 ## Publications
 ### Preprints 
+1. [ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction](https://arxiv.org/abs/2406.03202) <br>
+Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*arxiv, 2024*<br>
+
+1. [Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona](https://arxiv.org/abs/2405.19778) <br>
+Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*arxiv, 2024*<br>
+
 1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
 Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
 *arxiv, 2024*<br>
@@ -78,7 +86,7 @@ Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuise
 *ACL 2024-Findings*<br>
 
 3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
-Jungseob Lee, Hyeonseok Moon, Seungjun Lee, Sugyeong Eo, **Chanjun Park (✝)**, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
+Jungseob Lee, Hyeonseok Moon, Seungjun Lee, **Chanjun Park (✝)**, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
 *ACL 2024-Findings*<br>
 
 4. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) <br>
@@ -525,6 +533,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.05 | ['S급 데이터 모아와라'…빅테크는 도둑질까지 했다](https://www.joongang.co.kr/article/25254009) | 중앙일보
 2024.05 | [올트먼 “우리 AI 밥 줘야지!” 도둑질도 부른 데이터 전쟁](https://www.joongang.co.kr/article/25250486#home) | 중앙일보 Plus
 2024.05 | [업스테이지 “성능·실용성 모두 갖춘 LLM 개발이 목표”](https://www.dailian.co.kr/news/view/1363053/?sc=Naver) | 데일리안
 2024.05 | [What does it mean to use AI ‘ethically’?](https://nodeshore.tech/what-does-it-mean-to-use-ai-ethically/) | NODESHORE
