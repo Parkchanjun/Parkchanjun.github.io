@@ -24,7 +24,7 @@ Large Language Model (LLM), Data-Centric AI, Machine Translation
 * **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program Committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
+* **Program Committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [NAACL 2024-Industry Track](https://2024.naacl.org/calls/industry/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
 * **Reviewer**: [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20), [Applied Sciences](https://www.mdpi.com/journal/applsci), [Electronics](https://www.mdpi.com/journal/electronics), [Entropy](https://www.mdpi.com/journal/entropy), [Connection Science](https://www.tandfonline.com/journals/ccos20) <br>
 
 
@@ -468,7 +468,7 @@ Year | Award
 Year | Place | Contents
 :-----:|-------|-------
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/kcc/2024/) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
-2024.06 | Kyungpook National University | The Ecosystem of LLMs from a Real-World Perspective
+2024.06 | Kyungpook National University | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s)
 2024.05 | Konkuk University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
 2024.05 | Chungnam National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
@@ -533,6 +533,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.06 | [한국어 LLM 리더보드 ‘업그레이드’ 추론·산출추론 지표 추가](https://www.joongang.co.kr/article/25255600) | 중앙일보 외 다수 언론사
 2024.05 | ['S급 데이터 모아와라'…빅테크는 도둑질까지 했다](https://www.joongang.co.kr/article/25254009) | 중앙일보
 2024.05 | [올트먼 “우리 AI 밥 줘야지!” 도둑질도 부른 데이터 전쟁](https://www.joongang.co.kr/article/25250486#home) | 중앙일보 Plus
 2024.05 | [업스테이지 “성능·실용성 모두 갖춘 LLM 개발이 목표”](https://www.dailian.co.kr/news/view/1363053/?sc=Naver) | 데일리안
