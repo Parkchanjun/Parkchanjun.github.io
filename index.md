@@ -529,10 +529,11 @@ Year | Place | Contents
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
-## Media Coverages (Press, Blog)
+## Media Coverages (Press, Youtube, Blog)
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.06 | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s) | Kyungpook National University Youtube
 2024.06 | [한국어 LLM 리더보드 ‘업그레이드’ 추론·산출추론 지표 추가](https://www.joongang.co.kr/article/25255600) | 중앙일보 외 다수 언론사
 2024.05 | ['S급 데이터 모아와라'…빅테크는 도둑질까지 했다](https://www.joongang.co.kr/article/25254009) | 중앙일보
 2024.05 | [올트먼 “우리 AI 밥 줘야지!” 도둑질도 부른 데이터 전쟁](https://www.joongang.co.kr/article/25250486#home) | 중앙일보 Plus
