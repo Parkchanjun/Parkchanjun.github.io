@@ -424,6 +424,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.07 | ['말 잘하는 AI'는 LLM 덕분? 'NLP'도 기억하자!](https://n.news.naver.com/article/138/0002178696?sid=105) | 디지털데일리
+2024.06 | [SAAS - Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://www.upstage.ai/feed/tech/saas-mathgpt) | Upstage Tech Blog
 2024.06 | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s) | Kyungpook National University Youtube
 2024.06 | [한국어 LLM 리더보드 ‘업그레이드’ 추론·산출추론 지표 추가](https://www.joongang.co.kr/article/25255600) | 중앙일보 외 다수 언론사
 2024.05 | ['S급 데이터 모아와라'…빅테크는 도둑질까지 했다](https://www.joongang.co.kr/article/25254009) | 중앙일보
