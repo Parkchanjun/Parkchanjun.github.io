@@ -20,15 +20,14 @@ My research philosophy is anchored in service-driven research, focusing on bridg
 
 * **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a>, <a href="https://hyunyoun2-konlp-test.readthedocs.io/en/latest/">KoNLTK</a> <br>
  
-
-
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Professional Experience
 * **2023.07 - Now**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
-* **2022.03 - 2023.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer <br>
+* **2022.07 - 2023.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer <br>
+* **2022.03 - 2022.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer Intern <br>
 * **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
@@ -142,7 +141,7 @@ Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonse
 *ACL 2023 - Demo Track* <br>
 
 14. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://aclanthology.org/2022.aacl-demo.3/) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim <br>
+**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Jaehyung Seo (\*), Kisu Yang, Heuiseok Lim <br>
 *AACL-IJCNLP 2022 - Demo Track* <br>
 
 15. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://aclanthology.org/2022.wmt-1.56/) <br>
@@ -159,11 +158,11 @@ Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sug
 *NAACL 2022-Findings*<br>
 
 18. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
-**Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
+**Chanjun Park (\*)**, Seolhwa Lee (\*), Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022*, Oral<br>
 
 19. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://aclanthology.org/2022.lrec-1.132/) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
+**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Sungjin Park (\*), Heuiseok Lim<br>
 *LREC 2022*<br>
 
 20. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
@@ -171,8 +170,8 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 *LREC 2022*<br>
 
 21. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
-**Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<br>
-*NAACL-HLT 2021 Industry Track*, Oral<br>
+**Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
+*NAACL-HLT 2021 - Industry Track*, Oral<br>
 
 ### International Workshops
 1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
@@ -232,8 +231,8 @@ Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuis
 *ICML 2022 - DataPerf Workshop* <br>
 
 15. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
-**Chanjun Park**, Yoonna Jang, Seolhwa Lee, Sungjin Park, Heuiseok Lim<br>
-*AAAI 2022 -Artificial Intelligence for Education(AI4EDU)*<br>
+**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Sungjin Park (\*), Heuiseok Lim<br>
+*AAAI 2022 -Artificial Intelligence for Education (AI4EDU)*<br>
 
 16. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
 **Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
@@ -261,11 +260,11 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 
 22. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*ACL 2021 -WAT(Workshop on Asian Translation) 2021 Workshop*, Oral<br>
+*ACL 2021 -Workshop on Asian Translation (WAT)*, Oral<br>
 
 23. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*MT Summit 2021 - LoResMT*, Oral<br>
+*MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*, Oral<br>
 
 ### International Journal (SCI/SCIE) / Domestic Journal (KCI) / Domestic Conference / Other International Conference
 * **International Journal (SCI/SCIE)**: [31 papers](https://orcid.org/0000-0002-7200-9632) <br>
