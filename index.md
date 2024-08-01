@@ -5,20 +5,20 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Language Models (LLM), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Large Language Models (LLMs), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
 
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## Selected Projects
-* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/">MathGPT</a>, <a href="https://www.newsway.co.kr/news/view?ud=2023091111003375930">E-Commerce LLM (with Connectwave)</a>, <a href="https://www.ngetnews.com/news/articleView.html?idxno=501219">News LLM (BIG KINDS)</a>, <a href="https://www.hankyung.com/article/202407012439i"> Law LLM (with Law&Company)</a>, Medical LLM, Thai LLM, <a href="https://www.aitimes.kr/news/articleView.html?idxno=27601"> AskUp Biz</a>, <a href="https://arxiv.org/abs/2301.01228">DMOps</a>, <a href="https://arxiv.org/abs/2403.01832">Model-Based Data-Centric AI</a>, <a href="https://zdnet.co.kr/view/?no=20220628095142">LG U+ Semantic Search</a>, <a href="https://fastcampus.co.kr/b2g_kdigitaltraining_ai">Upstage AI Lab</a> , <a href="https://boostcamp.connect.or.kr/program_ai.html">Boostcamp</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
+* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/">MathGPT</a>, <a href="https://www.newsway.co.kr/news/view?ud=2023091111003375930">E-Commerce LLM (with Connectwave)</a>, <a href="https://www.aitimes.kr/news/articleView.html?idxno=27601"> AskUp Biz</a>, <a href="https://arxiv.org/abs/2301.01228">DMOps</a>, <a href="https://zdnet.co.kr/view/?no=20220628095142">LG U+ Semantic Search</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a>, <a href="https://fastcampus.co.kr/b2g_kdigitaltraining_ai">Upstage AI Lab</a> , <a href="https://boostcamp.connect.or.kr/program_ai.html">Boostcamp</a> <br>
 
-* **Korea University**: <a href="https://arxiv.org/abs/2303.10888">Self-Improving-Leaderboard(SIL)</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2021.wat-1.10/">BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, KoCommonGEN v2, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546">PU-GEN</a>, LeVoc, <a href="https://ieeexplore.ieee.org/document/10411543">Alternative Speech</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>,  <a href="https://aclanthology.org/2024.lrec-main.907/">KHSCP</a>, <a href="https://aclanthology.org/2024.lrec-main.421/">KNOTICED</a>, <a href="https://aclanthology.org/2024.findings-eacl.145/">Generative Interpretation</a>, <a href="https://aclanthology.org/2023.emnlp-main.367/">CHEF</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation (QUAK)</a>, <a href="https://aclanthology.org/2024.naacl-srw.4/">Explainable CED</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
+* **Korea University**: KoCommonGEN v2, LeVoc, <a href="https://arxiv.org/abs/2303.10888">Self-Improving-Leaderboard(SIL)</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2021.wat-1.10/">BTS</a>, <a href="https://aclanthology.org/2024.findings-eacl.145/">Generative Interpretation</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.emnlp-main.367/">CHEF</a>, <a href="https://aclanthology.org/2024.lrec-main.907/">KHSCP</a>, <a href="https://ieeexplore.ieee.org/document/10411543">Alternative Speech</a>, <a href="https://aclanthology.org/2024.lrec-main.421/">KNOTICED</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2024.naacl-srw.4/">Explainable CED</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation (QUAK)</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546">PU-GEN</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
  <br>
 
 * **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a>, <a href="https://opennmt.net/">Neural Machine Translation</a>, <a href="https://kr.acrofan.com/detail.php?number=98872">Grammar Error Correction (With Hello Talk)</a>, <a href="https://www.cjlogistics.com/ko/newsroom/news/NR_00000515">CJ Logistics AI Assistant</a> <br>
 
-* **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a>, <a href="https://hyunyoun2-konlp-test.readthedocs.io/en/latest/">KoNLTK</a> <br>
+* **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a>, <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202200017937">Research and Development of Korean Information Processing Technologies</a> <br>
  
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
@@ -42,7 +42,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 ## External Activities
 * **Advisor**: [National Institute of Korean Language (국립국어원 AI 말평)](https://www.korean.go.kr/), 2024.05~ <br>
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
-* **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), AI 전략최고위협의회 윤리·안전분과, 2024.04~ <br>
+* **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원- AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
 * **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01~ <br>
 * **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
@@ -220,7 +220,7 @@ Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
 
 13. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1/) <br>
 SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaehyung Seo, Jeongbae Park, Heuiseok Lim <br>
-*COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge*, Oral <br>
+*COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge* <br>
 
 14. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
 Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuiseok Lim <br>
@@ -244,7 +244,7 @@ Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 
 19. [Syntax-enhanced Dialogue Summarization using Syntax-aware information](https://www.researchgate.net/publication/357602112_Syntax-enhanced_Dialogue_Summarization_using_Syntax-aware_information) <br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*NeurIPS 2021 - Women in Machine Learning workshop*, Oral<br>
+*NeurIPS 2021 - Women in Machine Learning workshop*<br>
 
 20. [Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](http://www.winlp.org/wp-content/uploads/2021/11/winlp2021_55_Paper.pdf)<br>
 Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
@@ -252,15 +252,15 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 
 21. [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
-*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*, Oral<br>
+*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*<br>
 
 22. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*ACL 2021 -Workshop on Asian Translation (WAT)*, Oral<br>
+*ACL 2021 -Workshop on Asian Translation (WAT)*<br>
 
 23. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*, Oral<br>
+*MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*<br>
 
 ### International Journal (SCI/SCIE) / Domestic Journal (KCI) / Domestic Conference / Other International Conference
 * **International Journal (SCI/SCIE)**: [31 papers](https://orcid.org/0000-0002-7200-9632) <br>
@@ -306,17 +306,17 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 11. [Device and method for correcting Korean spelling](), Granted Patent (10-2430918) <br>
 
 ## Teaching
-1. [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
-1. [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-2. [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-3. [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
-4. Finance Specialized Large Language Model for Everyone, Instructor, Upstage Online Course. (2023) <br>
-5. [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
-6. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
-7. [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-8. [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-9. [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-10. [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
+1.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+2.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+3.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
+4.  Finance Specialized Large Language Model for Everyone, Instructor, Upstage Online Course. (2023) <br>
+5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
+6.  [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
+7.  [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+8.  [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
+9.  [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
+10.  [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
 
 ## Honors & Awards
 
@@ -337,12 +337,11 @@ Year | Award
 2020.10 | Best Paper Award at The 32nd Annual Conference on Human & Cognitive Language Technology
 2019.10 | Best Paper Award at The 31st Annual Conference on Human & Cognitive Language Technology
 2019.10 | [1st Place at Microsoft AI Accessibility Hackathon in Korea](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
-2019.03 | Graduate School Associate Scholarship by Sungkyunkwan University
 2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/), Next-generation information computing technology development business
 2017.06 | Bit Computer Excellence Award (President Award) at Bit Computer
 2017.12 | Scholarship for academic excellence by Sooyoungro Church
 2016.12 | Scholarship for academic excellence by Sooyoungro Church
-2015.03 | Full Scholarship, BUFS
+2015.03 | Undergraduate Study Full Scholarship by Busan University of Foreign Studies
 
 ## Invited Talk
 
