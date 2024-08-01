@@ -5,10 +5,10 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Language Models (LLM), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. His current interests include forming an LLM-based ecosystem, and he has initiated projects such as <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://huggingface.co/spaces/upstage/open-ko-llm-leaderboard">Open Ko-LLM Leaderboard</a>, <a href="https://github.com/UpstageAI/dataverse/">Dataverse</a>,  <a href="https://github.com/UpstageAI/evalverse">Evalverse</a> and <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. Chanjun is the founder and chief scientist of the <a href="http://kunmt.org/">KU-NMT Group</a>, and has received the Naver Ph.D. Fellowship in 2021. He served as the Virtual Social Chair at <a href="https://coling2022.org/committee01">COLING 2022</a>, Program Chair for the <a href="https://www.winlp.org/">WiNLP Workshop</a> and Publication Chair for the <a href="https://dmlr.ai/organizers/">DMLR Workshop</a>. He has published more than 190 papers in the field of NLP. Finally, he is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Language Models (LLM), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
 
 ## Research Interest
-My research philosophy is anchored in service-driven research, focusing on bridging the divide between foundational natural language processing (NLP) theories and their practical, real-world applications. I am committed to developing straightforward yet effective research methodologies that deliver immediate and tangible benefits to the industry, while also advancing our fundamental understanding of NLP. By emphasizing service-oriented research, I aim to address the industry pressing needs with innovative solutions that are both accessible and impactful. My recent primary interests lie in the development of efficient, purpose-trained Large Language Models (LLMs), with particular focus on: (1) fundamental capabilities of LLMs; (2) evaluation of LLMs; (3) foundational NLP research addressing recency and truthfulness in LLMs; (4) cross-lingual NLP; and (5) multidisciplinary NLP research that bridges disciplines to advance NLP applications. Through these avenues, I strive to contribute to both the academic and practical advancements in the field of NLP.
+My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## Selected Projects
 * **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/">MathGPT</a>, <a href="https://www.newsway.co.kr/news/view?ud=2023091111003375930">E-Commerce LLM (with Connectwave)</a>, <a href="https://www.ngetnews.com/news/articleView.html?idxno=501219">News LLM (BIG KINDS)</a>, <a href="https://www.hankyung.com/article/202407012439i"> Law LLM (with Law&Company)</a>, Medical LLM, Thai LLM, <a href="https://www.aitimes.kr/news/articleView.html?idxno=27601"> AskUp Biz</a>, <a href="https://arxiv.org/abs/2301.01228">DMOps</a>, <a href="https://arxiv.org/abs/2403.01832">Model-Based Data-Centric AI</a>, <a href="https://zdnet.co.kr/view/?no=20220628095142">LG U+ Semantic Search</a>, <a href="https://fastcampus.co.kr/b2g_kdigitaltraining_ai">Upstage AI Lab</a> , <a href="https://boostcamp.connect.or.kr/program_ai.html">Boostcamp</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
@@ -52,10 +52,6 @@ My research philosophy is anchored in service-driven research, focusing on bridg
 ## Publications
 ### Preprints 
 1. [ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction](https://arxiv.org/abs/2406.03202) <br>
-Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*arxiv, 2024*<br>
-
-1. [Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona](https://arxiv.org/abs/2405.19778) <br>
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
@@ -272,7 +268,6 @@ Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok 
 * **Domestic Conference**: [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
 * **Other International Conferences**: [34 papers]() <br>
 
-
 ### Book Chapters
 1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
 **Chanjun Park**<br>
@@ -328,26 +323,25 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 Year | Award
 :-----:|-------
 2024.02 | Forbes 30 Under 30 Korea
-2023.10 | Best Paper Award, The 35th Annual Conference on Human & Cognitive Language Technology (HCLT2023) - Language Model 2 Section
-2023.10 | Best Paper Award, The 35th Annual Conference on Human & Cognitive Language Technology (HCLT2023) - Data Bias & Ethics Section
-2023.02 | Best Paper Award, Korea University
-2023.02 | Research Encouragement Scholarship, Korea University
-2022.12 | 1st place in Quality Estimation Shared Task 2022 - Sentence-level "Critical Error Detection", WMT 2022 (EMNLP 2022)
-2022.10 | Best Paper Award, The 34th Annual Conference on Human & Cognitive Language Technology (HCLT2022)
-2021.12 | Naver Ph.D. Fellowship 2021
-2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - NLP Application 2 Section
-2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - Language Resource Section
-2021.10 | Best Paper Award, The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT2021) - QA and Speech Section
-2020.11 | [1st Place in Flitto Hackathon (Team Lead)](https://www.flitto.com/business/blog/6547023368438992855?country=ko)
-2020.10 | Best Paper Award, The 32nd Annual Conference on Human & Cognitive Language Technology (HCLT2020)
-2020.05 | [Best practices for using NIA AI training data(Korean-English Neural Machine Translation model)](http://aihub.or.kr/node/4525), NIA
-2019.10 | Best Paper Award, The 31st Annual Conference on Human & Cognitive Language Technology (HCLT2019)  
-2019.10 | [1st Place Microsoft AI Accessibility Hackathon in Korea (Team Lead)](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
-2019.03 | Graduate School Associate Scholarship, Sungkyunkwan University
+2023.10 | Best Paper Award at The 35th Annual Conference on Human & Cognitive Language Technology - Language Model 2 Section
+2023.10 | Best Paper Award at The 35th Annual Conference on Human & Cognitive Language Technology - Data Bias \& Ethics Section
+2023.02 | Best Paper Award at Korea University
+2023.02 | Research Encouragement Scholarship by Korea University
+2022.12 | 1st Place at WMT Quality Estimation Shared Task 2022 - Sentence-level Critical Error Detection
+2022.10 | Best Paper Award at The 34th Annual Conference on Human & Cognitive Language Technolog
+2021.12 | Naver Ph.D. Fellowship
+2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - NLP Application 2 Section
+2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - Language Resource Section
+2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - QA and Speech Section
+2020.11 | [1st Place at Flitto Hackathon](https://www.flitto.com/business/blog/6547023368438992855?country=ko)
+2020.10 | Best Paper Award at The 32nd Annual Conference on Human & Cognitive Language Technology
+2019.10 | Best Paper Award at The 31st Annual Conference on Human & Cognitive Language Technology
+2019.10 | [1st Place at Microsoft AI Accessibility Hackathon in Korea](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
+2019.03 | Graduate School Associate Scholarship by Sungkyunkwan University
 2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/), Next-generation information computing technology development business
-2017.06 | Bit Computer Excellence Award (President Award), Bit Computer
-2017.12 | Scholarship for academic excellence, Sooyoungro Church
-2016.12 | Scholarship for academic excellence, Sooyoungro Church
+2017.06 | Bit Computer Excellence Award (President Award) at Bit Computer
+2017.12 | Scholarship for academic excellence by Sooyoungro Church
+2016.12 | Scholarship for academic excellence by Sooyoungro Church
 2015.03 | Full Scholarship, BUFS
 
 ## Invited Talk
