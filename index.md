@@ -289,7 +289,7 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 
 3. [DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING](), Apply for a patent (10-2021-0118924) <br>
 
-4. [DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION](), Apply for a patent (10-2021-0117011) <br>
+4. [DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION](), Granted Patent (10-2690953) <br>
 
 5. [Improving speech recognition performance using TTS in domain-specific environment](), Apply for a patent (10-2021-0028816) <br>
 
@@ -415,6 +415,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.08 | [한국어 LLM 리더보드 시즌2 가동…“벤치마크 난도 높여 오버피팅 논란 뚫는다”](https://www.etnews.com/20240807000196) | 전자신문
 2024.07 | ['말 잘하는 AI'는 LLM 덕분? 'NLP'도 기억하자!](https://n.news.naver.com/article/138/0002178696?sid=105) | 디지털데일리
 2024.06 | [SAAS - Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://www.upstage.ai/feed/tech/saas-mathgpt) | Upstage Tech Blog
 2024.06 | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s) | Kyungpook National University Youtube
