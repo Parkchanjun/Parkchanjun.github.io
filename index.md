@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Large Language Models (LLMs), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Large Language Models (LLMs), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> for more information.
 
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
@@ -27,15 +27,15 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **Korea University**: KoCommonGEN v2, LeVoc, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
  <br>
 
-* **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a>, <a href="https://opennmt.net/">Neural Machine Translation</a> <br>
+* **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a> <br>
 
 * **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a> <br>
 
-## Academic Services
+## Academic Service
 * **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program Committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
+* **Program Committee**: [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
 
 ## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
@@ -76,7 +76,7 @@ Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chan
 Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Chanhee Lee, Yoonna Jang, Jaehyung Seo, Heuiseok Lim <br>
 *arxiv, 2022*<br>
 
-### International Conference
+### Conferences
 1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://arxiv.org/abs/2405.20574) <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
@@ -162,7 +162,7 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 **Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
 *NAACL-HLT 2021 - Industry Track*, Oral<br>
 
-### Selected International Workshops
+### Selected Workshops
 1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
 Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2024 - Student Research Workshop*<br>
@@ -204,11 +204,11 @@ In addition, I have published [23 papers](https://scholar.google.com/citations?u
 4.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
 5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
 
-## Selected Honors & Awards
+## Selected Awards
 
 Year | Award
 :-----:|-------
-2024.02 | Forbes 30 Under 30 Korea
+2024.02 | [Forbes 30 Under 30 Korea](https://jmagazine.joins.com/forbes/view/339714)
 2023.02 | Best Paper Award at Korea University
 2022.12 | 1st Place at WMT Quality Estimation Shared Task 2022 - Sentence-level Critical Error Detection
 2021.12 | Naver Ph.D. Fellowship
