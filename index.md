@@ -5,49 +5,42 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Large Language Models (LLMs), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>, for his work on "Data-Centric Neural Machine Translation". From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP), with a focus on Large Language Models (LLMs), Data-Centric AI and Machine Translation. He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339290">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See CV for more information.
 
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
-## Selected Projects
-* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/">MathGPT</a>, <a href="https://www.newsway.co.kr/news/view?ud=2023091111003375930">E-Commerce LLM (with Connectwave)</a>, <a href="https://www.aitimes.kr/news/articleView.html?idxno=27601"> AskUp Biz</a>, <a href="https://arxiv.org/abs/2301.01228">DMOps</a>, <a href="https://zdnet.co.kr/view/?no=20220628095142">LG U+ Semantic Search</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a>, <a href="https://fastcampus.co.kr/b2g_kdigitaltraining_ai">Upstage AI Lab</a> , <a href="https://boostcamp.connect.or.kr/program_ai.html">Boostcamp</a> <br>
-
-* **Korea University**: KoCommonGEN v2, LeVoc, <a href="https://arxiv.org/abs/2303.10888">Self-Improving-Leaderboard (SIL)</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2021.wat-1.10/">BTS</a>, <a href="https://aclanthology.org/2024.findings-eacl.145/">Generative Interpretation</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.emnlp-main.367/">CHEF</a>, <a href="https://aclanthology.org/2024.lrec-main.907/">KHSCP</a>, <a href="https://ieeexplore.ieee.org/document/10411543">Alternative Speech</a>, <a href="https://aclanthology.org/2024.lrec-main.421/">KNOTICED</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2024.naacl-srw.4/">Explainable CED</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation (QUAK)</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546">PU-GEN</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
- <br>
-
-* **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a>, <a href="https://opennmt.net/">Neural Machine Translation</a>, <a href="https://kr.acrofan.com/detail.php?number=98872">Grammar Error Correction (With Hello Talk)</a>, <a href="https://www.cjlogistics.com/ko/newsroom/news/NR_00000515">CJ Logistics AI Assistant</a> <br>
-
-* **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a>, <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202200017937">Research and Development of Korean Information Processing Technologies</a> <br>
- 
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
-## Professional Experience
+## Work Experiences
 * **2023.07 - Now**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
 * **2022.07 - 2023.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer <br>
 * **2022.03 - 2022.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer Intern <br>
 * **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
+## Selected Projects
+* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
+
+* **Korea University**: KoCommonGEN v2, LeVoc, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
+ <br>
+
+* **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a>, <a href="https://opennmt.net/">Neural Machine Translation</a> <br>
+
+* **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a> <br>
+
 ## Academic Services
 * **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program Committee**: Reviewer of [ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people) (2022~Current), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
-* **Reviewer**: [ETRI Journal](https://onlinelibrary.wiley.com/journal/22337326), [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20), [Cybernetics and Systems](https://www.tandfonline.com/journals/ucbs20) <br>
 
-
-## External Activities
-* **Advisor**: [National Institute of Korean Language (국립국어원 AI 말평)](https://www.korean.go.kr/), 2024.05~ <br>
+## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
 * **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원- AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
-* **Advisor**: [National Information Society Agency](https://www.nia.or.kr/site/nia_kor/main.do), 2024.01~ <br>
-* **Advisor**: [Ministry of Food and Drug Safety](https://www.mfds.go.kr/index.do), 2023.12~ <br>
-* **Advisor**: [Yonsei University-Institute of Language and Information Studies](https://ilis2.yonsei.ac.kr/ilis/index.do), 2023.12 <br>
-* **Advisor**: [Software Policy & Research Institute](https://spri.kr/), 2023.08 <br>
 
 ## Publications
 ### Preprints 
@@ -268,146 +261,51 @@ Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok 
 * **Domestic Conference**: [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
 * **Other International Conferences**: [34 papers]() <br>
 
-### Book Chapters
-1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
-**Chanjun Park**<br>
-*Ph.D. Thesis* <br>
-
-2. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
-HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
-*Human Science*
-
-### International Patents
-1. [METHOD FOR GENERATING TRAINING DATA AND METHOD FOR POST-PROCESSING OF SPEECH RECOGNITION USING THE SAME](), Apply for a patent (17/739,383) <br>
-
-2. [METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION](), Apply for a patent (PCT/KR2021/012195) <br>
-
-### Domestic Patents
-1. [DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION](), Granted Patent (10-2593447) <br>
-
-2. [APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION](), Granted Patent (10-2574167) <br>
-
-3. [DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING](), Apply for a patent (10-2021-0118924) <br>
-
-4. [DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION](), Granted Patent (10-2690953) <br>
-
-5. [Improving speech recognition performance using TTS in domain-specific environment](), Apply for a patent (10-2021-0028816) <br>
-
-6. [Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same](), Granted Patent (10-2557810) <br>
-
-7. [METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION](), Granted Patent (10-2409667) <br>
-
-8. [Correction performance evaluation metrics of neural network machine translation and method of constructing the same](), Granted Patent (10-2390154) <br>
-
-9. [APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE](), Granted Patent  (10-2476497) <br>
-
-10. [METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION](), Granted Patent (10-2425922) <br>
-
-11. [Device and method for correcting Korean spelling](), Granted Patent (10-2430918) <br>
-
-## Teaching
+## Selected Teaching
 1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
-1.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-2.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-3.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
-4.  Finance Specialized Large Language Model for Everyone, Instructor, Upstage Online Course. (2023) <br>
+2.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+3.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+4.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
 5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
-6.  [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Autumn 2021) <br>
-7.  [Introduction to Natural Language Processing in Big Data (BDC101)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-8.  [Natural Language Processing for Digital Finance Engineering (DFE610)](https://github.com/Parkchanjun/KU-NLP-2020-1), Head Teaching Assistant, Korea Univ. (Autumn 2020) <br>
-9.  [Natural Language Processing (COSE461)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
-10.  [Artificial Intelligence and Natural Language Processing (DFC615)](https://github.com/Parkchanjun/KU-NLP-2020-1), Teaching Assistant, Korea Univ. (Spring 2020) <br>
 
-## Honors & Awards
+## Selected Honors & Awards
 
 Year | Award
 :-----:|-------
 2024.02 | Forbes 30 Under 30 Korea
-2023.10 | Best Paper Award at The 35th Annual Conference on Human & Cognitive Language Technology - Language Model 2 Section
-2023.10 | Best Paper Award at The 35th Annual Conference on Human & Cognitive Language Technology - Data Bias \& Ethics Section
 2023.02 | Best Paper Award at Korea University
-2023.02 | Research Encouragement Scholarship by Korea University
 2022.12 | 1st Place at WMT Quality Estimation Shared Task 2022 - Sentence-level Critical Error Detection
-2022.10 | Best Paper Award at The 34th Annual Conference on Human & Cognitive Language Technolog
 2021.12 | Naver Ph.D. Fellowship
-2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - NLP Application 2 Section
-2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - Language Resource Section
-2021.10 | Best Paper Award at The 33rd Annual Conference on Human & Cognitive Language Technology - QA and Speech Section
-2020.11 | [1st Place at Flitto Hackathon](https://www.flitto.com/business/blog/6547023368438992855?country=ko)
-2020.10 | Best Paper Award at The 32nd Annual Conference on Human & Cognitive Language Technology
-2019.10 | Best Paper Award at The 31st Annual Conference on Human & Cognitive Language Technology
 2019.10 | [1st Place at Microsoft AI Accessibility Hackathon in Korea](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
-2018.10 | [Next Generation Information Processing NLP Competition 2018: Participation Award](https://sites.google.com/site/koreanlp2018/), Next-generation information computing technology development business
-2017.06 | Bit Computer Excellence Award (President Award) at Bit Computer
-2017.12 | Scholarship for academic excellence by Sooyoungro Church
-2016.12 | Scholarship for academic excellence by Sooyoungro Church
-2015.03 | Undergraduate Study Full Scholarship by Busan University of Foreign Studies
 
-## Invited Talk
+## Selected Invited Talk
 
 Year | Place | Contents
 :-----:|-------|-------
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
-2024.07 | TTA | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.06 | Kyungpook National University | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s)
-2024.05 | Konkuk University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
 2024.05 | Chungnam National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Safety Compass Conference ​2024](https://iaae.ai/program/?idx=22561163&bmode=view) | Data and Evaluation Methods for Trustworthy AI
 2024.05 | Chonbuk National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
-2024.05 | TTA | LLM Evaluation and its Ecosystem
 2024.05 | ETRI | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Tech 2024 - AI Frontier for AI Era](https://dubiz.co.kr/Event/249)| SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem 
 2024.05 | [No code·Low code Hyper-automation Conference 2024](https://jco.zdnet.co.kr/conference/hyper2024) | The Ecosystem of LLMs from a Real-World Perspective 
-2024.04 | Hallym University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem 
-2024.04 | Korean Society of Artificial Intelligence in Medicine | Current state of Large-Scale Generative AI Development 
-2024.04 | NIA | Open Ko-LLM Leaderboard and ites Ecosystem
-2024.02 | Korea University College of Medicine - Intelligent Medical Data Lab | SOLAR: The Next Frontier in Large Language Models by Upstage
-2024.02 | Fast Campus |  Job Employment Special Lecture
-2024.02 | FuriosaAI  |  SOLAR: The Next Frontier in Large Language Models by Upstage
-2024.01 | [The University of Tokyo - Center for Data-Driven Discovery](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
-2024.01 | Defense Agency for Technology and Quality (DTaQ)  |  Current State of Artificial Intelligence (AI) and Its Application Strategies in the Defense Sector
-2024.01 | National Library of Korea  |  Upstage LLM One Pager
-2023.12 | Ministry of Science and ICT - Data Utilization Council  |  Upstage LLM One Pager
+2024.02 | Korea University College of Medicine | SOLAR: The Next Frontier in Large Language Models by Upstage
+2024.01 | [The University of Tokyo](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
 2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
-2023.11 | Digital Innovation Forum (Ministry of Culture, Sports and Tourism) |  [Generative AI era: Copyright issues and countermeasures](https://www.culture.go.kr/digicon/sub02/sub04.php)
-2023.11 | Kyungpook National University  |  Upstage LLM One Pager
-2023.11 | Future Technology Exchange Conference in Southeast Region  |  Upstage LLM One Pager
-2023.11 | Jeju National University - Guest lecture  |  Upstage LLM One Pager
-2023.11 | Busan University of Foreign Studies  |  From Language Model to Large Language Model
-2023.11 | KB Kookmin Bank  |  Areas of Generative AI Application in Business
-2023.11 | Human-Inspired AI Research  |  Upstage LLM One Pager
-2023.10 | NIA |  Upstage LLM and latest B2B LLM trends
-2023.09 | Woongjin Thinkbig |  Upstage LLM One Pager
-2023.09 | Kyobo Life Insurance |  Upstage and Private LLM
-2023.09 | HD Korea Shipbuilding & Offshore Engineering |  Upstage and Private LLM
-2023.09 | Korea University - Guest lecture |  From Language Model to Large Language Model
-2023.09 | HanYang University - Guest lecture |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
-2023.09 | Korea Institute of Patent Information |  Upstage LLM and latest B2B LLM trends
+2023.09 | Korea University |  From Language Model to Large Language Model
+2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
 2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
-2023.09 | Fast Campus |  Job Employment Special Lecture
-2023.08 | HD Korea Shipbuilding & Offshore Engineering |  Upstage LLM and latest B2B LLM trends
-2023.08 | Upstage Webinar |  [The Future of Finance/Insurance Transformed by Generative AI](https://www.upstage.ai/webinar/fintech-insuretech-genai?utm_source=starshare&utm_medium=share&utm_campaign=finwgenai&fbclid=IwAR3xI_mqqbYjUNzqSlNfCsGPK2ZgyRK_lIxsAmoA54kWZ6YiPE2Ce_LodBM)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
-2023.07 | POSCO RIST |  Data-Centric AI in Real-World
 2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
-2023.07 | Jeju National University |  Real-World Artificial Intelligence and Large Language Model for Everyone
 2023.06 | AI EDucation Alliance Policy lab (AIEDAP) |  Deep Learning Understanding and Practice
-2023.05 | KIDA (Korea Institute for Defense Analysis) |  Data-Centric AI in the Large Language Model Era
-2023.04 | Upstage |  NLP based Large Language Model for All
 2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
-2022.12 | Sunmoon University |  Real-World Centric AI
-2022.08 | Kyungsung University |  Language and Information Studies and the Future of Artificial Intelligence
 2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
-2022.01 | Dongguk University |  Artificial intelligence and Machine Translation
-2021.07 | Busan Social Welfare Development Group |  Attending advisory meetings and Focus Group Interview
-2020.03 | LLsoLLu |  Latest natural language processing Research
-2020.02 | NC SOFT |  Technology Transfer Seminar
 2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
-2019.10-2019.11 | SKC  |  [Text Preprocessing, Machine Translation, Language Embedding](https://github.com/Parkchanjun/SKC_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
@@ -415,6 +313,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.08 | [AI도 가성비 시대? 대형 언어 모델(LLM)과 대비된다는 SLM의 정체는](https://n.news.naver.com/mnews/article/023/0003851391?sid=101) | 조선일보
 2024.08 | [한국어 LLM 리더보드 시즌2 가동…“벤치마크 난도 높여 오버피팅 논란 뚫는다”](https://www.etnews.com/20240807000196) | 전자신문
 2024.07 | ['말 잘하는 AI'는 LLM 덕분? 'NLP'도 기억하자!](https://n.news.naver.com/article/138/0002178696?sid=105) | 디지털데일리
 2024.06 | [SAAS - Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://www.upstage.ai/feed/tech/saas-mathgpt) | Upstage Tech Blog

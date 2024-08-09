@@ -122,3 +122,42 @@ Chanhee Lee, Kisu Yang, Taesun Whang, **Chanjun Park**, Andrew Matteson, Heuiseo
 25. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
 **Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
 *Multimedia Tools and Applications, 2020*<br>
+
+
+
+### Book Chapters
+1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
+**Chanjun Park**<br>
+*Ph.D. Thesis* <br>
+
+2. [Natural Langugae Processing Bible](https://www.aladin.co.kr/shop/wproduct.aspx?partner=rss&ISBN=K412637214)<br>
+HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
+*Human Science*
+
+### International Patents
+1. [METHOD FOR GENERATING TRAINING DATA AND METHOD FOR POST-PROCESSING OF SPEECH RECOGNITION USING THE SAME](), Apply for a patent (17/739,383) <br>
+
+2. [METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION](), Apply for a patent (PCT/KR2021/012195) <br>
+
+### Domestic Patents
+1. [DEVICE AND METHOD FOR GENERATING OF TRAINING DATA FOR QUALITY ESTIMATION IN MACHINE TRANSLATION](), Granted Patent (10-2593447) <br>
+
+2. [APPRATUS FOR CORPUS PROCESSING, APPARATUS AND METHOD AND MATHINE TRANSLATION](), Granted Patent (10-2574167) <br>
+
+3. [DEVICE AND METHOD FOR GENERATING TRAINING DATA FOR AUTOMATIC POST EDITING](), Apply for a patent (10-2021-0118924) <br>
+
+4. [DEVICE AND METHOD FOR GENERATING OPTIMAL TRANSLATION SUBTITLE USING QUALITY ESTIMATION](), Granted Patent (10-2690953) <br>
+
+5. [Improving speech recognition performance using TTS in domain-specific environment](), Apply for a patent (10-2021-0028816) <br>
+
+6. [Method For Generating Training Data And Method For Post-Processing Of Speech Recognition Using The Same](), Granted Patent (10-2557810) <br>
+
+7. [METHOD OF BUILDING TRAINING DATA OF MACHINE TRANSLATION](), Granted Patent (10-2409667) <br>
+
+8. [Correction performance evaluation metrics of neural network machine translation and method of constructing the same](), Granted Patent (10-2390154) <br>
+
+9. [APPARATUS AND METHOD FOR OUTPUTTING IMAGE CORRESPONDING TO LANGUAGE](), Granted Patent  (10-2476497) <br>
+
+10. [METHOD OF TRANSLATING ANCIENT KOREAN USING MACHINE TRANSLATION](), Granted Patent (10-2425922) <br>
+
+11. [Device and method for correcting Korean spelling](), Granted Patent (10-2430918) <br>
