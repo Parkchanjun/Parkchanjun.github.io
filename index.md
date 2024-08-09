@@ -40,7 +40,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 ## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
 * **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원- AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
-* **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회)](https://www.youtube.com/watch?v=Z1GEsgLKzc4) 3분과 (투명성 확보), 2023.10~ <br>
+* **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회) 3분과 (투명성 확보)](https://www.youtube.com/watch?v=Z1GEsgLKzc4), 2023.10~ <br>
 
 ## Publications
 ### Preprints 
@@ -162,7 +162,7 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 **Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
 *NAACL-HLT 2021 - Industry Track*, Oral<br>
 
-### International Workshops
+### Selected International Workshops
 1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
 Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2024 - Student Research Workshop*<br>
@@ -175,83 +175,23 @@ Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 **Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
 *ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
 
-4. [Proceedings of the Seventh Widening NLP Workshop (WiNLP 2023)](https://aclanthology.org/2023.winlp-1.0/) <br>
-Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
-*EMNLP 2023-Widening NLP Workshop* <br>
-
-5. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
+4. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
 Seungyoon Lee (\*), DaHyun Jung (\*), **Chanjun Park (\*)**, Seolhwa Lee, Heuiseok Lim <br>
 *ICDM 2023 - The First Workshop on Data-Centric AI*<br>
 
-6. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
-**Chanjun Park (\*)**, Seonmin Koo (\*), Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-7. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
+5. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
 Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
 *ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
 
-8. [Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios](https://arxiv.org/abs/2306.14373) <br>
-NamHyeok Kim, **Chanjun Park (\*, ✝)**  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-9. [Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations](https://arxiv.org/abs/2306.14374) <br>
-Damrin Kim, NamHyeok Kim, **Chanjun Park (✝)** , Harksoo Kim  (✝)   <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-10. [Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation](https://arxiv.org/abs/2306.14514) <br>
-Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-11. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-12. [Knowledge Graph-Augmented Korean Generative Commonsense Reasoning](https://arxiv.org/abs/2306.14470) <br>
-Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-13. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1/) <br>
-SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaehyung Seo, Jeongbae Park, Heuiseok Lim <br>
-*COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge* <br>
-
-14. [A Self-Supervised Automatic Post-Editing Data Generation Tool](https://arxiv.org/abs/2111.12284) <br>
-Hyeonseok Moon, **Chanjun Park**, Sugyeong Eo, Jaehyung Seo, Seungjun Lee, Heuiseok Lim <br>
-*ICML 2022 - DataPerf Workshop* <br>
-
-15. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://arxiv.org/abs/2112.04126) <br>
-**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Sungjin Park (\*), Heuiseok Lim<br>
-*AAAI 2022 -Artificial Intelligence for Education (AI4EDU)*<br>
-
-16. [How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus](https://arxiv.org/abs/2111.00191) <br>
-**Chanjun Park**, Seolhwa Lee, Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop*<br>
-
-17. [A New Tool for Efficiently Generating Quality Estimation Datasets](https://arxiv.org/abs/2111.00767) <br>
-Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop*<br>
-
-18. [Automatic Knowledge Augmentation for Generative Commonsense Reasoning](https://arxiv.org/abs/2111.00192) <br>
-Jaehyung Seo, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*NeurIPS 2021 - Data-centric AI (DCAI) workshop*<br>
-
-19. [Syntax-enhanced Dialogue Summarization using Syntax-aware information](https://www.researchgate.net/publication/357602112_Syntax-enhanced_Dialogue_Summarization_using_Syntax-aware_information) <br>
-Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*NeurIPS 2021 - Women in Machine Learning workshop*<br>
-
-20. [Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](http://www.winlp.org/wp-content/uploads/2021/11/winlp2021_55_Paper.pdf)<br>
-Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*EMNLP 2021 -Widening NLP (WiNLP2021) workshop*<br>
-
-21. [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
+6. [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
 *EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*<br>
 
-22. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
+7. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -Workshop on Asian Translation (WAT)*<br>
 
-23. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
+8. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*<br>
 
@@ -259,7 +199,7 @@ Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok 
 * **International Journal (SCI/SCIE)**: [31 papers](https://orcid.org/0000-0002-7200-9632) <br>
 * **Domestic Journal (KCI)**: [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
 * **Domestic Conference**: [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
-* **Other International Conferences**: [34 papers]() <br>
+* **Other International Conferences**: [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) <br>
 
 ## Selected Teaching
 1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
@@ -284,15 +224,11 @@ Year | Place | Contents
 :-----:|-------|-------
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
-2024.06 | Kyungpook National University | [The Ecosystem of LLMs from a Real-World Perspective](https://www.youtube.com/watch?v=3xzP4-LQFZU&t=2046s)
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
-2024.05 | Chungnam National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Safety Compass Conference ​2024](https://iaae.ai/program/?idx=22561163&bmode=view) | Data and Evaluation Methods for Trustworthy AI
-2024.05 | Chonbuk National University | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | ETRI | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [AI Tech 2024 - AI Frontier for AI Era](https://dubiz.co.kr/Event/249)| SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem 
 2024.05 | [No code·Low code Hyper-automation Conference 2024](https://jco.zdnet.co.kr/conference/hyper2024) | The Ecosystem of LLMs from a Real-World Perspective 
-2024.02 | Korea University College of Medicine | SOLAR: The Next Frontier in Large Language Models by Upstage
 2024.01 | [The University of Tokyo](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
 2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
@@ -302,10 +238,8 @@ Year | Place | Contents
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
 2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
-2023.06 | AI EDucation Alliance Policy lab (AIEDAP) |  Deep Learning Understanding and Practice
+2023.06 | [AI EDucation Alliance Policy lab (AIEDAP)](https://aiedap.or.kr/) |  Deep Learning Understanding and Practice
 2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
-2022.07 | Hankuk University of Foreign Studies |  Basic practice of natural language processing for everyone
-2020.01 | Dongguk University |  [A.I - NLP - MT for Liberal Arts](https://github.com/Parkchanjun/Dongguk_AI_NLP_MachineTranslation)
 2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
