@@ -19,8 +19,6 @@ sass:
 nav:
  - name: "CV"
    link: "Curriculum_Vitae_Chanjunpark__New_.pdf"
- - name: "KU-NMT GROUP"
-   link: "http://kunmt.org/"
 
 
 remote_theme: ankitsultana/researcher@gem

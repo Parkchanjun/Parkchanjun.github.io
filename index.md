@@ -195,11 +195,7 @@ Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*<br>
 
-### International Journal (SCI/SCIE) / Domestic Journal (KCI) / Domestic Conference / Other International Conference
-* **International Journal (SCI/SCIE)**: [31 papers](https://orcid.org/0000-0002-7200-9632) <br>
-* **Domestic Journal (KCI)**: [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
-* **Domestic Conference**: [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) <br>
-* **Other International Conferences**: [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) <br>
+In addition, I have published [23 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [31 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences.
 
 ## Selected Teaching
 1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
