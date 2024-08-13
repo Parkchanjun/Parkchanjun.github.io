@@ -202,7 +202,8 @@ In addition, I have published [23 papers](https://scholar.google.com/citations?u
 2.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
 3.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
 4.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
-5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Master (Instructor), BoostCamp - NAVER Connect Foundation. (2023) <br>
+5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023) <br>
+6.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019) <br>
 
 ## Selected Awards
 
@@ -236,7 +237,6 @@ Year | Place | Contents
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
 2023.06 | [AI EDucation Alliance Policy lab (AIEDAP)](https://aiedap.or.kr/) |  Deep Learning Understanding and Practice
 2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
-2019.08 | SK T Academy  |  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
 
 ## Media Coverages (Press, Youtube, Blog)
