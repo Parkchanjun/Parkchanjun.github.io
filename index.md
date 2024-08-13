@@ -77,15 +77,15 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 *arxiv, 2022*<br>
 
 ### Conferences
-1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://arxiv.org/abs/2405.20574) <br>
+1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://aclanthology.org/2024.acl-long.177/) <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
 
-2. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models]() <br>
+2. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models](https://aclanthology.org/2024.findings-acl.141/) <br>
 Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
 *ACL 2024-Findings*<br>
 
-3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation]() <br>
+3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation](https://aclanthology.org/2024.findings-acl.135/) <br>
 Jungseob Lee, Hyeonseok Moon, Seungjun Lee, **Chanjun Park (✝)**, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
 *ACL 2024-Findings*<br>
 
@@ -243,6 +243,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.08 | [NIA·업스테이지, '오픈 Ko-LLM 리더보드' 전면 개편](https://www.sedaily.com/NewsView/2DCZK67IHL) | 서울경제 외 다수 언론사
 2024.08 | [AI도 가성비 시대? 대형 언어 모델(LLM)과 대비된다는 SLM의 정체는](https://n.news.naver.com/mnews/article/023/0003851391?sid=101) | 조선일보
 2024.08 | [한국어 LLM 리더보드 시즌2 가동…“벤치마크 난도 높여 오버피팅 논란 뚫는다”](https://www.etnews.com/20240807000196) | 전자신문
 2024.07 | ['말 잘하는 AI'는 LLM 덕분? 'NLP'도 기억하자!](https://n.news.naver.com/article/138/0002178696?sid=105) | 디지털데일리
