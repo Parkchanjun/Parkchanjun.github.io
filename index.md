@@ -39,7 +39,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
-* **Committee Member**: [AI Ethics and Trustworthiness Forum (AI 윤리·신뢰성 포럼 위원- AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
+* **Committee Member**: [Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT (과기정통부 AI 윤리·신뢰성 포럼 위원 - AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
 * **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회) 3분과 (투명성 확보)](https://www.youtube.com/watch?v=Z1GEsgLKzc4), 2023.10~ <br>
 
 ## Publications
