@@ -10,7 +10,7 @@ layout: default
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
-## News (Only Major NLP Venue Publications from the Last 4 Years)
+## News (Only Major NLP Venue Publications)
 * **2024**: Three papers (including two Findings) have been accepted at ACL 2024.   <br>
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at NAACL 2024.   <br>
 * **2024**: Two papers have been accepted at LREC-COLING 2024. <br>
