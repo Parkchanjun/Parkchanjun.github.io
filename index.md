@@ -10,6 +10,22 @@ layout: default
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
+## News
+* **2024.06**: I gave an invited talk at [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300). <br>
+* **2024.05**: One paper has been accepted at ACL 2024.   <br>
+* **2024.05**: Two papers have been accepted at ACL Findings 2024.   <br>
+* **2024.05**: I gave an invited talk at [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW). <br>
+* **2024.03**: One paper has been accepted at NAACL 2024 Industry Track.   <br>
+* **2024.03**: Two papers have been accepted at NAACL 2024 Student Research Workshop.   <br>
+* **2024.02**: I have been selected for [Forbes 30 Under 30 Korea](https://jmagazine.joins.com/forbes/view/339714). <br>
+* **2024.02**: Two papers have been accepted at LREC-COLING 2024. <br>
+* **2024.01**: Two papers have been accepted at EACL Findings 2024. <br>
+* **2024.01**: I gave an invited talk at The University of Tokyo. <br>
+* **2024.01**: One paper has been accepted at ICLR 2024 Data-centric Machine Learning Research (DMLR) Workshop.   <br>
+* **2023**: Two papers have been accepted at EMNLP 2023. <br>
+* **2023**: Seven papers have been accepted at ICML 2023 Data-centric Machine Learning Research (DMLR) Workshop. <br>
+* **2023**: One paper has been accepted at IJCNLP-AACL 2023.  <br>
+
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
