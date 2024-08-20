@@ -10,24 +10,33 @@ layout: default
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
-## News (Only Major NLP Venue Publications)
-* **2024**: Three papers (including two Findings) have been accepted at ACL 2024.   <br>
-* **2024**: Three papers (including one from industry and two from SRW) have been accepted at NAACL 2024.   <br>
-* **2024**: Two papers have been accepted at LREC-COLING 2024. <br>
-* **2024**: Two papers have been accepted at EACL Findings 2024. <br>
-* **2023**: Two papers have been accepted at EMNLP 2023. <br>
-* **2023**: One paper has been accepted at IJCNLP-AACL 2023.  <br>
-* **2023**: One paper has been accepted at IWSLT 2023.  <br>
-* **2023**: One paper has been accepted at ACL 2023 Demo Track.  <br>
-* **2022**: One paper has been accepted at AACL-IJCNLP 2022 Demo Track.  <br>
-* **2022**: One paper has been accepted at WMT 2022.  <br>
-* **2022**: One paper has been accepted at COLING 2022.  <br>
-* **2022**: One paper has been accepted at NAACL Findings 2022.  <br>
-* **2022**: Three papers have been accepted at LREC 2022.   <br>
-* **2021**: One paper has been accepted at LoResMT 2021.  <br>
-* **2021**: One paper has been accepted at EMNLP 2021 Insights.  <br>
-* **2021**: One paper has been accepted at WAT 2021.  <br>
-* **2021**: One paper has been accepted at NAACL 2021 Industry Track.  <br>
+## News
+* **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
+* **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**.   <br>
+* **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
+* **2024**: Two papers have been accepted at **EACL Findings 2024**. <br>
+* **2024**: One paper has been accepted at **ICLR 2024** workshop.  <br>
+
+* **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
+* **2023**: One paper has been accepted at **ICDM 2023** workshop.  <br>
+* **2023**: Seven papers have been accepted at **ICML 2023** workshop. <br>
+* **2023**: One paper has been accepted at **IJCNLP-AACL 2023**.  <br>
+* **2023**: One paper has been accepted at **IWSLT 2023 (in ACL 2023)**.  <br>
+* **2023**: One paper has been accepted at **ACL 2023** Demo Track.  <br>
+
+* **2022**: One paper has been accepted at **AACL-IJCNLP 2022** Demo Track.  <br>
+* **2022**: One paper has been accepted at **WMT 2022 (in EMNLP 2022)**.  <br>
+* **2022**: Two papers (including one workshop) have been accepted at **COLING 2022**.  <br>
+* **2022**: One paper has been accepted at **NAACL Findings 2022**.  <br>
+* **2022**: Three papers have been accepted at **LREC 2022**.   <br>
+* **2022**: One paper has been accepted at **ICML 2022** workshop.  <br>
+* **2022**: One paper has been accepted at **AAAI 2022** workshop.  <br>
+
+* **2021**: Four papers have been accepted at **NeurIPS 2021** workshop. <br>
+* **2021**: One paper has been accepted at **LoResMT 2021 (in MT Summit 2021)**.  <br>
+* **2021**: Two papers have been accepted at **EMNLP 2021** workshop.  <br>
+* **2021**: One paper has been accepted at **WAT (in ACL 2021)** workshop.  <br>
+* **2021**: One paper has been accepted at **NAACL 2021 Industry Track**.  <br>
 
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
