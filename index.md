@@ -16,14 +16,12 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
 * **2024**: Two papers have been accepted at **EACL Findings 2024**. <br>
 * **2024**: One paper has been accepted at **ICLR 2024** workshop.  <br>
-
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
 * **2023**: One paper has been accepted at **ICDM 2023** workshop.  <br>
 * **2023**: Seven papers have been accepted at **ICML 2023** workshop. <br>
 * **2023**: One paper has been accepted at **IJCNLP-AACL 2023**.  <br>
 * **2023**: One paper has been accepted at **IWSLT 2023 (in ACL 2023)**.  <br>
 * **2023**: One paper has been accepted at **ACL 2023** Demo Track.  <br>
-
 * **2022**: One paper has been accepted at **AACL-IJCNLP 2022** Demo Track.  <br>
 * **2022**: One paper has been accepted at **WMT 2022 (in EMNLP 2022)**.  <br>
 * **2022**: Two papers (including one workshop) have been accepted at **COLING 2022**.  <br>
@@ -31,7 +29,6 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2022**: Three papers have been accepted at **LREC 2022**.   <br>
 * **2022**: One paper has been accepted at **ICML 2022** workshop.  <br>
 * **2022**: One paper has been accepted at **AAAI 2022** workshop.  <br>
-
 * **2021**: Four papers have been accepted at **NeurIPS 2021** workshop. <br>
 * **2021**: One paper has been accepted at **LoResMT 2021 (in MT Summit 2021)**.  <br>
 * **2021**: Two papers have been accepted at **EMNLP 2021** workshop.  <br>
