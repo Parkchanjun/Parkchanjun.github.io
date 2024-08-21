@@ -16,8 +16,12 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
 * **2024**: Two papers have been accepted at **EACL Findings 2024**. <br>
 * **2024**: One paper has been accepted at **ICLR 2024** workshop.  <br>
+* **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
+* **2024**: I was selected to serve as the **Publication Chair** for **ICLR 2024-DMLR**. <br>
+* **2023**: I received the **Best Paper Award** at Korea University. <br>
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
 * **2023**: One paper has been accepted at **ICDM 2023** workshop.  <br>
+* **2023**: I was selected to serve as the **Program Chair** for the **Widening NLP (WiNLP)** Workshop in EMNLP.  <br>
 * **2023**: Seven papers have been accepted at **ICML 2023** workshop. <br>
 * **2023**: One paper has been accepted at **IJCNLP-AACL 2023**.  <br>
 * **2023**: One paper has been accepted at **IWSLT 2023 (in ACL 2023)**.  <br>
@@ -29,6 +33,8 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2022**: Three papers have been accepted at **LREC 2022**.   <br>
 * **2022**: One paper has been accepted at **ICML 2022** workshop.  <br>
 * **2022**: One paper has been accepted at **AAAI 2022** workshop.  <br>
+* **2022**: I was selected to serve as the **Virtual Social Chair** for **COLING 2022**.  <br>
+* **2021**: I was selected for the **Naver Ph.D. Fellowship**. <br>
 * **2021**: Four papers have been accepted at **NeurIPS 2021** workshop. <br>
 * **2021**: One paper has been accepted at **LoResMT 2021 (in MT Summit 2021)**.  <br>
 * **2021**: Two papers have been accepted at **EMNLP 2021** workshop.  <br>
@@ -244,6 +250,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.08 | Embassy of the United States in Seoul | Large Language Model in the Wild
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
