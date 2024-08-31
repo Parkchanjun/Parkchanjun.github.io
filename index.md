@@ -18,13 +18,13 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: One paper has been accepted at **ICLR 2024** workshop.  <br>
 * **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
 * **2024**: I was selected to serve as the **Publication Chair** for **ICLR 2024-DMLR**. <br>
-* **2023**: I received the **Best Paper Award** at Korea University. <br>
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
 * **2023**: One paper has been accepted at **ICDM 2023** workshop.  <br>
 * **2023**: I was selected to serve as the **Program Chair** for the **Widening NLP (WiNLP)** Workshop in EMNLP.  <br>
 * **2023**: Seven papers have been accepted at **ICML 2023** workshop. <br>
 * **2023**: One paper has been accepted at **IJCNLP-AACL 2023**.  <br>
 * **2023**: One paper has been accepted at **IWSLT 2023 (in ACL 2023)**.  <br>
+* **2023**: I received the **Best Paper Award** at Korea University. <br>
 * **2023**: One paper has been accepted at **ACL 2023** Demo Track.  <br>
 * **2022**: One paper has been accepted at **AACL-IJCNLP 2022** Demo Track.  <br>
 * **2022**: One paper has been accepted at **WMT 2022 (in EMNLP 2022)**.  <br>
@@ -46,8 +46,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Work Experiences
-* **2023.07 - Now**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
-* **2022.07 - 2023.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer <br>
+* **2022.07 - Now**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
 * **2022.03 - 2022.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer Intern <br>
 * **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
@@ -250,7 +249,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2024.08 | Embassy of the United States in Seoul | Large Language Model in the Wild
+2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
@@ -275,6 +274,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.08 | [딥페이크 확산에…“플랫폼이 삭제하는 법 규정” 한목소리](https://www.hani.co.kr/arti/economy/it/1155856.html) | 한겨레
 2024.08 | [NIA·업스테이지, '오픈 Ko-LLM 리더보드' 전면 개편](https://www.sedaily.com/NewsView/2DCZK67IHL) | 서울경제 외 다수 언론사
 2024.08 | [AI도 가성비 시대? 대형 언어 모델(LLM)과 대비된다는 SLM의 정체는](https://n.news.naver.com/mnews/article/023/0003851391?sid=101) | 조선일보
 2024.08 | [한국어 LLM 리더보드 시즌2 가동…“벤치마크 난도 높여 오버피팅 논란 뚫는다”](https://www.etnews.com/20240807000196) | 전자신문
