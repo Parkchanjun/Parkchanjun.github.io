@@ -249,6 +249,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.09 | Seoul National University | Large Language Model in the Wild
 2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
