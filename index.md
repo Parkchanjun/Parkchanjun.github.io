@@ -74,6 +74,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://arxiv.org/abs/2409.09613) <br>
+Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
+*arxiv, 2024*<br>
+
 1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://arxiv.org/abs/2409.03257) <br>
 **Chanjun Park (✝)**, Hyeonwoo Kim <br>
 *arxiv, 2024*<br>
