@@ -279,7 +279,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
-2024.09 | [국내 AI 업계 오픈AI '스트로베리' 관전평…"초격차까지는 아니다](https://n.news.naver.com/mnews/article/138/0002182456?sid=105) | ZDNET
+2024.09 | [국내 AI 업계 오픈AI '스트로베리' 관전평…"초격차까지는 아니다](https://n.news.naver.com/mnews/article/138/0002182456?sid=105) | 디지털 데일리
 2024.09 | [추론하는 법 배웠다…오픈AI 'o1' 출시에 국내 업계 반응은](https://n.news.naver.com/article/092/0002345654?sid=105) | ZDNET
 2024.08 | [딥페이크 확산에…“플랫폼이 삭제하는 법 규정” 한목소리](https://www.hani.co.kr/arti/economy/it/1155856.html) | 한겨레
 2024.08 | [NIA·업스테이지, '오픈 Ko-LLM 리더보드' 전면 개편](https://www.sedaily.com/NewsView/2DCZK67IHL) | 서울경제 외 다수 언론사
