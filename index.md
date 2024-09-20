@@ -11,6 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
+* **2024**: Three papers (including two Findings) have been accepted at **EMNLP 2024**.   <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**.   <br>
 * **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
@@ -86,10 +87,6 @@ Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (�
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
-1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
-Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
-*arxiv, 2024*<br>
-
 2. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2404.03887) <br>
 Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -115,6 +112,18 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 *arxiv, 2022*<br>
 
 ### Conferences
+1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts]() <br>
+Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
+*EMNLP 2024*<br>
+
+1. [Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models]() <br>
+Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
+*EMNLP 2024-Findings*<br>
+
+1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
+Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
+*EMNLP 2024-Findings*<br>
+
 1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://aclanthology.org/2024.acl-long.177/) <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
