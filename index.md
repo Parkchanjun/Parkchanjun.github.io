@@ -113,11 +113,11 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 
 ### Conferences
 1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts]() <br>
-Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
+Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024*<br>
 
 1. [Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models]() <br>
-Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
+Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024-Findings*<br>
 
 1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
