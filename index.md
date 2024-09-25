@@ -20,27 +20,6 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
 * **2024**: I was selected to serve as the **Publication Chair** for **ICLR 2024-DMLR**. <br>
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
-* **2023**: One paper has been accepted at **ICDM 2023** workshop.  <br>
-* **2023**: I was selected to serve as the **Program Chair** for the **Widening NLP (WiNLP)** Workshop in EMNLP.  <br>
-* **2023**: Seven papers have been accepted at **ICML 2023** workshop. <br>
-* **2023**: One paper has been accepted at **IJCNLP-AACL 2023**.  <br>
-* **2023**: One paper has been accepted at **IWSLT 2023 (in ACL 2023)**.  <br>
-* **2023**: I received the **Best Paper Award** at Korea University. <br>
-* **2023**: One paper has been accepted at **ACL 2023** Demo Track.  <br>
-* **2022**: One paper has been accepted at **AACL-IJCNLP 2022** Demo Track.  <br>
-* **2022**: One paper has been accepted at **WMT 2022 (in EMNLP 2022)**.  <br>
-* **2022**: Two papers (including one workshop) have been accepted at **COLING 2022**.  <br>
-* **2022**: One paper has been accepted at **NAACL Findings 2022**.  <br>
-* **2022**: Three papers have been accepted at **LREC 2022**.   <br>
-* **2022**: One paper has been accepted at **ICML 2022** workshop.  <br>
-* **2022**: One paper has been accepted at **AAAI 2022** workshop.  <br>
-* **2022**: I was selected to serve as the **Virtual Social Chair** for **COLING 2022**.  <br>
-* **2021**: I was selected for the **Naver Ph.D. Fellowship**. <br>
-* **2021**: Four papers have been accepted at **NeurIPS 2021** workshop. <br>
-* **2021**: One paper has been accepted at **LoResMT 2021 (in MT Summit 2021)**.  <br>
-* **2021**: Two papers have been accepted at **EMNLP 2021** workshop.  <br>
-* **2021**: One paper has been accepted at **WAT (in ACL 2021)** workshop.  <br>
-* **2021**: One paper has been accepted at **NAACL 2021 Industry Track**.  <br>
 
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
@@ -66,7 +45,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program Committee**: [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
+* **Program Committee**: [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
 
 ## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
@@ -266,6 +245,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.10 | Republic of Korea Army Headquarters | Large Language Model in the Wild
 2024.09 | Seoul National University | Large Language Model in the Wild
 2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
 2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
