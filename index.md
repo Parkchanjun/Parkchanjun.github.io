@@ -32,7 +32,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
 ## Selected Projects
-* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://en.content.upstage.ai/1tt">Up 1 Trillion Token Club</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
+* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://arxiv.org/abs/2404.03887">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://arxiv.org/abs/2404.00943">Evalverse</a>, <a href="https://arxiv.org/abs/2409.20149">1 Trillion Token Club</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
 
 * **Korea University**: <a href="https://aclanthology.org/2024.findings-acl.141/">KoCommonGEN v2</a>, <a href="https://aclanthology.org/2024.findings-acl.135/">LeVoc</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a>
  <br>
@@ -54,6 +54,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models](https://arxiv.org/abs/2409.20149) <br>
+**Chanjun Park (✝)**, Hyunsoo Ha, Jihoo Kim, Yungi Kim, Dahyun Kim, Sukyung Lee, Seonghoon Yang <br>
+*arxiv, 2024*<br>
+
 1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://arxiv.org/abs/2409.09613) <br>
 Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -272,6 +276,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.09 | [오픈AI, 한국어 포함 14개 언어 AI 평가용 벤치마크 데이터셋 출시](https://www.aitimes.com/news/articleView.html?idxno=163677) | AI TIMES
 2024.09 | [국내 AI 업계 오픈AI '스트로베리' 관전평…"초격차까지는 아니다](https://n.news.naver.com/mnews/article/138/0002182456?sid=105) | 디지털 데일리
 2024.09 | [추론하는 법 배웠다…오픈AI 'o1' 출시에 국내 업계 반응은](https://n.news.naver.com/article/092/0002345654?sid=105) | ZDNET
 2024.08 | [딥페이크 확산에…“플랫폼이 삭제하는 법 규정” 한목소리](https://www.hani.co.kr/arti/economy/it/1155856.html) | 한겨레
