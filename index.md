@@ -54,6 +54,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets](https://arxiv.org/abs/2410.01512) <br>
+Yungi Kim, **Chanjun Park (✝)** <br>
+*arxiv, 2024*<br>
+
 1. [1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models](https://arxiv.org/abs/2409.20149) <br>
 **Chanjun Park (✝)**, Hyunsoo Ha, Jihoo Kim, Yungi Kim, Dahyun Kim, Sukyung Lee, Seonghoon Yang <br>
 *arxiv, 2024*<br>
