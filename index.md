@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
-* **2024**: Four papers (including two from Findings and one from industry) have been accepted at **EMNLP 2024**.   <br>
+* **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**.   <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**.   <br>
 * **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
@@ -74,10 +74,6 @@ Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (�
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
-3. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://arxiv.org/abs/2404.00943) <br>
-Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
 4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
 Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -111,17 +107,21 @@ Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , H
 Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
 *EMNLP 2024 - Industry*<br>
 
+3. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://arxiv.org/abs/2404.00943) <br>
+Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** <br>
+*EMNLP 2024 - Demo*<br>
+
 1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://aclanthology.org/2024.acl-long.177/) <br>
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
 
 2. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models](https://aclanthology.org/2024.findings-acl.141/) <br>
 Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
-*ACL 2024-Findings*<br>
+*ACL 2024 - Findings*<br>
 
 3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation](https://aclanthology.org/2024.findings-acl.135/) <br>
 Jungseob Lee, Hyeonseok Moon, Seungjun Lee, **Chanjun Park (✝)**, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
-*ACL 2024-Findings*<br>
+*ACL 2024 - Findings*<br>
 
 4. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://aclanthology.org/2024.naacl-industry.3/) <br>
 Sanghoon Kim (\*, ✝), Dahyun Kim (\*), **Chanjun Park (\*, ✝)**, Wonsung Lee (\*, ✝), Wonho Song (\*), Yunsu Kim (\*), Hyeonwoo Kim (\*), Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee (✝), Sunghun Kim (✝)  <br>
@@ -137,11 +137,11 @@ Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuise
 
 7. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
-*EACL 2024-Findings* <br>
+*EACL 2024 - Findings* <br>
 
 8. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
 Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
-*EACL 2024-Findings* <br>
+*EACL 2024 - Findings* <br>
 
 9. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
@@ -161,11 +161,11 @@ Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 
 13. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
 Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Nugroho Yahya, Heuiseok Lim <br>
-*ACL 2023 - Demo Track* <br>
+*ACL 2023 - Demo* <br>
 
 14. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://aclanthology.org/2022.aacl-demo.3/) <br>
 **Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Jaehyung Seo (\*), Kisu Yang, Heuiseok Lim <br>
-*AACL-IJCNLP 2022 - Demo Track* <br>
+*AACL-IJCNLP 2022 - Demo* <br>
 
 15. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://aclanthology.org/2022.wmt-1.56/) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
@@ -178,7 +178,7 @@ Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jung
 
 17. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
-*NAACL 2022-Findings*<br>
+*NAACL 2022 - Findings*<br>
 
 18. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
 **Chanjun Park (\*)**, Seolhwa Lee (\*), Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
@@ -194,16 +194,16 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 
 21. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
-*NAACL-HLT 2021 - Industry*, Oral<br>
+*NAACL-HLT 2021 - Industry*<br>
 
 ### Selected Workshops
 1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
 Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
+*NAACL 2024 - Student Research Workshop (SRW)*<br>
 
 2. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation](https://aclanthology.org/2024.naacl-srw.4/) <br>
 Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
+*NAACL 2024 - Student Research Workshop (SRW)*<br>
 
 3. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
 **Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
@@ -229,7 +229,7 @@ Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
 Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
 *MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*<br>
 
-In addition, I have published [23 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [31 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [57 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences.
+In addition, I have published [23 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [31 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences.
 
 ## Selected Teaching
 1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
