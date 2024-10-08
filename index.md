@@ -54,6 +54,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://arxiv.org/abs/2410.04795) <br>
+Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
+*arxiv, 2024*<br>
+
 1. [InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets](https://arxiv.org/abs/2410.01512) <br>
 Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
