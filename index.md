@@ -54,7 +54,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
-1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.04795) <br>
+1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.12445) <br>
 Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
 
