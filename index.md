@@ -42,7 +42,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a> <br>
 
 ## Academic Service
-* **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/) <br>
+* **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/organization/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program Committee**: [COLING 2025](https://coling2025.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
@@ -54,6 +54,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](https://arxiv.org/abs/2410.18436) <br>
+Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee <br>
+*arxiv, 2024*<br>
+
 1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.12445) <br>
 Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -288,6 +292,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.10 | [AI편향성 문제 해결나선 국가들…국내 데이터 전처리 기술 주목](https://www.ddaily.co.kr/page/view/2024101822173633226) | 디지털 데일리
 2024.09 | [오픈AI, 한국어 포함 14개 언어 AI 평가용 벤치마크 데이터셋 출시](https://www.aitimes.com/news/articleView.html?idxno=163677) | AI TIMES
 2024.09 | [국내 AI 업계 오픈AI '스트로베리' 관전평…"초격차까지는 아니다](https://n.news.naver.com/mnews/article/138/0002182456?sid=105) | 디지털 데일리
 2024.09 | [추론하는 법 배웠다…오픈AI 'o1' 출시에 국내 업계 반응은](https://n.news.naver.com/article/092/0002345654?sid=105) | ZDNET
