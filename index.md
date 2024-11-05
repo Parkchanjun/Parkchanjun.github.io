@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Biography
 
 <img class="profile-picture" src="chanjunpark.jpg">
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a researcher in the field of Natural Language Processing (NLP). He is currently working as a Principal Research Engineer & Technical Leader at the <a href="https://www.upstage.ai/">Upstage</a>. In 2023, he received his Ph.D. from Korea University, supervised by Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. From 2018 to 2019, he worked at <a href="https://www.systransoft.com/">SYSTRAN</a>  as a Research Engineer. He is selected for <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a>. See <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> for more information.
@@ -11,6 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
+* **2025**: One paper has been accepted at **COLING 2025 Industry Track**.  <br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**.   <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**.   <br>
@@ -90,10 +91,6 @@ Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
 
-5. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
-Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
 6. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
 **Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *arxiv, 2023*<br>
@@ -103,6 +100,10 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 *arxiv, 2022*<br>
 
 ### Conferences
+1. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
+Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
+*COLING 2025 - Industry*<br>
+
 1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts]() <br>
 Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024*<br>
@@ -265,6 +266,8 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
+2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
 2024.10 | Republic of Korea Army Headquarters | Large Language Model in the Wild
 2024.09 | Seoul National University | Large Language Model in the Wild
 2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
@@ -292,6 +295,8 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.11 | [주한미국대사관 ‘AI 윤리’ 주제로 한 ‘2024 테크 캠프(TechCamp)’ 성료](https://www.mk.co.kr/news/world/11158374) | 매일경제 등 다수 언론사
+2024.11 | [주한미국대사관, 한국서 첫 청년 테크 캠프 연다](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | 조선일보
 2024.10 | [AI편향성 문제 해결나선 국가들…국내 데이터 전처리 기술 주목](https://www.ddaily.co.kr/page/view/2024101822173633226) | 디지털 데일리
 2024.09 | [오픈AI, 한국어 포함 14개 언어 AI 평가용 벤치마크 데이터셋 출시](https://www.aitimes.com/news/articleView.html?idxno=163677) | AI TIMES
 2024.09 | [국내 AI 업계 오픈AI '스트로베리' 관전평…"초격차까지는 아니다](https://n.news.naver.com/mnews/article/138/0002182456?sid=105) | 디지털 데일리
