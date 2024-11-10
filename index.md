@@ -43,7 +43,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a> <br>
 
 ## Academic Service
-* **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://www.winlp.org/organization/) <br>
+* **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://aclanthology.org/2024.winlp-1.0/) <br>
 * **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Program Committee**: [COLING 2025](https://coling2025.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
@@ -104,23 +104,23 @@ Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Cha
 Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
 *COLING 2025 - Industry*<br>
 
-1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts]() <br>
+1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts](https://aclanthology.org/2024.emnlp-main.783/) <br>
 Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024*<br>
 
-1. [Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models]() <br>
+1. [Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models](https://aclanthology.org/2024.findings-emnlp.6/) <br>
 Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024-Findings*<br>
 
-1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://arxiv.org/abs/2404.16257) <br>
+1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://aclanthology.org/2024.findings-emnlp.114/) <br>
 Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
 *EMNLP 2024-Findings*<br>
 
-2. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2404.03887) <br>
+2. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://aclanthology.org/2024.emnlp-industry.15/) <br>
 Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
 *EMNLP 2024 - Industry*<br>
 
-3. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://arxiv.org/abs/2404.00943) <br>
+3. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.3/) <br>
 Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** <br>
 *EMNLP 2024 - Demo*<br>
 
