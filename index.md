@@ -35,7 +35,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
 ## Selected Projects
-* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>,  <a href="https://arxiv.org/abs/2410.12445">Open Ko-LLM Leaderboard2</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://aclanthology.org/2024.emnlp-industry.15/">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://aclanthology.org/2024.emnlp-demo.3/">Evalverse</a>, <a href="https://arxiv.org/abs/2409.20149">1 Trillion Token Club</a>, <a href="https://arxiv.org/abs/2410.04795">Thai LLM</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
+* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>,  <a href="https://arxiv.org/abs/2410.12445">Open Ko-LLM Leaderboard2</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://aclanthology.org/2024.emnlp-industry.15/">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://aclanthology.org/2024.emnlp-demo.3/">Evalverse</a>, <a href="https://arxiv.org/abs/2409.20149">1 Trillion Token Club</a>,  <a href="https://arxiv.org/abs/2411.11289">LP Data Pipeline</a>. <a href="https://arxiv.org/abs/2410.04795">Thai LLM</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
 
 * **Korea University**: <a href="https://aclanthology.org/2024.findings-acl.141/">KoCommonGEN v2</a>, <a href="https://aclanthology.org/2024.findings-acl.135/">LeVoc</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a> <br>
 
@@ -56,6 +56,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://arxiv.org/abs/2411.11289) <br>
+Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
+*arxiv, 2024*<br>
+
 1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](https://arxiv.org/abs/2410.18436) <br>
 Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee <br>
 *arxiv, 2024*<br>
@@ -95,10 +99,6 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 6. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
 **Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *arxiv, 2023*<br>
-
-7. [Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models](https://arxiv.org/abs/2209.06422) <br>
-Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Chanhee Lee, Yoonna Jang, Jaehyung Seo, Heuiseok Lim <br>
-*arxiv, 2022*<br>
 
 ### Conferences
 1. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
