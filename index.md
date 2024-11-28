@@ -267,6 +267,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.11 | DGIST | Large Language Model in the Wild
 2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
 2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
 2024.10 | Republic of Korea Army Headquarters | Large Language Model in the Wild
@@ -296,6 +297,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2024.11 | [불법 학습 데이터 활용...AI 기업 '망조'의 지름길](https://n.news.naver.com/mnews/article/138/0002186934?sid=105) | 디지털 데일리
 2024.11 | [주한미국대사관 ‘AI 윤리’ 주제로 한 ‘2024 테크 캠프(TechCamp)’ 성료](https://www.mk.co.kr/news/world/11158374) | 매일경제 등 다수 언론사
 2024.11 | [주한미국대사관, 한국서 첫 청년 테크 캠프 연다](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | 조선일보
 2024.10 | [AI편향성 문제 해결나선 국가들…국내 데이터 전처리 기술 주목](https://www.ddaily.co.kr/page/view/2024101822173633226) | 디지털 데일리
