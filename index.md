@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
-* **2025**: One paper has been accepted at **COLING 2025 Industry Track**.  <br>
+* **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
@@ -68,10 +68,6 @@ Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee <br>
 Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
 
-1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://arxiv.org/abs/2410.04795) <br>
-Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
 1. [InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets](https://arxiv.org/abs/2410.01512) <br>
 Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -101,6 +97,10 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 *arxiv, 2023*<br>
 
 ### Conferences
+1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://arxiv.org/abs/2410.04795) <br>
+Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
+*COLING 2025*<br>
+
 1. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
 Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
 *COLING 2025 - Industry*<br>
