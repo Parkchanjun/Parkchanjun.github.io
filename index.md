@@ -101,11 +101,11 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 *arxiv, 2023*<br>
 
 ### Conferences
-1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://arxiv.org/abs/2410.04795) <br>
+1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://aclanthology.org/2025.coling-main.278/) <br>
 Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
 *COLING 2025*<br>
 
-1. [sDPO: Don't Use Your Data All at Once](https://arxiv.org/abs/2403.19270) <br>
+1. [sDPO: Don't Use Your Data All at Once](https://aclanthology.org/2025.coling-industry.31/) <br>
 Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
 *COLING 2025 - Industry*<br>
 
