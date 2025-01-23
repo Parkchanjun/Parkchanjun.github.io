@@ -11,6 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
+* **2025**: Five papers (including three from Findings) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
@@ -101,6 +102,26 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 *arxiv, 2023*<br>
 
 ### Conferences
+1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs]() <br>
+Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Hongsuck Seo (✝) <br>
+*NAACL 2025*<br>
+
+1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing]() <br>
+Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2025*<br>
+
+1. [MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation]() <br>
+Chanhee Park, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2025-Findings*<br>
+
+1. [FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models]() <br>
+Dahyun Jung, Seungyoon Lee, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2025-Findings*<br>
+
+1. [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models]() <br>
+Hyeonseok Moon, Jaehyung Seo, Seungyoon Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2025-Findings*<br>
+
 1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://aclanthology.org/2025.coling-main.278/) <br>
 Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
 *COLING 2025*<br>
