@@ -58,7 +58,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 ## Publications
 ### Preprints 
 1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance](https://arxiv.org/abs/2412.07113) <br>
-Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Paul Heuiseok Lim (✝) <br>
+Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
 1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://arxiv.org/abs/2411.11289) <br>
@@ -103,7 +103,7 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 
 ### Conferences
 1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs]() <br>
-Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Hongsuck Seo (✝) <br>
+Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
 *NAACL 2025*<br>
 
 1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing]() <br>
