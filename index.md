@@ -58,7 +58,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 ## Publications
 ### Preprints 
 1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance](https://arxiv.org/abs/2412.07113) <br>
-Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Paul Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
 1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://arxiv.org/abs/2411.11289) <br>
