@@ -322,6 +322,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.02 | [딥시크 쇼크…한국 AI 산업, 위기가 기회될까](https://www.khan.co.kr/article/202502080900061) | 경향신문
 2025.02 | ['D·R·I·F·T' 덫에 갇힌 한국…이대론 'AI 패권시대' 구경꾼 될판](https://www.sedaily.com/NewsView/2GOUPSBWLY) | 서울경제
 2025.02 | [국내 기업도 AI 서비스 본격화…'동맹 확장' 노리는 오픈AI](https://www.yna.co.kr/view/AKR20250203123600017?input=1195m) | 연합뉴스
 2025.02 | [[차이나 역습] "기술전쟁 본격 대비를…'국가 전략 AI' 신발끈 묶을 때"](https://www.yna.co.kr/view/AKR20250131118900017?input=1195m) | 연합뉴스
