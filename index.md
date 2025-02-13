@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
-* **2025**: Five papers (including three from Findings) have been accepted at **NAACL 2025**. <br>
+* **2025**: Eight papers (including three from Findings and three from Industry) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
@@ -69,10 +69,6 @@ Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (�
 Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee <br>
 *arxiv, 2024*<br>
 
-1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.12445) <br>
-Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
 1. [InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets](https://arxiv.org/abs/2410.01512) <br>
 Yungi Kim, **Chanjun Park (✝)** <br>
 *arxiv, 2024*<br>
@@ -83,10 +79,6 @@ Yungi Kim, **Chanjun Park (✝)** <br>
 
 1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://arxiv.org/abs/2409.09613) <br>
 Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
-1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://arxiv.org/abs/2409.03257) <br>
-**Chanjun Park (✝)**, Hyeonwoo Kim <br>
 *arxiv, 2024*<br>
 
 1. [ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction](https://arxiv.org/abs/2406.03202) <br>
@@ -102,7 +94,7 @@ Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Par
 *arxiv, 2023*<br>
 
 ### Conferences
-1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs]() <br>
+1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://arxiv.org/abs/2502.06139) <br>
 Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
 *NAACL 2025*<br>
 
@@ -121,6 +113,18 @@ Dahyun Jung, Seungyoon Lee, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim
 1. [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models]() <br>
 Hyeonseok Moon, Jaehyung Seo, Seungyoon Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025-Findings*<br>
+
+1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.12445) <br>
+Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
+*NAACL 2025 - Industry, 2025*<br>
+
+1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://arxiv.org/abs/2409.03257) <br>
+**Chanjun Park (✝)**, Hyeonwoo Kim <br>
+*NAACL 2025 - Industry, 2025*<br>
+
+1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://arxiv.org/abs/2409.03257) <br>
+Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2025 - Industry, 2025*<br>
 
 1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://aclanthology.org/2025.coling-main.278/) <br>
 Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
