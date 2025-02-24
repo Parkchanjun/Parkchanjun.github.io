@@ -35,7 +35,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
-## Academic Service
+## Academic Services
 * **Program Chair**: [Widening NLP (WiNLP) Workshop at EMNLP 2023 & EMNLP 2024](https://aclanthology.org/2024.winlp-1.0.pdf) <br>
 * **Publication Chair**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
