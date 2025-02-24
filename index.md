@@ -19,9 +19,9 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**.   <br>
 * **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
 * **2024**: Two papers have been accepted at **EACL Findings 2024**. <br>
-* **2024**: One paper has been accepted at **ICLR 2024** workshop.  <br>
 * **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
-* **2024**: I was selected to serve as the **Publication Chair** for **ICLR 2024-DMLR**. <br>
+* **2024**: I was selected to serve as the **Publication Chair** for **DMLR at ICLR 2024**. <br>
+* **2024**: I was selected to serve as the **Program Chair** for **Widening NLP (WiNLP) Workshop at EMNLP 2024**. <br>
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
 
 ## Education
@@ -35,20 +35,11 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 * **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
 
-## Selected Projects
-* **Upstage**: <a href="https://aclanthology.org/2024.naacl-industry.3/">Solar</a>, <a href="https://arxiv.org/abs/2405.20574">Open Ko-LLM Leaderboard</a>,  <a href="https://arxiv.org/abs/2410.12445">Open Ko-LLM Leaderboard2</a>, <a href="https://arxiv.org/abs/2403.19270">sDPO</a>, <a href="https://aclanthology.org/2024.emnlp-industry.15/">SAAS</a>, <a href="https://arxiv.org/abs/2403.19340/">Dataverse</a>, <a href="https://aclanthology.org/2024.emnlp-demo.3/">Evalverse</a>, <a href="https://arxiv.org/abs/2409.20149">1 Trillion Token Club</a>,  <a href="https://arxiv.org/abs/2411.11289">LP Data Pipeline</a>, <a href="https://arxiv.org/abs/2410.04795">Thai LLM</a>, <a href="https://www.deeplearning.ai/short-courses/pretraining-llms/">DeepLearning.AI</a> <br>
-
-* **Korea University**: <a href="https://aclanthology.org/2024.findings-acl.141/">KoCommonGEN v2</a>, <a href="https://aclanthology.org/2024.findings-acl.135/">LeVoc</a>, <a href="https://aclanthology.org/2024.findings-eacl.5/">Hyper-BTS</a>, <a href="https://aclanthology.org/2023.emnlp-main.292/">KEBAP</a>, <a href="https://aclanthology.org/2023.ijcnlp-main.22/">Critical Error Detection</a>, <a href="https://aclanthology.org/2022.coling-1.460/">Quality Estimation</a>, <a href="https://aclanthology.org/2022.lrec-1.93/">Automatic Post Editing</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_">Parallel Corpus Filtering</a>, <a href="https://aclanthology.org/2022.findings-naacl.172/">Korean CommonGen</a>, <a href="https://aclanthology.org/2023.acl-demo.18/">PEEP-Talk</a>, <a href="https://aclanthology.org/2022.lrec-1.132/">FreeTalky</a>, <a href="https://aclanthology.org/2022.aacl-demo.3/">PicTalky</a>, <a href="https://aclanthology.org/2021.naacl-industry.13/">ONE-Piece</a> <br>
-
-* **SYSTRAN**: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100007139">Real-time Simultaneous Speech Translation</a> <br>
-
-* **BUFS**: <a href="https://bufsconv.blogspot.com/search/label/%EA%B3%BC%EC%A0%9C%EC%86%8C%EA%B0%9C">Han-Tong-E</a>, <a href="https://www.etri.re.kr/webzine/20190802/sub03.html">Exobrain</a> <br>
-
 ## Academic Service
-* **Program Chair**: [Widening NLP (WiNLP) Workshop (EMNLP 2023, EMNLP 2024)](https://aclanthology.org/2024.winlp-1.0/) <br>
-* **Publication Chair**: [ICLR 2024-Data-centric Machine Learning Research (DMLR) 2024](https://dmlr.ai/organizers/) <br>
+* **Program Chair**: [Widening NLP (WiNLP) Workshop at EMNLP 2023 & EMNLP 2024](https://aclanthology.org/2024.winlp-1.0.pdf) <br>
+* **Publication Chair**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
 * **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Program Committee**: [COLING 2025](https://coling2025.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [Reviewer of ACL Rolling Review (ACL, EMNLP, NAACL, EACL etc.)](https://aclrollingreview.org/people), [EMNLP 2024-Industry Track](https://2024.emnlp.org/calls/industry_track/), [NeurIPS 2024 Track Datasets and Benchmarks](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks), [ACL 2024-ML4AL](https://www.ml4al.com/index.html), [NAACL 2024-NLP+CSS](https://sites.google.com/site/nlpandcss/), [NAACL 2024-Insights](https://insights-workshop.github.io/index), [NAACL 2024-BEA](https://sig-edu.org/bea/2024), [ICLR 2024 Workshop Proposal Reviewing](https://iclr.cc/), [ICML 2023-Data-centric Machine Learning Research (DMLR)](https://dmlr.ai/pc/), [ACL 2023-Industry Track](https://2023.aclweb.org/calls/industry_track/), [ACL 2023-BEA](https://sig-edu.org/bea/2023), [ACL 2022-Insights](https://insights-workshop.github.io/2022/pc/), [NAACL 2022-Industry Track](https://aclanthology.org/2022.naacl-industry.pdf)  <br>
+* **Program Committee**: ACL, EMNLP, NAACL, EACL, COLING, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
 
 ## Selected External Activities
 * **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
@@ -239,40 +230,7 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 **Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
 *NAACL-HLT 2021 - Industry*<br>
 
-### Selected Workshops
-1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
-Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop (SRW)*<br>
-
-2. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation](https://aclanthology.org/2024.naacl-srw.4/) <br>
-Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop (SRW)*<br>
-
-3. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
-**Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
-*ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-4. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
-Seungyoon Lee (\*), DaHyun Jung (\*), **Chanjun Park (\*)**, Seolhwa Lee, Heuiseok Lim <br>
-*ICDM 2023 - The First Workshop on Data-Centric AI*<br>
-
-5. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
-Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-6. [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
-**Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
-*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*<br>
-
-7. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
-**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*ACL 2021 -Workshop on Asian Translation (WAT)*<br>
-
-8. [Dealing with the Paradox of Quality Estimation](https://aclanthology.org/2021.mtsummit-loresmt.1/) <br>
-Sugyeong Eo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim <br>
-*MT Summit 2021 - Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT)*<br>
-
-In addition, I have published [23 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [31 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [34 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences.
+In addition, I have published [25 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [32 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [35 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## Selected Teaching
 1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
@@ -296,6 +254,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
+2024.02 | NIA | Redefining Evaluation and Korea's Leaderboards in the LLM Era
 2024.11 | DGIST | Large Language Model in the Wild
 2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
 2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
