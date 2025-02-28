@@ -49,6 +49,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [Like Father, Like Son: Kinship-Aware Preference Mapping (KARMA) for Automatic Alignment in Large Language Models](https://arxiv.org/abs/2502.18744) <br>
+Jeesu Jung, **Chanjun Park**, Sangkeun Jung <br>
+*arxiv, 2025*<br>
+
 1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance](https://arxiv.org/abs/2412.07113) <br>
 Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
@@ -114,7 +118,7 @@ Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝
 **Chanjun Park (✝)**, Hyeonwoo Kim <br>
 *NAACL 2025 - Industry, 2025*<br>
 
-1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://arxiv.org/abs/2409.03257) <br>
+1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://arxiv.org/abs/2405.19778v4) <br>
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025 - Industry, 2025*<br>
 
