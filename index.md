@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
 
 ## News
-* **2025**: Eight papers (including three from Findings and three from Industry) have been accepted at **NAACL 2025**. <br>
+* **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
@@ -81,10 +81,6 @@ Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (�
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2024*<br>
 
-4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
-Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
 6. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
 **Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *arxiv, 2023*<br>
@@ -121,6 +117,10 @@ Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝
 1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://arxiv.org/abs/2405.19778v4) <br>
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025 - Industry, 2025*<br>
+
+4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
+Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
+*NAACL 2025 - Demo, 2025*<br>
 
 1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://aclanthology.org/2025.coling-main.278/) <br>
 Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
