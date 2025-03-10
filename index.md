@@ -88,7 +88,7 @@ Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 ### Conferences
 1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://arxiv.org/abs/2502.06139) <br>
 Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
-*NAACL 2025*<br>
+*NAACL 2025 (Oral)*<br>
 
 1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing]() <br>
 Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
