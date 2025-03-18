@@ -259,7 +259,7 @@ Year | Award
 
 Year | Place | Contents
 :-----:|-------|-------
-2024.02 | NIA | Redefining Evaluation and Korea's Leaderboards in the LLM Era
+2025.02 | NIA | Redefining Evaluation and Korea's Leaderboards in the LLM Era
 2024.11 | DGIST | Large Language Model in the Wild
 2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
 2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
