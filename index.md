@@ -86,35 +86,35 @@ Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *arxiv, 2023*<br>
 
 ### Conferences
-1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://arxiv.org/abs/2502.06139) <br>
+1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://aclanthology.org/2025.naacl-long.524/) <br>
 Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
 *NAACL 2025 (Oral)*<br>
 
-1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing]() <br>
+1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing](https://aclanthology.org/2025.naacl-long.325/) <br>
 Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025*<br>
 
-1. [MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation]() <br>
+1. [MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation](https://aclanthology.org/2025.findings-naacl.157/) <br>
 Chanhee Park, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025-Findings*<br>
 
-1. [FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models]() <br>
+1. [FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models](https://aclanthology.org/2025.findings-naacl.199/) <br>
 Dahyun Jung, Seungyoon Lee, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025-Findings*<br>
 
-1. [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models]() <br>
+1. [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models](https://aclanthology.org/2025.findings-naacl.330/) <br>
 Hyeonseok Moon, Jaehyung Seo, Seungyoon Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025-Findings*<br>
 
-1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://arxiv.org/abs/2410.12445) <br>
+1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://aclanthology.org/2025.naacl-industry.22/) <br>
 Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
 *NAACL 2025 - Industry, 2025*<br>
 
-1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://arxiv.org/abs/2409.03257) <br>
+1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://aclanthology.org/2025.naacl-industry.1/) <br>
 **Chanjun Park (✝)**, Hyeonwoo Kim <br>
 *NAACL 2025 - Industry, 2025*<br>
 
-1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://arxiv.org/abs/2405.19778v4) <br>
+1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://aclanthology.org/2025.naacl-industry.24/) <br>
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025 - Industry, 2025*<br>
 
