@@ -49,6 +49,10 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Publications
 ### Preprints 
+1. [HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models](https://arxiv.org/abs/2504.14594) <br>
+Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, **Chanjun Park**, Irene Li <br>
+*arxiv, 2025*<br>
+
 1. [Like Father, Like Son: Kinship-Aware Preference Mapping (KARMA) for Automatic Alignment in Large Language Models](https://arxiv.org/abs/2502.18744) <br>
 Jeesu Jung, **Chanjun Park**, Sangkeun Jung <br>
 *arxiv, 2025*<br>
@@ -118,7 +122,7 @@ Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝
 Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *NAACL 2025 - Industry, 2025*<br>
 
-4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://arxiv.org/abs/2403.19340) <br>
+4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://aclanthology.org/2025.naacl-demo.1/) <br>
 Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
 *NAACL 2025 - Demo, 2025*<br>
 
