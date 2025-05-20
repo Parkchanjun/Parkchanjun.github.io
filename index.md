@@ -55,7 +55,7 @@ Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, 
 *arxiv, 2025*<br>
 
 1. [Like Father, Like Son: Kinship-Aware Preference Mapping (KARMA) for Automatic Alignment in Large Language Models](https://arxiv.org/abs/2502.18744) <br>
-Jeesu Jung, **Chanjun Park**, Sangkeun Jung <br>
+Jeesu Jung , **Chanjun Park (✝)**, Sangkeun Jung (✝) <br>
 *arxiv, 2025*<br>
 
 1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance](https://arxiv.org/abs/2412.07113) <br>
