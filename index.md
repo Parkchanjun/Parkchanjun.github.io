@@ -54,7 +54,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, **Chanjun Park**, Irene Li <br>
 *arxiv, 2025*<br>
 
-1. [Like Father, Like Son: Kinship-Aware Preference Mapping (KARMA) for Automatic Alignment in Large Language Models](https://arxiv.org/abs/2502.18744) <br>
+1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction](https://arxiv.org/abs/2502.18744) <br>
 Jeesu Jung , **Chanjun Park (✝)**, Sangkeun Jung (✝) <br>
 *arxiv, 2025*<br>
 
