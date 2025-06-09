@@ -247,12 +247,13 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 In addition, I have published [25 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [32 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [35 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## Selected Teaching
-1.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
-2.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-3.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-4.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
-5.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023) <br>
-6.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019) <br>
+1.  [Large Language Models](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), Instructor,  Samsung SW·AI academy For Youth (SSAFY). (2025) <br>
+2.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
+3.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+4.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
+5.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
+6.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023) <br>
+7.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019) <br>
 
 ## Selected Awards
 
