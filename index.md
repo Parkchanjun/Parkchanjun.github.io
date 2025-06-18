@@ -8,7 +8,7 @@ layout: default
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before joining Korea University, he served as a Principal Research Engineer and Technical Leader for the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to the development of machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He has authored over 100 publications in leading NLP conferences and journals, such as ACL, EMNLP, NAACL, EACL, and COLING. He has delivered over 70 invited talks and has significant teaching experience. Additionally, he holds more than 10 patents in the field of natural language processing (NLP). His achievements include recognition in <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea in the SCIENCE / SW field</a> and the Naver Ph.D. Fellowship. He has been actively involved in the academic community, holding roles such as <a href="https://coling2022.org/committee01">Virtual Social Chair at COLING 2022</a>, <a href="https://dmlr.ai/organizers/">Publication Chair for DMLR at ICLR 2024</a>, and <a href="https://www.winlp.org/organization/">Program Chair for the WiNLP Workshop</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## Research Interest
-My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their practical, real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a particular focus on their fundamental capabilities, rigorous evaluation, and addressing issues of recency and truthfulness. Additionally, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates diverse fields to enhance NLP applications.
+My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
 * **2025**: Two papers (including one Findings) have been accepted at **ACL 2025**.   <br>
@@ -31,22 +31,15 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## Work Experiences
 * **2024.12 - Now**: [Korea University](https://cs.korea.edu/en_cs/index.do), Research Professor <br>
-* **2022.07 - 2024.11**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
-* **2022.03 - 2022.07**: [Upstage](https://www.upstage.ai/), AI Research Engineer Intern <br>
-* **2018.09 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
-* **2018.06 - 2018.08**: [SYSTRAN](https://www.systransoft.com/), Research Engineer Intern 
+* **2022.03 - 2024.11**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
+* **2018.06 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 
 ## Academic Services
-* **Program Chair**: [Widening NLP (WiNLP) Workshop at EMNLP 2023 & EMNLP 2024](https://aclanthology.org/2024.winlp-1.0.pdf) <br>
-* **Publication Chair**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
-* **Virtual Social Chair**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Area Chair**: ACL <br>
-* **Program Committee**: ACL, EMNLP, NAACL, EACL, COLING, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
-
-## Selected External Activities
-* **Advisor**: [Information Technology Committee of the Republic of Korea Army (육군발전자문위 정보화분과 자문위원)](), 2024.05~2025.04 <br>
-* **Committee Member**: [Artificial Intelligence Ethics and Policy, organized by the Ministry of Science and ICT (과기정통부 AI 윤리·신뢰성 포럼 위원 - AI 전략최고위협의회 윤리·안전분과)](https://www.edaily.co.kr/news/read?newsId=02758486638857432&mediaCodeNo=257&OutLnkChk=Y), 2024.04~ <br>
-* **Committee Member**: [AI Privacy Policy Council (AI 프라이버시 민·관 정책협의회) 3분과 (투명성 확보)](https://www.youtube.com/watch?v=Z1GEsgLKzc4), 2023.10~ <br>
+* **Program Chair (Organizer)**: [Widening NLP (WiNLP) Workshop at EMNLP 2023 & EMNLP 2024](https://aclanthology.org/2024.winlp-1.0.pdf) <br>
+* **Publication Chair (Organizer)**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
+* **Virtual Social Chair (Organizer)**: [COLING 2022](https://coling2022.org/committee01) <br>
+* **Area Chair**: ACL, EMNLP <br>
+* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
 
 ## Publications
 ### Preprints 
@@ -246,16 +239,16 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 
 In addition, I have published [25 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [32 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [35 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
-## Selected Teaching
-1.  [Large Language Models](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), Instructor,  Samsung SW·AI academy For Youth (SSAFY). (2025) <br>
-2.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024) <br>
-3.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-4.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023) <br>
-5.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023) <br>
-6.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023) <br>
-7.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019) <br>
+## Teaching (Selected)
+1.  [Large Language Models](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), Instructor,  Samsung SW·AI academy For Youth (SSAFY). (2025-) <br>
+2.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024-) <br>
+3.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023-) <br>
+4.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023-) <br>
+5.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023-) <br>
+6.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023-) <br>
+7.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019-) <br>
 
-## Selected Awards
+## Awards (Selected)
 
 Year | Award
 :-----:|-------
@@ -263,20 +256,18 @@ Year | Award
 2023.02 | Best Paper Award at Korea University
 2022.12 | 1st Place at WMT Quality Estimation Shared Task 2022 - Sentence-level Critical Error Detection
 2021.12 | Naver Ph.D. Fellowship
-2019.10 | [1st Place at Microsoft AI Accessibility Hackathon in Korea](http://hiai.co.kr/news/?uid=52&mod=document), Microsoft
+2019.10 | 1st Place at Microsoft AI Accessibility Hackathon in Korea, Microsoft
 
-## Selected Invited Talk
+## Invited Talk (Selected)
 
 Year | Place | Contents
 :-----:|-------|-------
 2025.02 | NIA | Redefining Evaluation and Korea's Leaderboards in the LLM Era
-2024.11 | DGIST | Large Language Model in the Wild
 2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
 2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
 2024.10 | Republic of Korea Army Headquarters | Large Language Model in the Wild
 2024.09 | Seoul National University | Large Language Model in the Wild
 2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
-2024.07 | Sungkyunkwan University |[SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem](https://cse.skku.edu/cse/notice.do?mode=view&articleNo=178054)
 2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
 2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
 2024.05 | [AI Safety Compass Conference ​2024](https://iaae.ai/program/?idx=22561163&bmode=view) | Data and Evaluation Methods for Trustworthy AI
@@ -286,9 +277,6 @@ Year | Place | Contents
 2024.01 | [The University of Tokyo](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
 2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
 2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
-2023.09 | Korea University |  From Language Model to Large Language Model
-2023.09 | HanYang University |  [From Language Model to Large Language Model](https://gsai.hanyang.ac.kr/front/community/notice/view?id=164286)
-2023.09 | AGI Town in Seoul|  [The use case of solving customer problems using LLM](https://lu.ma/agitown6th?fbclid=IwAR3mN2XZcC3Pv4s5iqKOfrlMu-L0jSjqHSyD4Kbzim6PW6Rj12HKk-i7tco&utm_campaign=6th&utm_medium=agitown&utm_source=fb)
 2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
 2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
 2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
@@ -300,6 +288,7 @@ Year | Place | Contents
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.06 | [아이서티-고려대 HIAI연구원, 영상보안 AI기술 개발 MOU 체결](http://www.financialreview.co.kr/news/articleView.html?idxno=35088) | 파이낸셜 리뷰 등 다수 언론사
 2025.02 | [딥시크 쇼크…한국 AI 산업, 위기가 기회될까](https://www.khan.co.kr/article/202502080900061) | 경향신문
 2025.02 | ['D·R·I·F·T' 덫에 갇힌 한국…이대론 'AI 패권시대' 구경꾼 될판](https://www.sedaily.com/NewsView/2GOUPSBWLY) | 서울경제
 2025.02 | [국내 기업도 AI 서비스 본격화…'동맹 확장' 노리는 오픈AI](https://www.yna.co.kr/view/AKR20250203123600017?input=1195m) | 연합뉴스
