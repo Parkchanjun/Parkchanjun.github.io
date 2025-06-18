@@ -5,7 +5,7 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Prior to joining Korea University, he was a Principal Research Engineer and Technical Lead of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Prior to joining Korea University, he was a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
@@ -227,13 +227,13 @@ Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Nugroho Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo* <br>
 
+1. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
+Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
+*Expert Systems With Applications, 2023* <br>
+
 1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394) <br>
 Seonmin Koo (\*), **Chanjun Park (\*)**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
 *IEEE Access, 2023*<br>
-
-2. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
-Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
-*Expert Systems With Applications, 2023* <br>
 
 1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
 **Chanjun Park**<br>
@@ -261,14 +261,6 @@ SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaeh
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings*<br>
 
-1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
-Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
 1. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
 **Chanjun Park (\*)**, Seolhwa Lee (\*), Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022*, Oral<br>
@@ -284,6 +276,14 @@ Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugye
 1. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546) <br>
 Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, **Chanjun Park**, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
 *Knowledge-Based Systems, 2022*<br>
+
+1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
+Seonmin Koo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
+Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
 
 1. [Utilization Strategy of User Engagements in Korean Fake News Detection](https://ieeexplore.ieee.org/document/9841541) <br>
 Myunghoon Kang, Jaehyung Seo, **Chanjun Park**, Heuiseok Lim <br>
@@ -305,9 +305,9 @@ Sugyeong Eo (\*), **Chanjun Park (\*)**, Hyeonseok Moon, Jaehyung Seo, Heuiseok 
 Hyeonseok Moon (\*), **Chanjun Park (\*)**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
 *IEEE Access, 2022*<br>
 
-1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
-Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*IEEE Access, 2021*<br>
+1. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
+**Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
+*NAACL-HLT 2021 - Industry*<br>
 
 1.  [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
 **Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
@@ -317,6 +317,10 @@ Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
 *ACL 2021 -Workshop on Asian Translation (WAT)*<br>
 
+1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*IEEE Access, 2021*<br>
+
 1.  [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
 Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 *IEEE Access, 2021*<br>
@@ -324,10 +328,6 @@ Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
 1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
 Hyeonseok Moon (\*), **Chanjun Park (\*)**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *IEEE Access, 2021*<br>
-
-1. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
-**Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
-*NAACL-HLT 2021 - Industry*<br>
 
 1. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
 **Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
