@@ -164,53 +164,7 @@ HeuiSeok Lim, **Korea University NLP&AI Lab** <br>
 
 
 ### International Workshops
-1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
-Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
 
-2. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation](https://aclanthology.org/2024.naacl-srw.4/) <br>
-Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
-
-3. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
-**Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
-*ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-4. [Proceedings of the Seventh Widening NLP Workshop (WiNLP 2023)](https://aclanthology.org/2023.winlp-1.0/) <br>
-Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
-*EMNLP 2023-Widening NLP Workshop* <br>
-
-5. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
-Seungyoon Lee (\*), DaHyun Jung (\*), **Chanjun Park (\*)**, Seolhwa Lee, Heuiseok Lim <br>
-*ICDM 2023 - The First Workshop on Data-Centric AI*<br>
-
-6. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
-**Chanjun Park (\*)**, Seonmin Koo (\*), Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-7. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
-Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-8. [Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios](https://arxiv.org/abs/2306.14373) <br>
-NamHyeok Kim, **Chanjun Park (\*, ✝)**  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-9. [Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations](https://arxiv.org/abs/2306.14374) <br>
-Damrin Kim, NamHyeok Kim, **Chanjun Park (✝)** , Harksoo Kim  (✝)   <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-10. [Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation](https://arxiv.org/abs/2306.14514) <br>
-Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-11. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-12. [Knowledge Graph-Augmented Korean Generative Commonsense Reasoning](https://arxiv.org/abs/2306.14470) <br>
-Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
 
 13. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1/) <br>
 SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaehyung Seo, Jeongbae Park, Heuiseok Lim <br>

@@ -41,54 +41,19 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **Area Chair**: ACL, EMNLP <br>
 * **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
 
-## Publications
-### Preprints 
-1. [HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models](https://arxiv.org/abs/2504.14594) <br>
-Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, **Chanjun Park**, Irene Li <br>
-*arxiv, 2025*<br>
+## Publications  (Selected)
+Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
-1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction](https://arxiv.org/abs/2502.18744) <br>
-Jeesu Jung , **Chanjun Park (✝)**, Sangkeun Jung (✝) <br>
-*arxiv, 2025*<br>
-
-1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance](https://arxiv.org/abs/2412.07113) <br>
-Dongjun Kim, Minhyuk Kim, YongChan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*arxiv, 2024*<br>
-
-1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://arxiv.org/abs/2411.11289) <br>
-Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
-1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](https://arxiv.org/abs/2410.18436) <br>
-Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee <br>
-*arxiv, 2024*<br>
-
-1. [InstaTrans: An Instruction-Aware Translation Framework for Non-English Instruction Datasets](https://arxiv.org/abs/2410.01512) <br>
-Yungi Kim, **Chanjun Park (✝)** <br>
-*arxiv, 2024*<br>
-
-1. [1 Trillion Token (1TT) Platform: A Novel Framework for Efficient Data Sharing and Compensation in Large Language Models](https://arxiv.org/abs/2409.20149) <br>
-**Chanjun Park (✝)**, Hyunsoo Ha, Jihoo Kim, Yungi Kim, Dahyun Kim, Sukyung Lee, Seonghoon Yang <br>
-*arxiv, 2024*<br>
-
-1. [ChatLang-8: An LLM-Based Synthetic Data Generation Framework for Grammatical Error Correction](https://arxiv.org/abs/2406.03202) <br>
-Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*arxiv, 2024*<br>
-
-6. [Self-Improving-Leaderboard(SIL): A Call for Real-World Centric Natural Language Processing Leaderboards](https://arxiv.org/abs/2303.10888) <br>
-**Chanjun Park**, Hyeonseok Moon, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
-*arxiv, 2023*<br>
-
-### Conferences
+### 2025 
 1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://arxiv.org/abs/2409.09613) <br>
 Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
 *ACL 2025*<br>
 
-1. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval]() <br>
+2. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval]() <br>
 Yongchan Chun, Minhyuk Kim, Dongjun Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *ACL 2025-Findings*<br>
 
-1. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://aclanthology.org/2025.naacl-long.524/) <br>
+3. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://aclanthology.org/2025.naacl-long.524/) <br>
 Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
 *NAACL 2025 (Oral)*<br>
 
@@ -132,6 +97,11 @@ Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <
 Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
 *COLING 2025 - Industry*<br>
 
+1. [An analysis on language transfer of pre-trained language model with cross-lingual post-training](https://www.sciencedirect.com/science/article/pii/S0957417424027088) <br>
+Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Chanhee Lee, Yoonna Jang, Jaehyung Seo, Jungwoo Lim, Heuiseok Lim <br>
+*Expert Systems with Applications, 2025*<br>
+
+### 2024 
 1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts](https://aclanthology.org/2024.emnlp-main.783/) <br>
 Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 *EMNLP 2024*<br>
@@ -144,11 +114,11 @@ Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
 Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
 *EMNLP 2024-Findings*<br>
 
-2. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://aclanthology.org/2024.emnlp-industry.15/) <br>
+1. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://aclanthology.org/2024.emnlp-industry.15/) <br>
 Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
 *EMNLP 2024 - Industry*<br>
 
-3. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.3/) <br>
+1. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.3/) <br>
 Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** <br>
 *EMNLP 2024 - Demo*<br>
 
@@ -156,88 +126,220 @@ Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** 
 **Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
 *ACL 2024*<br>
 
-2. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models](https://aclanthology.org/2024.findings-acl.141/) <br>
+1. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models](https://aclanthology.org/2024.findings-acl.141/) <br>
 Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
 *ACL 2024 - Findings*<br>
 
-3. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation](https://aclanthology.org/2024.findings-acl.135/) <br>
+1. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation](https://aclanthology.org/2024.findings-acl.135/) <br>
 Jungseob Lee, Hyeonseok Moon, Seungjun Lee, **Chanjun Park (✝)**, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
 *ACL 2024 - Findings*<br>
 
-4. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://aclanthology.org/2024.naacl-industry.3/) <br>
+1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://aclanthology.org/2024.naacl-industry.3/) <br>
 Sanghoon Kim (\*, ✝), Dahyun Kim (\*), **Chanjun Park (\*, ✝)**, Wonsung Lee (\*, ✝), Wonho Song (\*), Yunsu Kim (\*), Hyeonwoo Kim (\*), Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee (✝), Sunghun Kim (✝)  <br>
 *NAACL 2024 - Industry*<br>
 
-5. [Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean](https://aclanthology.org/2024.lrec-main.907/)  <br>
+1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
+Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2024 - Student Research Workshop*<br>
+
+1. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation](https://aclanthology.org/2024.naacl-srw.4/) <br>
+Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*NAACL 2024 - Student Research Workshop*<br>
+
+1. [Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean](https://aclanthology.org/2024.lrec-main.907/)  <br>
 Seungyoon Lee, **Chanjun Park (✝)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim (✝) <br>
 *LREC-COLING 2024*, Oral <br>
 
-6. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/)  <br>
+1. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/)  <br>
 Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *LREC-COLING 2024*, Oral <br>
 
-7. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
+1. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
+**Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
+*ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
 **Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
 *EACL 2024 - Findings* <br>
 
-8. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
+1. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
 Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
 *EACL 2024 - Findings* <br>
 
-9. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
+1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
+Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
+*IEEE Access, 2024*<br>
+
+### 2023
+1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
 Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
 *EMNLP 2023* <br>
 
-10. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/)  <br>
+1. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/)  <br>
 Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuiseok Lim <br>
 *EMNLP 2023* <br>
 
-11. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
+1. [Proceedings of the Seventh Widening NLP Workshop (WiNLP 2023)](https://aclanthology.org/2023.winlp-1.0/) <br>
+Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
+*EMNLP 2023-Widening NLP Workshop* <br>
+
+1. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
+Seungyoon Lee (\*), DaHyun Jung (\*), **Chanjun Park (\*)**, Seolhwa Lee, Heuiseok Lim <br>
+*ICDM 2023 - The First Workshop on Data-Centric AI*<br>
+
+1. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
+**Chanjun Park (\*)**, Seonmin Koo (\*), Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
+Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios](https://arxiv.org/abs/2306.14373) <br>
+NamHyeok Kim, **Chanjun Park (\*, ✝)**  <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations](https://arxiv.org/abs/2306.14374) <br>
+Damrin Kim, NamHyeok Kim, **Chanjun Park (✝)** , Harksoo Kim  (✝)   <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation](https://arxiv.org/abs/2306.14514) <br>
+Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
+Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Knowledge Graph-Augmented Korean Generative Commonsense Reasoning](https://arxiv.org/abs/2306.14470) <br>
+Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
+*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
+
+1. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
 DaHyun Jung, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *IJCNLP-AACL 2023*<br>
 
-12. [Improving Formality-Sensitive Machine Translation using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
+1. [Improving Formality-Sensitive Machine Translation using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
 Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
 *IWSLT 2023* <br>
 
-13. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
+1. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
 Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Nugroho Yahya, Heuiseok Lim <br>
 *ACL 2023 - Demo* <br>
 
-14. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://aclanthology.org/2022.aacl-demo.3/) <br>
+1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394) <br>
+Seonmin Koo (\*), **Chanjun Park (\*)**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
+*IEEE Access, 2023*<br>
+
+2. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
+Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
+*Expert Systems With Applications, 2023* <br>
+
+1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
+**Chanjun Park**<br>
+*Ph.D. Dissertation* <br>
+
+### ~2022
+1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://aclanthology.org/2022.aacl-demo.3/) <br>
 **Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Jaehyung Seo (\*), Kisu Yang, Heuiseok Lim <br>
 *AACL-IJCNLP 2022 - Demo* <br>
 
-15. [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://aclanthology.org/2022.wmt-1.56/) <br>
+1.  [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://aclanthology.org/2022.wmt-1.56/) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
 *WMT 2022* <br>
 
-16. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
+1. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
 Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim
  <br>
 *COLING 2022* <br>
 
-17. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
+1. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1/) <br>
+SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaehyung Seo, Jeongbae Park, Heuiseok Lim <br>
+*COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge* <br>
+
+1. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
 Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
 *NAACL 2022 - Findings*<br>
 
-18. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
+1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
+Seonmin Koo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
+Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
 **Chanjun Park (\*)**, Seolhwa Lee (\*), Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
 *LREC 2022*, Oral<br>
 
-19. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://aclanthology.org/2022.lrec-1.132/) <br>
+1. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://aclanthology.org/2022.lrec-1.132/) <br>
 **Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Sungjin Park (\*), Heuiseok Lim<br>
 *LREC 2022*<br>
 
-20. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
+1. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
 Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
 *LREC 2022*<br>
 
-21. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
+1. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546) <br>
+Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, **Chanjun Park**, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
+*Knowledge-Based Systems, 2022*<br>
+
+1. [Utilization Strategy of User Engagements in Korean Fake News Detection](https://ieeexplore.ieee.org/document/9841541) <br>
+Myunghoon Kang, Jaehyung Seo, **Chanjun Park**, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [AI for Patents: A Novel yet Effective and Efficient Framework for Patent Analysis](https://ieeexplore.ieee.org/document/9779775) <br>
+Junyoung Son, Hyeonseok Moon, Jeongwoo Lee, Seolhwa Lee, **Chanjun Park**, Wonkyung Jung, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
+Sugyeong Eo (\*), **Chanjun Park (\*)**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
+**Chanjun Park**, Woo-Young Go, Sugyeong Eo, Hyeonseok Moon, Seolhwa Lee, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
+Hyeonseok Moon (\*), **Chanjun Park (\*)**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
+*IEEE Access, 2022*<br>
+
+1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
+Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
+*IEEE Access, 2021*<br>
+
+1.  [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
+**Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
+*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*<br>
+
+1. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
+**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
+*ACL 2021 -Workshop on Asian Translation (WAT)*<br>
+
+1.  [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
+Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
+*IEEE Access, 2021*<br>
+
+1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
+Hyeonseok Moon (\*), **Chanjun Park (\*)**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
+*IEEE Access, 2021*<br>
+
+1. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
 **Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
 *NAACL-HLT 2021 - Industry*<br>
 
-In addition, I have published [25 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in international workshops, [32 papers](https://orcid.org/0000-0002-7200-9632) in international journals (SCI/SCIE), [21 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic journals (KCI), [65 papers](https://www.dbpia.co.kr/author/authorDetail?ancId=5171004) in domestic conferences, and [35 papers](https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en) in other international conferences. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
+1. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
+**Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
+*IEEE Access, 2020*<br>
+
+1. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
+**Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
+*IEEE Access, 2020*<br>
+
+1. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
+**Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
+*Multimedia Tools and Applications, 2020*<br>
 
 ## Teaching (Selected)
 1.  [Large Language Models](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), Instructor,  Samsung SW·AI academy For Youth (SSAFY). (2025-) <br>
