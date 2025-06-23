@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
-* **2025**: Two papers (including one Findings) have been accepted at **ACL 2025**.   <br>
+* **2025**: Three papers (including one from SRW) have been accepted at **ACL 2025**.   <br>
 * **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
@@ -49,9 +49,13 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
 *ACL 2025*<br>
 
-2. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval]() <br>
+1. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval]() <br>
 Yongchan Chun, Minhyuk Kim, Dongjun Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *ACL 2025-Findings*<br>
+
+1. [From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on RAG systems]() <br>
+Youngjoon Jang, Seongtae Hong, Junyoung Son, Sungjin Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*ACL 2025 - Student Research Workshop*<br>
 
 3. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://aclanthology.org/2025.naacl-long.524/) <br>
 Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
