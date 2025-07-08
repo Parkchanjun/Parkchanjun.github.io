@@ -5,12 +5,13 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a> is a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Prior to joining Korea University, he was a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
+<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a>  is an incoming Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## Research Interest
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
+* **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
 * **2025**: Three papers (including one from SRW) have been accepted at **ACL 2025**.   <br>
 * **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
@@ -30,7 +31,8 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
 
 ## Work Experiences
-* **2024.12 - Now**: [Korea University](https://cs.korea.edu/en_cs/index.do), Research Professor <br>
+* **2025.09 - Now**: [Soongsil University](https://ssu.ac.kr/), Assistant Professor <br>
+* **2024.12 - 2025.08**: [Korea University](https://cs.korea.edu/en_cs/index.do), Research Professor <br>
 * **2022.03 - 2024.11**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
 * **2018.06 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 
@@ -243,116 +245,8 @@ Seonmin Koo (\*), **Chanjun Park (\*)**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo,
 **Chanjun Park**<br>
 *Ph.D. Dissertation* <br>
 
-### ~2022
-1. [PicTalky: Augmentative and Alternative Communication for Language Developmental Disabilities](https://aclanthology.org/2022.aacl-demo.3/) <br>
-**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Jaehyung Seo (\*), Kisu Yang, Heuiseok Lim <br>
-*AACL-IJCNLP 2022 - Demo* <br>
-
-1.  [KU X Upstage's submission for the WMT22 Quality Estimation: Critical Error Detection Shared Task](https://aclanthology.org/2022.wmt-1.56/) <br>
-Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*WMT 2022* <br>
-
-1. [QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation](https://aclanthology.org/2022.coling-1.460/) <br>
-Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim
- <br>
-*COLING 2022* <br>
-
-1. [Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona?](https://aclanthology.org/2022.ccgpk-1.1/) <br>
-SeungYoon Lee, Jungseob Lee, **Chanjun Park**, Sugyeong Eo, Hyeonseok Moon, Jaehyung Seo, Jeongbae Park, Heuiseok Lim <br>
-*COLING 2022 - The 1st Workshop on Customized Chat Grounding Persona and Knowledge* <br>
-
-1. [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/) <br>
-Jaehyung Seo, Seounghoon Lee, **Chanjun Park**, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim <br>
-*NAACL 2022 - Findings*<br>
-
-1. [Priming Ancient Korean Neural Machine Translation](https://aclanthology.org/2022.lrec-1.3/) <br>
-**Chanjun Park (\*)**, Seolhwa Lee (\*), Hyeonseok Moon, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*LREC 2022*, Oral<br>
-
-1. [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue](https://aclanthology.org/2022.lrec-1.132/) <br>
-**Chanjun Park (\*)**, Yoonna Jang (\*), Seolhwa Lee (\*), Sungjin Park (\*), Heuiseok Lim<br>
-*LREC 2022*<br>
-
-1. [Empirical Analysis of Synthetic Data Generation Using Noising Strategies for Automatic Post-editing](https://aclanthology.org/2022.lrec-1.93/) <br>
-Hyeonseok Moon, **Chanjun Park**, Seolhwa Lee, Jaehyung Seo, Jeongsub Lee, Sugyeong Eo, Heuiseok Lim <br>
-*LREC 2022*<br>
-
-1. [PU-GEN: Enhancing Generative Commonsense Reasoning for Language Models with Human-Centered Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009546) <br>
-Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, **Chanjun Park**, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim <br>
-*Knowledge-Based Systems, 2022*<br>
-
-1. [K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria](https://ieeexplore.ieee.org/document/9938990) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Plain Template Insertion: Korean-Prompt-based Engineering for Few-shot Learners](https://ieeexplore.ieee.org/document/9913979) <br>
-Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, **Chanjun Park**, Jihoon Kim, Changwoo Chun, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Utilization Strategy of User Engagements in Korean Fake News Detection](https://ieeexplore.ieee.org/document/9841541) <br>
-Myunghoon Kang, Jaehyung Seo, **Chanjun Park**, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [AI for Patents: A Novel yet Effective and Efficient Framework for Patent Analysis](https://ieeexplore.ieee.org/document/9779775) <br>
-Junyoung Son, Hyeonseok Moon, Jeongwoo Lee, Seolhwa Lee, **Chanjun Park**, Wonkyung Jung, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Word-level Quality Estimation for Korean-English Neural Machine Translation](https://ieeexplore.ieee.org/document/9761258) <br>
-Sugyeong Eo (\*), **Chanjun Park (\*)**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Mimicking Infants’ Bilingual Language Acquisition for Domain Specialized Neural Machine Translation](https://ieeexplore.ieee.org/document/9751075)<br>
-**Chanjun Park**, Woo-Young Go, Sugyeong Eo, Hyeonseok Moon, Seolhwa Lee, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [An Automatic Post Editing with Efficient and Simple Data Generation Method](https://ieeexplore.ieee.org/document/9714400)<br>
-Hyeonseok Moon (\*), **Chanjun Park (\*)**, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim <br>
-*IEEE Access, 2022*<br>
-
-1. [Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification](https://aclanthology.org/2021.naacl-industry.13/)<br>
-**Chanjun Park (\*)**, Sugyeong Eo (\*), Hyeonseok Moon (\*), Heuiseok Lim<br>
-*NAACL-HLT 2021 - Industry*<br>
-
-1.  [Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation](https://aclanthology.org/2021.insights-1.4/)<br>
-**Chanjun Park**, Sungjin Park, Seolhwa Lee, Taesun Whang, Heuiseok Lim<br>
-*EMNLP 2021 -The Second Workshop on Insights from Negative Results in NLP*<br>
-
-1. [BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text](https://aclanthology.org/2021.wat-1.10/)<br>
-**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim<br>
-*ACL 2021 -Workshop on Asian Translation (WAT)*<br>
-
-1. [Who speaks like a style of Vitamin: Towards Syntax-Aware Dialogue Summarization using Multi-task Learning](https://ieeexplore.ieee.org/document/9664379/)<br>
-Seolhwa Lee, Kisu Yang, **Chanjun Park**, João Sedoc, Heuiseok Lim<br>
-*IEEE Access, 2021*<br>
-
-1.  [Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network](https://ieeexplore.ieee.org/document/9585128)<br>
-Kuekyeng Kim, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim<br>
-*IEEE Access, 2021*<br>
-
-1. [An Empirical Study on Automatic Post Editing for Neural Machine Translation](https://ieeexplore.ieee.org/document/9528385) <br>
-Hyeonseok Moon (\*), **Chanjun Park (\*)**, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim <br>
-*IEEE Access, 2021*<br>
-
-1. [Ancient Korean Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/9125904) <br>
-**Chanjun Park**, Chanhee Lee, YeongWookYang, Heuiseok Lim <br>
-*IEEE Access, 2020*<br>
-
-1. [Comparison of the evaluation metrics for Neural Grammatical Error Correction with Overcorrection](https://ieeexplore.ieee.org/document/9102992) <br>
-**Chanjun Park**, YeongWookYang, Chanhee Lee, Heuiseok Lim <br>
-*IEEE Access, 2020*<br>
-
-1. [Neural Spelling Correction: Translating Incorrect sentences to Correct sentences for Multimedia](https://link.springer.com/article/10.1007/s11042-020-09148-2) <br>
-**Chanjun Park**, Kuekyeng Kim, YeongWookYang, Minho Kang, Heuiseok Lim <br>
-*Multimedia Tools and Applications, 2020*<br>
-
 ## Teaching (Selected)
-1.  [Large Language Models](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), Instructor,  Samsung SW·AI academy For Youth (SSAFY). (2025-) <br>
-2.  [Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms/), Content Planning and Production,  DeepLearning.AI. (2024-) <br>
-3.  [Language Model to Large Language Model (LM to LLM)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023-) <br>
-4.  [Natural Language Processing (NLP) Basic](https://fastcampus.co.kr/b2g_kdigitaltraining_ai), Instructor, Fast Campus. (2023-) <br>
-5.  [Learning ChatGPT Utilization and Service Construction with AskUP](https://fastcampus.co.kr/data_online_askup), Instructor, Fast Campus. (2023-) <br>
-6.  [Data-Centric NLP](https://boostcamp.connect.or.kr/program_ai.html), Instructor, BoostCamp - NAVER Connect Foundation. (2023-) <br>
-7.  [Machine Translation for everyone](https://www.youtube.com/watch?v=3WvA-sFiI6w&list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N), Instructor, SK T Academy. (2019-) <br>
+1.  [Database Application](),  Soongsil University. (2025-Fall) <br>
 
 ## Awards (Selected)
 
@@ -364,36 +258,11 @@ Year | Award
 2021.12 | Naver Ph.D. Fellowship
 2019.10 | 1st Place at Microsoft AI Accessibility Hackathon in Korea, Microsoft
 
-## Invited Talk (Selected)
-
-Year | Place | Contents
-:-----:|-------|-------
-2025.02 | NIA | Redefining Evaluation and Korea's Leaderboards in the LLM Era
-2024.11 | LG Electronics | Large Language Model Data and Evaluation in the Wild
-2024.11 | [U.S. Department of State-2024 Tech Camp Korea](https://n.news.naver.com/mnews/article/023/0003867274?sid=105) | Large Language Model in the Wild
-2024.10 | Republic of Korea Army Headquarters | Large Language Model in the Wild
-2024.09 | Seoul National University | Large Language Model in the Wild
-2024.09 | Embassy of the United States in Seoul | The entire journey to becoming a natural language processing researcher
-2024.06 | [KCC 2024](https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2024&content_no=1997&PARENT_ID=011300) | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
-2024.05 | [Applied ML: LLMs and Knowledge Graphs- Tokyo](https://lu.ma/8eb2v3hn?tk=9SeDjW) | The Ecosystem of LLMs from a Real-World Perspective
-2024.05 | [AI Safety Compass Conference ​2024](https://iaae.ai/program/?idx=22561163&bmode=view) | Data and Evaluation Methods for Trustworthy AI
-2024.05 | ETRI | SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem
-2024.05 | [AI Tech 2024 - AI Frontier for AI Era](https://dubiz.co.kr/Event/249)| SOLAR: The Next Frontier in Large Language Models by Upstage and its Ecosystem 
-2024.05 | [No code·Low code Hyper-automation Conference 2024](https://jco.zdnet.co.kr/conference/hyper2024) | The Ecosystem of LLMs from a Real-World Perspective 
-2024.01 | [The University of Tokyo](https://cd3.ipmu.jp/ai4phys/)  |  SOLAR: The Next Frontier in Large Language Models by Upstage
-2023.12 | [Seoul Metropolitan Office of Education-AI & Digital Education Conference](https://sites.google.com/kdai.re.kr/2023/%ED%99%88?authuser=0) |  Reset Moment by Large Language Model
-2023.12 | [Korean-English Joint Seminar on Artificial Intelligence (AI) Safety and Reliability](https://www.tta.or.kr/tta/selectBbsNttView.do?key=74&bbsNo=105&nttNo=13121&fbclid=IwAR2XW8KEGB6sBCmKk20HvIuZ9SP9QjiyfQ7dB1XhMy5k1PI31tHOa-6Kcno) |  Upstage Vision for Ethical and Trustworthy Large Language Models
-2023.08 | Google I/O Extended 2023 Incheon |  [From Language Model to Large Language Model](https://festa.io/events/3780)
-2023.07 | Google I/O Extended 2023 Seoul |  [From Language Model to Large Language Model](https://festa.io/events/3683)
-2023.07 | TensorFlow Korea LLM Day |  [Language Model to Large Language Model](https://festa.io/events/3717)
-2023.06 | [AI EDucation Alliance Policy lab (AIEDAP)](https://aiedap.or.kr/) |  Deep Learning Understanding and Practice
-2023.02 | AI·DATA SUMMIT 2023 |  [Real-World Centric AI](https://www.aitimes.kr/event/event17.html), [(Video)](https://www.youtube.com/watch?v=20NXHKGV3uI&t=116s)
-2019.08 | NAVER |  [Machine Translation for everyone](https://tv.naver.com/v/9906991)
-
 ## Media Coverages (Press, Youtube, Blog)
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.07 | [업스테이지, 자체 LLM으로 세계에 ‘K-AI’ 심는다(上)](https://www.hansbiz.co.kr/news/articleView.html?idxno=758519) | 한스경제
 2025.06 | [아이서티-고려대 HIAI연구원, 영상보안 AI기술 개발 MOU 체결](http://www.financialreview.co.kr/news/articleView.html?idxno=35088) | 파이낸셜 리뷰 등 다수 언론사
 2025.02 | [딥시크 쇼크…한국 AI 산업, 위기가 기회될까](https://www.khan.co.kr/article/202502080900061) | 경향신문
 2025.02 | ['D·R·I·F·T' 덫에 갇힌 한국…이대론 'AI 패권시대' 구경꾼 될판](https://www.sedaily.com/NewsView/2GOUPSBWLY) | 서울경제
