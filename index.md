@@ -12,9 +12,12 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## News
 * **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
+* **2025**: I will serve as an Area Chair at **EMNLP 2025**.   <br>
 * **2025**: Three papers (including one from SRW) have been accepted at **ACL 2025**.   <br>
+* **2025**: I will serve as an Area Chair at **ACL 2025**.   <br>
 * **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
+
 * **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
@@ -24,6 +27,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
 * **2024**: I was selected to serve as the **Publication Chair** for **DMLR at ICLR 2024**. <br>
 * **2024**: I was selected to serve as the **Program Chair** for **Widening NLP (WiNLP) Workshop at EMNLP 2024**. <br>
+
 * **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
 
 ## Education
