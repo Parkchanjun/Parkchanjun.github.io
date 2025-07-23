@@ -53,15 +53,15 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
 ### 2025 
-1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://arxiv.org/abs/2409.09613) <br>
+1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://aclanthology.org/2025.acl-short.4/) <br>
 Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
 *ACL 2025*<br>
 
-1. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval]() <br>
+1. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval](https://aclanthology.org/2025.findings-acl.516/) <br>
 Yongchan Chun, Minhyuk Kim, Dongjun Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *ACL 2025-Findings*<br>
 
-1. [From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on RAG systems]() <br>
+1. [From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on RAG systems](https://aclanthology.org/2025.acl-srw.27/) <br>
 Youngjoon Jang, Seongtae Hong, Junyoung Son, Sungjin Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *ACL 2025 - Student Research Workshop*<br>
 
