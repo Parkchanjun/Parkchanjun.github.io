@@ -11,7 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
-* **2025**: Two papers have been accepted at **CIKM 2025-Demo**.   <br>
+* **2025**: Two papers have been accepted at **CIKM 2025-Demo**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
 * **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
 * **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
 * **2025**: I will serve as an Area Chair at **EMNLP 2025**.   <br>
