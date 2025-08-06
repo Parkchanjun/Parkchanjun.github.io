@@ -49,7 +49,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **Virtual Social Chair (Organizer)**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Academic Chair**: [HCLT-KACL 2025](https://sites.google.com/view/hclt-2025/) <br>
 * **Area Chair**: ACL, EMNLP <br>
-* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
+* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, WMT, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
 
 ## Publications  (Selected)
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
