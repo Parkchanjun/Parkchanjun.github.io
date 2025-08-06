@@ -12,7 +12,7 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 
 ## News
 * **2025**: I have been selected for the **National Foundation Model Project (독자 AI 파운데이션모델 사업, K-AI 사업, 국가대표 LLM 프로젝트)**. I will be participating as part of the **NC AI Consortium**, together with Korea University, Seoul National University, Yonsei University, KAIST, ETRI, AIWorks, POSCO DX, Lotte Innovate, HL Robotics, InterX, MediaZen, MBC, and NHN. <br>
-* **2025**: Two papers have been accepted at **CIKM 2025-Demo**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
+* **2025**: Two papers have been accepted at **CIKM 2025**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
 * **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
 * **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
 * **2025**: I will serve as an Area Chair at **EMNLP 2025**.   <br>
