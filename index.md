@@ -56,6 +56,30 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
 ### 2025 
+1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning]() <br>
+Sugyeong Eo, Jung Jun Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*EMNLP 2025*<br>
+
+1. [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks]() <br>
+Dongjun Kim, Gyuho Shim, Yongchan Chun, Minhyuk Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*EMNLP 2025*<br>
+
+1. [MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents]() <br>
+Joong Min Shin, **Chanjun Park**, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
+*EMNLP 2025*<br>
+
+1. [HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts]() <br>
+Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)<br>
+*EMNLP 2025-Findings*<br>
+
+1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction]() <br>
+Jeesu Jung, Jinsung Kim, **Chanjun Park (✝)**, Sangkeun Jung (✝)<br>
+*EMNLP 2025-Findings*<br>
+
+1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching]() <br>
+Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee<br>
+*EMNLP 2025-Findings*<br>
+
 1. [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots]() <br>
 Xinjie Zhao, Moritz Blum, Fan Gao, Yingjian Chen, Boming Yang, Luis Marquez-Carpintero, Mónica Pina-Navarro, Yanran Fu, So Morikawa, Yusuke Iwasawa, Yutaka Matsuo, **Chanjun Park**, Irene Li <br>
 *CIKM 2025-Demo*<br>
