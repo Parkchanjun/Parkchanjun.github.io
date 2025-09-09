@@ -303,6 +303,7 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.09 | [국가대표 이어 '특화 AI' 공모…KT·카카오 재도전?](https://news.mtn.co.kr/news-detail/2025090816424698900) | MTN 뉴스
 2025.07 | ['챗GPT vs 네이버' 비교해 봤더니‥누가 더 똑똑할까?](https://n.news.naver.com/article/214/0001436742?sid=101) | MBC
 2025.07 | [업스테이지, 자체 LLM으로 세계에 ‘K-AI’ 심는다(上)](https://www.hansbiz.co.kr/news/articleView.html?idxno=758519) | 한스경제
 2025.06 | [아이서티-고려대 HIAI연구원, 영상보안 AI기술 개발 MOU 체결](http://www.financialreview.co.kr/news/articleView.html?idxno=35088) | 파이낸셜 리뷰 등 다수 언론사
