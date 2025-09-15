@@ -58,11 +58,11 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 ### 2025 
 1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning]() <br>
 Sugyeong Eo, Jung Jun Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*EMNLP 2025*<br>
+*EMNLP 2025 (Oral)*<br>
 
 1. [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks]() <br>
 Dongjun Kim, Gyuho Shim, Yongchan Chun, Minhyuk Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*EMNLP 2025*<br>
+*EMNLP 2025 (Oral)*<br>
 
 1. [MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents]() <br>
 Joong Min Shin, **Chanjun Park**, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
