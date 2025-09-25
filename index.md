@@ -11,6 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
+* **2025**: One paper has been accepted to the **EMNLP 2025 Industry Track**, making a total of **seven** presentations at **EMNLP 2025**.  <br>
 * **2025**: Benchmark Profiling and Mixture-of-Clustered-Experts have been accepted as Oral presentations at **EMNLP 2025**. <br>
 * **2025**: Six papers (including three in the Main and three in Findings) have been accepted at **EMNLP 2025**. Among them, one paper is a collaborative work with **Chungnam National University**, and another is a collaboration with **Yonsei University**. <br>
 * **2025**: I have been selected for the **National Foundation Model Project (독자 AI 파운데이션모델 사업, K-AI 사업, 국가대표 LLM 프로젝트)**. I will be participating as part of the **NC AI Consortium**, together with Korea University, Seoul National University, Yonsei University, KAIST, ETRI, AIWorks, POSCO DX, Lotte Innovate, HL Robotics, InterX, MediaZen, MBC, and NHN. <br>
@@ -80,6 +81,10 @@ Jeesu Jung, Jinsung Kim, **Chanjun Park (✝)**, Sangkeun Jung (✝)<br>
 1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching]() <br>
 Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee<br>
 *EMNLP 2025-Findings*<br>
+
+1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models]() <br>
+Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
+*EMNLP 2025-Industry*<br>
 
 1. [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots]() <br>
 Xinjie Zhao, Moritz Blum, Fan Gao, Yingjian Chen, Boming Yang, Luis Marquez-Carpintero, Mónica Pina-Navarro, Yanran Fu, So Morikawa, Yusuke Iwasawa, Yutaka Matsuo, **Chanjun Park**, Irene Li <br>
