@@ -11,9 +11,8 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
-* **2025**: One paper has been accepted to the **EMNLP 2025 Industry Track**, making a total of **seven** presentations at **EMNLP 2025**.  <br>
-* **2025**: Benchmark Profiling and Mixture-of-Clustered-Experts have been accepted as Oral presentations at **EMNLP 2025**. <br>
-* **2025**: Six papers (including three in the Main and three in Findings) have been accepted at **EMNLP 2025**. Among them, one paper is a collaborative work with **Chungnam National University**, and another is a collaboration with **Yonsei University**. <br>
+* **2025**: Seven papers (including three from Findings and one from Industry) have been accepted at **EMNLP 2025**. Among them, four papers are collaborative works with **Korea University**, one paper is a collaboration with **Chungnam National University**, another with **Yonsei University**, and one represents an industry–academia collaboration with **Upstage**. Notably, two of these papers were selected for **Oral** presentations. <br>
+* **2025**: Six papers have been accepted to HCLT-KACL 2025, five of which were selected for Oral presentations. Among them, the research received the Best Paper Award and the Outstanding Paper Award at the conference.<br>
 * **2025**: I have been selected for the **National Foundation Model Project (독자 AI 파운데이션모델 사업, K-AI 사업, 국가대표 LLM 프로젝트)**. I will be participating as part of the **NC AI Consortium**, together with Korea University, Seoul National University, Yonsei University, KAIST, ETRI, AIWorks, POSCO DX, Lotte Innovate, HL Robotics, InterX, MediaZen, MBC, and NHN. <br>
 * **2025**: Two papers have been accepted at **CIKM 2025**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
 * **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
@@ -309,6 +308,7 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.10 | [韓 1호 컴퓨터 교육 숭실대... 55년만에 '1호 AI 대학 전환' 이정표](https://www.ddaily.co.kr/page/view/2025101716395842138) | 디지털데일리
 2025.09 | [국가대표 이어 '특화 AI' 공모…KT·카카오 재도전?](https://news.mtn.co.kr/news-detail/2025090816424698900) | MTN 뉴스
 2025.07 | ['챗GPT vs 네이버' 비교해 봤더니‥누가 더 똑똑할까?](https://n.news.naver.com/article/214/0001436742?sid=101) | MBC
 2025.07 | [업스테이지, 자체 LLM으로 세계에 ‘K-AI’ 심는다(上)](https://www.hansbiz.co.kr/news/articleView.html?idxno=758519) | 한스경제
