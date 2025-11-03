@@ -11,6 +11,7 @@ layout: default
 My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
 
 ## News
+* **2026**: I will serve as an Area Chair at **EACL 2026**.   <br>
 * **2025**: Seven papers (including three from Findings and one from Industry) have been accepted at **EMNLP 2025**. Among them, four papers are collaborative works with **Korea University**, one paper is a collaboration with **Chungnam National University**, another with **Yonsei University**, and one represents an industry–academia collaboration with **Upstage**. Notably, two of these papers were selected for **Oral** presentations. <br>
 * **2025**: Six papers have been accepted to HCLT-KACL 2025, five of which were selected for Oral presentations. Among them, the research received the Best Paper Award and the Outstanding Paper Award at the conference.<br>
 * **2025**: I have been selected for the **National Foundation Model Project (독자 AI 파운데이션모델 사업, K-AI 사업, 국가대표 LLM 프로젝트)**. I will be participating as part of the **NC AI Consortium**, together with Korea University, Seoul National University, Yonsei University, KAIST, ETRI, AIWorks, POSCO DX, Lotte Innovate, HL Robotics, InterX, MediaZen, MBC, and NHN. <br>
@@ -57,31 +58,31 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
 ### 2025 
-1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning]() <br>
+1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning](https://aclanthology.org/2025.emnlp-main.718/) <br>
 Sugyeong Eo, Jung Jun Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *EMNLP 2025 (Oral)*<br>
 
-1. [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks]() <br>
+1. [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks](https://aclanthology.org/2025.emnlp-main.789/) <br>
 Dongjun Kim, Gyuho Shim, Yongchan Chun, Minhyuk Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
 *EMNLP 2025 (Oral)*<br>
 
-1. [MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents]() <br>
+1. [MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents](https://aclanthology.org/2025.emnlp-main.1062/) <br>
 Joong Min Shin, **Chanjun Park**, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
 *EMNLP 2025*<br>
 
-1. [HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts]() <br>
+1. [HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts](https://aclanthology.org/2025.findings-emnlp.708/) <br>
 Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)<br>
 *EMNLP 2025-Findings*<br>
 
-1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction]() <br>
+1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction](https://aclanthology.org/2025.findings-emnlp.417/) <br>
 Jeesu Jung, Jinsung Kim, **Chanjun Park (✝)**, Sangkeun Jung (✝)<br>
 *EMNLP 2025-Findings*<br>
 
-1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching]() <br>
+1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](https://aclanthology.org/2025.findings-emnlp.1215/) <br>
 Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee<br>
 *EMNLP 2025-Findings*<br>
 
-1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models]() <br>
+1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://aclanthology.org/2025.emnlp-industry.11/) <br>
 Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
 *EMNLP 2025-Industry*<br>
 
