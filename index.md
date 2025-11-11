@@ -86,11 +86,11 @@ Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee<br>
 Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
 *EMNLP 2025-Industry*<br>
 
-1. [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots]() <br>
+1. [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots](https://dl.acm.org/doi/10.1145/3746252.3761459) <br>
 Xinjie Zhao, Moritz Blum, Fan Gao, Yingjian Chen, Boming Yang, Luis Marquez-Carpintero, Mónica Pina-Navarro, Yanran Fu, So Morikawa, Yusuke Iwasawa, Yutaka Matsuo, **Chanjun Park**, Irene Li <br>
 *CIKM 2025-Demo*<br>
 
-1. [HealthGenie: An Interactive Knowledge-Driven LLM Framework for Tailored Dietary Guidance]() <br>
+1. [HealthGenie: An Interactive Knowledge-Driven LLM Framework for Tailored Dietary Guidance](https://dl.acm.org/doi/10.1145/3746252.3761479) <br>
 Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, **Chanjun Park**, Irene Li <br>
 *CIKM 2025-Demo*<br>
 
@@ -309,6 +309,7 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.11 | [숭실대 박찬준 교수, 자연어처리 분야 최고 학술대회 논문 7편 게재](https://www.news1.kr/society/education/5967166) | 뉴스 1 등 다수 언론사
 2025.10 | [韓 1호 컴퓨터 교육 숭실대... 55년만에 '1호 AI 대학 전환' 이정표](https://www.ddaily.co.kr/page/view/2025101716395842138) | 디지털데일리
 2025.09 | [국가대표 이어 '특화 AI' 공모…KT·카카오 재도전?](https://news.mtn.co.kr/news-detail/2025090816424698900) | MTN 뉴스
 2025.07 | ['챗GPT vs 네이버' 비교해 봤더니‥누가 더 똑똑할까?](https://n.news.naver.com/article/214/0001436742?sid=101) | MBC
