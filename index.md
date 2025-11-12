@@ -309,6 +309,7 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2025.11 | [숭실대 박찬준 교수, AI·데이터마이닝 세계적 학회에 논문 게재](https://www.edaily.co.kr/News/Read?newsId=03981926642365064&mediaCodeNo=257&OutLnkChk=Y) | 이데일리 외 다수 언론사
 2025.11 | [숭실대 박찬준 교수, 자연어처리 분야 최고 학술대회 논문 7편 게재](https://www.news1.kr/society/education/5967166) | 뉴스 1 등 다수 언론사
 2025.10 | [韓 1호 컴퓨터 교육 숭실대... 55년만에 '1호 AI 대학 전환' 이정표](https://www.ddaily.co.kr/page/view/2025101716395842138) | 디지털데일리
 2025.09 | [국가대표 이어 '특화 AI' 공모…KT·카카오 재도전?](https://news.mtn.co.kr/news-detail/2025090816424698900) | MTN 뉴스
