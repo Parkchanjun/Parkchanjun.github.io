@@ -309,6 +309,8 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.01 | [“독자 AI, 나사부터 만들자는 거냐” 네이버 모델도 논란](https://www.joongang.co.kr/article/25395915) | 중앙일보
+2026.01 | [국대 AI, 지속되는 '모방' 논란…'프롬 스크래치'가 뭐길래?](https://www.mt.co.kr/tech/2026/01/08/2026010817001147971) | 머니투데이
 2025.11 | ["GPU는 26만장 샀는데 굴릴 사람은?"... 韓 AI의 '5년 승부수'](https://www.ddaily.co.kr/page/view/2025112520171227716) | 디지털데일리
 2025.11 | ['딥시크 이후' 또 흔드는 중국 AI…키미 K2 씽킹 성능은](https://www.yna.co.kr/view/AKR20251116051700017?input=1195m) | 연합뉴스
 2025.11 | [숭실대 박찬준 교수, AI·데이터마이닝 세계적 학회에 논문 게재](https://www.edaily.co.kr/News/Read?newsId=03981926642365064&mediaCodeNo=257&OutLnkChk=Y) | 이데일리 외 다수 언론사
