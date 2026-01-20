@@ -309,6 +309,7 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.01 | [Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2ODg2OTIxNywiZXhwIjoxNzY5NDc0MDE3LCJhcnRpY2xlSWQiOiJUOTRRQ1VLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.fkHeX8DWGYGsRWwNu6IRKZflXIeH0eKXlAeeYuhwMFA&leadSource=uverify%20wall) | Bloomberg
 2026.01 | [“독자 AI, 나사부터 만들자는 거냐” 네이버 모델도 논란](https://www.joongang.co.kr/article/25395915) | 중앙일보
 2026.01 | [국대 AI, 지속되는 '모방' 논란…'프롬 스크래치'가 뭐길래?](https://www.mt.co.kr/tech/2026/01/08/2026010817001147971) | 머니투데이
 2025.11 | ["GPU는 26만장 샀는데 굴릴 사람은?"... 韓 AI의 '5년 승부수'](https://www.ddaily.co.kr/page/view/2025112520171227716) | 디지털데일리
