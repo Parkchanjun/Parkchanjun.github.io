@@ -7,14 +7,10 @@ layout: default
 <img class="profile-picture" src="chanjunpark.jpg">
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
-## Research Interest
-My research philosophy is centered on service-driven research, aiming to bridge the gap between foundational theories in natural language processing (NLP) and their real-world applications. My primary interests include the development of efficient, purpose-trained Large Language Models (LLMs), with a focus on exploring their capability landscape across parameter regions and understanding how model scale and architecture shape emergent behaviors. I am also actively investigating how real-world phenomena can be systematically represented as text to enhance reasoning capabilities in LLMs. In addition, I am deeply engaged in cross-lingual NLP and multidisciplinary research that integrates insights from diverse domains to broaden the scope and impact of NLP technologies.
-
 ## News
+* **2026**: I will serve as an Area Chair at **ACL 2026**.   <br>
 * **2026**: I will serve as an Area Chair at **EACL 2026**.   <br>
 * **2025**: Seven papers (including three from Findings and one from Industry) have been accepted at **EMNLP 2025**. Among them, four papers are collaborative works with **Korea University**, one paper is a collaboration with **Chungnam National University**, another with **Yonsei University**, and one represents an industry–academia collaboration with **Upstage**. Notably, two of these papers were selected for **Oral** presentations. <br>
-* **2025**: Six papers have been accepted to HCLT-KACL 2025, five of which were selected for Oral presentations. Among them, the research received the Best Paper Award and the Outstanding Paper Award at the conference.<br>
-* **2025**: I have been selected for the **National Foundation Model Project (독자 AI 파운데이션모델 사업, K-AI 사업, 국가대표 LLM 프로젝트)**. I will be participating as part of the **NC AI Consortium**, together with Korea University, Seoul National University, Yonsei University, KAIST, ETRI, AIWorks, POSCO DX, Lotte Innovate, HL Robotics, InterX, MediaZen, MBC, and NHN. <br>
 * **2025**: Two papers have been accepted at **CIKM 2025**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
 * **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
 * **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
@@ -34,8 +30,6 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **2024**: I was selected to serve as the **Publication Chair** for **DMLR at ICLR 2024**. <br>
 * **2024**: I was selected to serve as the **Program Chair** for **Widening NLP (WiNLP) Workshop at EMNLP 2024**. <br>
 
-* **2023**: Two papers have been accepted at **EMNLP 2023**. <br>
-
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
 * **2015.03 - 2019.02**: B.S. in Natural Language Processing & Creative Convergence, Busan University of Foreign Studies (BUFS) (Advisor: <a href="https://sites.google.com/site/pummoryu/home">Pum-mo Ryu</a>)  <br>
@@ -51,8 +45,8 @@ My research philosophy is centered on service-driven research, aiming to bridge 
 * **Publication Chair (Organizer)**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
 * **Virtual Social Chair (Organizer)**: [COLING 2022](https://coling2022.org/committee01) <br>
 * **Academic Chair**: [HCLT-KACL 2025](https://sites.google.com/view/hclt-2025/) <br>
-* **Area Chair**: ACL, EMNLP <br>
-* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, WMT, ARR, ICML, NeurIPS, ICLR, AAAI  <br>
+* **Area Chair**: ACL, EMNLP, EACL <br>
+* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, WMT, ARR, SIGIR, ICML, NeurIPS, ICLR, AAAI  <br>
 
 ## Publications  (Selected)
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
@@ -223,77 +217,6 @@ Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuise
 Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
 *IEEE Access, 2024*<br>
 
-### 2023
-1. [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)  <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*EMNLP 2023* <br>
-
-1. [CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients](https://aclanthology.org/2023.emnlp-main.367/)  <br>
-Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Heuiseok Lim <br>
-*EMNLP 2023* <br>
-
-1. [Proceedings of the Seventh Widening NLP Workshop (WiNLP 2023)](https://aclanthology.org/2023.winlp-1.0/) <br>
-Bonaventure F. P. Dossou, Isidora Tourni, Hatem Haddad, Shaily Bhatt, Fatemehsadat Mireshghallah, Sunipa Dev, Tanvi Anand, Weijia Xu, Atnafu Lambebo Tonja, Alfredo Gomez, **Chanjun Park**  <br>
-*EMNLP 2023-Widening NLP Workshop* <br>
-
-1. [Alternative Speech: Complementary Method to Counter-Narrative for Better Discourse](https://ieeexplore.ieee.org/document/10411543)  <br>
-Seungyoon Lee (\*), DaHyun Jung (\*), **Chanjun Park (\*)**, Seolhwa Lee, Heuiseok Lim <br>
-*ICDM 2023 - The First Workshop on Data-Centric AI*<br>
-
-1. [Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction](https://arxiv.org/abs/2306.14377) <br>
-**Chanjun Park (\*)**, Seonmin Koo (\*), Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [DMOps: Data Management Operation and Recipes](https://arxiv.org/abs/2301.01228) <br>
-Eujeong Choi, **Chanjun Park (\*, ✝)** <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Inter-Annotator Agreement in the Wild: Uncovering Its Emerging Roles and Considerations in Real-World Scenarios](https://arxiv.org/abs/2306.14373) <br>
-NamHyeok Kim, **Chanjun Park (\*, ✝)**  <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Transcending Traditional Boundaries: Leveraging Inter-Annotator Agreement (IAA) for Enhancing Data Management Operations](https://arxiv.org/abs/2306.14374) <br>
-Damrin Kim, NamHyeok Kim, **Chanjun Park (✝)** , Harksoo Kim  (✝)   <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Data-Driven Approach for Formality-Sensitive Machine Translation: Language-Specific Handling and Synthetic Data Generation](https://arxiv.org/abs/2306.14514) <br>
-Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline](https://arxiv.org/abs/2401.14625) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Knowledge Graph-Augmented Korean Generative Commonsense Reasoning](https://arxiv.org/abs/2306.14470) <br>
-Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park**, Heuiseok Lim <br>
-*ICML 2023 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection](https://aclanthology.org/2023.ijcnlp-main.22/) <br>
-DaHyun Jung, Sugyeong Eo, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*IJCNLP-AACL 2023*<br>
-
-1. [Improving Formality-Sensitive Machine Translation using Data-Centric Approaches and Prompt Engineering](https://aclanthology.org/2023.iwslt-1.40/) <br>
-Seugnjun Lee, Hyeonseok Moon, **Chanjun Park**, Heuiseok Lim <br>
-*IWSLT 2023* <br>
-
-1. [PEEP-Talk: A Situational Dialogue-based Chatbot for English Education](https://aclanthology.org/2023.acl-demo.18/) <br>
-Seugnjun Lee, Yoonna Jang, **Chanjun Park**, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Nugroho Yahya, Heuiseok Lim <br>
-*ACL 2023 - Demo* <br>
-
-1. [Doubts on the Reliability of Parallel Corpus Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014641?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270987895&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM389854&utm_medium=email&utm_source=AC_) <br>
-Hyeonseok Moon, **Chanjun Park** , Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim <br>
-*Expert Systems With Applications, 2023* <br>
-
-1. [Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction](https://ieeexplore.ieee.org/document/10234394) <br>
-Seonmin Koo (\*), **Chanjun Park (\*)**, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim  <br>
-*IEEE Access, 2023*<br>
-
-1. [Data-Centric Neural Machine Translation - A Real-World Approaches](https://dcollection.korea.ac.kr/srch/srchDetail/000000277246?navigationSize=10&query=%2B%28%28all%3Adatacentric%2Bneural%2Bmachine%2Btranslation%2B%2Ba%2Brealworld%2Bapproaches%29%29&pageSize=10&insCode=211009&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AData-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27%5D&searchKeyWord1=Data-Centric+Neural+Machine+Translation+-+A+Real-World+Approaches%27) <br>
-**Chanjun Park**<br>
-*Ph.D. Dissertation* <br>
-
-## Teaching (Selected)
-1.  [Database Application](),  Soongsil University. (2025-Fall) <br>
 
 ## Awards (Selected)
 
@@ -309,6 +232,8 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.02 | [Rebel Startups Challenge Conglomerates in Korea’s ‘AI Squid Game’](https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjAwNTk0MywiZXhwIjoxNzcyNjEwNzQzLCJhcnRpY2xlSWQiOiJUQVpINDJLSVAzSzAwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.ztGtckhxzTPRGB9drQDufGiqN9eurirFwtulOzx3rck&leadSource=uverify%20wall) | Bloomberg
+2026.02 | [AI, 결국 소프트웨어 산업 삼켰다… 글로벌 빅테크 ‘요동’](https://www.dt.co.kr/article/12044932?ref=naver) | 디지털타임스
 2026.01 | [Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2ODg2OTIxNywiZXhwIjoxNzY5NDc0MDE3LCJhcnRpY2xlSWQiOiJUOTRRQ1VLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.fkHeX8DWGYGsRWwNu6IRKZflXIeH0eKXlAeeYuhwMFA&leadSource=uverify%20wall) | Bloomberg
 2026.01 | [“독자 AI, 나사부터 만들자는 거냐” 네이버 모델도 논란](https://www.joongang.co.kr/article/25395915) | 중앙일보
 2026.01 | [국대 AI, 지속되는 '모방' 논란…'프롬 스크래치'가 뭐길래?](https://www.mt.co.kr/tech/2026/01/08/2026010817001147971) | 머니투데이
