@@ -232,6 +232,8 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.03 | [인명 살상' 학습하는 AI‥'터미네이터' 원년?](https://imnews.imbc.com/replay/2026/nwtoday/article/6804993_37012.html) | MBC
+2026.03 | [AI의 첫 전쟁 참전‥"기계가 결정하면 인간은 승인만?"](https://imnews.imbc.com/replay/2026/nwdesk/article/6804912_37004.html) | MBC
 2026.02 | [Rebel Startups Challenge Conglomerates in Korea’s ‘AI Squid Game’](https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjAwNTk0MywiZXhwIjoxNzcyNjEwNzQzLCJhcnRpY2xlSWQiOiJUQVpINDJLSVAzSzAwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.ztGtckhxzTPRGB9drQDufGiqN9eurirFwtulOzx3rck&leadSource=uverify%20wall) | Bloomberg
 2026.02 | [AI, 결국 소프트웨어 산업 삼켰다… 글로벌 빅테크 ‘요동’](https://www.dt.co.kr/article/12044932?ref=naver) | 디지털타임스
 2026.01 | [Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2ODg2OTIxNywiZXhwIjoxNzY5NDc0MDE3LCJhcnRpY2xlSWQiOiJUOTRRQ1VLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.fkHeX8DWGYGsRWwNu6IRKZflXIeH0eKXlAeeYuhwMFA&leadSource=uverify%20wall) | Bloomberg
