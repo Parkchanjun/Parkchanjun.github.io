@@ -8,8 +8,12 @@ layout: default
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## News
+* **2026**: I have been granted the **Outstanding Young Scientist Grant (우수연구 신진연구-유형B)** project from the **National Research Foundation of Korea (NRF)**.   <br>
+* **2026**: I have been granted the **2026년 인공지능 말평 운영 및 연계 행사 개최** project from the **National Institute of Korean Language (NIKL)**.   <br>
+* **2026**: I will serve as a **Steering Committee Member** and **General Secretary (총무)** of **SigHCLT (언어공학연구회)**.   <br>
 * **2026**: I will serve as an Area Chair at **ACL 2026**.   <br>
 * **2026**: I will serve as an Area Chair at **EACL 2026**.   <br>
+
 * **2025**: Seven papers (including three from Findings and one from Industry) have been accepted at **EMNLP 2025**. Among them, four papers are collaborative works with **Korea University**, one paper is a collaboration with **Chungnam National University**, another with **Yonsei University**, and one represents an industry–academia collaboration with **Upstage**. Notably, two of these papers were selected for **Oral** presentations. <br>
 * **2025**: Two papers have been accepted at **CIKM 2025**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
 * **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
@@ -20,7 +24,6 @@ layout: default
 * **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
 * **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
 
-* **2024**: After 2 years and 9 months at Upstage, I have joined **Korea University as a Research Professor**.<br>
 * **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
 * **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
 * **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**. <br>
@@ -232,6 +235,8 @@ Year | Award
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.03 | [이미 전쟁도 참전했는데‥선 넘는 AI, 인간 통제 벗어나면?](https://imnews.imbc.com/replay/2026/nwdesk/article/6807575_37004.html) | MBC
+2026.03 | [주인 몰래 가상화폐 채굴‥현실 된 'AI 반란'](https://imnews.imbc.com/replay/2026/nwtoday/article/6807652_37012.html) | MBC
 2026.03 | [인명 살상' 학습하는 AI‥'터미네이터' 원년?](https://imnews.imbc.com/replay/2026/nwtoday/article/6804993_37012.html) | MBC
 2026.03 | [AI의 첫 전쟁 참전‥"기계가 결정하면 인간은 승인만?"](https://imnews.imbc.com/replay/2026/nwdesk/article/6804912_37004.html) | MBC
 2026.02 | [Rebel Startups Challenge Conglomerates in Korea’s ‘AI Squid Game’](https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjAwNTk0MywiZXhwIjoxNzcyNjEwNzQzLCJhcnRpY2xlSWQiOiJUQVpINDJLSVAzSzAwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.ztGtckhxzTPRGB9drQDufGiqN9eurirFwtulOzx3rck&leadSource=uverify%20wall) | Bloomberg
