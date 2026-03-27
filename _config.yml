@@ -20,6 +20,10 @@ nav:
  - name: "CV"
    link: "Curriculum_Vitae_Chanjunpark__New_.pdf"
 
+nav:
+ - name: "NLP LAB"
+   link: "https://sites.google.com/view/ssu-nlp/home"
+
 
 remote_theme: ankitsultana/researcher@gem
 
