@@ -43,14 +43,6 @@ layout: default
 * **2022.03 - 2024.11**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
 * **2018.06 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 
-## Academic Services
-* **Program Chair (Organizer)**: [Widening NLP (WiNLP) Workshop at EMNLP 2023 & EMNLP 2024](https://aclanthology.org/2024.winlp-1.0.pdf) <br>
-* **Publication Chair (Organizer)**: [Data-centric Machine Learning Research (DMLR) 2024 at ICLR 2024](https://openreview.net/pdf?id=5y6fLlZhcO) <br>
-* **Virtual Social Chair (Organizer)**: [COLING 2022](https://coling2022.org/committee01) <br>
-* **Academic Chair**: [HCLT-KACL 2025](https://sites.google.com/view/hclt-2025/) <br>
-* **Area Chair**: ACL, EMNLP, EACL <br>
-* **Program Committee (Reviewer)**: ACL, EMNLP, NAACL, EACL, COLING, WMT, ARR, SIGIR, ICML, NeurIPS, ICLR, AAAI  <br>
-
 ## Publications  (Selected)
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
@@ -220,16 +212,6 @@ Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuise
 Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
 *IEEE Access, 2024*<br>
 
-
-## Awards (Selected)
-
-Year | Award
-:-----:|-------
-2024.02 | [Forbes 30 Under 30 Korea](https://jmagazine.joins.com/forbes/view/339714)
-2023.02 | Best Paper Award at Korea University
-2022.12 | 1st Place at WMT Quality Estimation Shared Task 2022 - Sentence-level Critical Error Detection
-2021.12 | Naver Ph.D. Fellowship
-2019.10 | 1st Place at Microsoft AI Accessibility Hackathon in Korea, Microsoft
 
 ## Media Coverages (Press, Youtube, Blog)
 
