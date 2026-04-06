@@ -8,6 +8,8 @@ layout: default
 <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## News
+
+* **2026**: Two papers (including one Findings) have been accepted at **ACL 2026**.   <br>
 * **2026**: I have been granted the **Foundation Model 운용과정에서 민감정보 추론 방지 및 리스크 평가 기술 개발** project from the **Personal Information Protection Commission (개인정보보호위원회)**.   <br>
 * **2026**: I have been granted the **Outstanding Young Scientist Grant (우수연구 신진연구-유형B)** project from the **National Research Foundation of Korea (NRF)**.   <br>
 * **2026**: I have been granted the **2026년 인공지능 말평 운영 및 연계 행사 개최** project from the **National Institute of Korean Language (NIKL)**.   <br>
@@ -46,6 +48,15 @@ layout: default
 
 ## Publications  (Selected)
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
+
+### 2026
+1. [LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal]() <br>
+Dongjun Kim, Jeongho Yoon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*ACL 2026*<br>
+
+1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance]() <br>
+Dongjun Kim, Minhyuk Kim, Yongchan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
+*ACL 2026-Findings*<br>
 
 ### 2025 
 1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning](https://aclanthology.org/2025.emnlp-main.718/) <br>
