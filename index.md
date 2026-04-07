@@ -9,7 +9,7 @@ layout: default
 
 ## News
 
-* **2026**: Two papers (including one Findings) have been accepted at **ACL 2026**.   <br>
+* **2026**: Two papers (including one Findings) have been accepted at **ACL 2026**. Notably, one of these papers was selected for an **Oral** presentation. <br>
 * **2026**: I have been granted the **Foundation Model 운용과정에서 민감정보 추론 방지 및 리스크 평가 기술 개발** project from the **Personal Information Protection Commission (개인정보보호위원회)**.   <br>
 * **2026**: I have been granted the **Outstanding Young Scientist Grant (우수연구 신진연구-유형B)** project from the **National Research Foundation of Korea (NRF)**.   <br>
 * **2026**: I have been granted the **2026년 인공지능 말평 운영 및 연계 행사 개최** project from the **National Institute of Korean Language (NIKL)**.   <br>
@@ -52,7 +52,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 ### 2026
 1. [LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal]() <br>
 Dongjun Kim, Jeongho Yoon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*ACL 2026*<br>
+*ACL 2026 (Oral)*<br>
 
 1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance]() <br>
 Dongjun Kim, Minhyuk Kim, Yongchan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
