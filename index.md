@@ -229,6 +229,7 @@ Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeo
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.04 | [숭실대 소프트웨어학부 박찬준 교수팀, 개인정보보호위원회 AI 안전성 연구과제 책임자 선정](https://www.kyosu.net/news/articleView.html?idxno=203247) | 전자신문 등 다수 언론사
 2026.03 | [이미 전쟁도 참전했는데‥선 넘는 AI, 인간 통제 벗어나면?](https://imnews.imbc.com/replay/2026/nwdesk/article/6807575_37004.html) | MBC
 2026.03 | [주인 몰래 가상화폐 채굴‥현실 된 'AI 반란'](https://imnews.imbc.com/replay/2026/nwtoday/article/6807652_37012.html) | MBC
 2026.03 | [인명 살상' 학습하는 AI‥'터미네이터' 원년?](https://imnews.imbc.com/replay/2026/nwtoday/article/6804993_37012.html) | MBC
