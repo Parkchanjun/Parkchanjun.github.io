@@ -12,6 +12,7 @@ layout: default
 * **2026**: Two papers (including one Findings) have been accepted at **ACL 2026**.  <br>
 * **2026**: I have been granted the **Foundation Model 운용과정에서 민감정보 추론 방지 및 리스크 평가 기술 개발** project from the **Korea Internet & Security Agency (한국인터넷진흥원)**.   <br>
 * **2026**: I have been granted the **Outstanding Young Scientist Grant (우수연구 신진연구-유형B)** project from the **National Research Foundation of Korea (NRF)**.   <br>
+* **2026**: I have been granted the **2026년 인공지능의 한국어 능력 표준 평가 과제 구축 및 활용** project from the **National Institute of Korean Language (NIKL)**.   <br>
 * **2026**: I have been granted the **2026년 인공지능 말평 운영 및 연계 행사 개최** project from the **National Institute of Korean Language (NIKL)**.   <br>
 * **2026**: I will serve as a **Steering Committee Member** and **General Secretary (총무)** of **SigHCLT (언어공학연구회)**.   <br>
 * **2026**: I will serve as an Area Chair at **ACL 2026**.   <br>
