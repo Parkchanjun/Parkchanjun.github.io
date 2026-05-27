@@ -5,37 +5,10 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="chanjunpark.jpg">
-<a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
+<a href="https://www.linkedin.com/in/bcj1210/">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## News
-* **2026**: I have been granted the **토론과 소통으로 지식을 연결하는 AI 에이전트 기술 개발** project from the **Korea Creative Content Agency (한국콘텐츠진흥원)**.   <br>
-* **2026**: Two papers (including one Findings) have been accepted at **ACL 2026**.  <br>
-* **2026**: I have been granted the **Foundation Model 운용과정에서 민감정보 추론 방지 및 리스크 평가 기술 개발** project from the **Korea Internet & Security Agency (한국인터넷진흥원)**.   <br>
-* **2026**: I have been granted the **Outstanding Young Scientist Grant (우수연구 신진연구-유형B)** project from the **National Research Foundation of Korea (NRF)**.   <br>
-* **2026**: I have been granted the **2026년 인공지능의 한국어 능력 표준 평가 과제 구축 및 활용** project from the **National Institute of Korean Language (NIKL)**.   <br>
-* **2026**: I have been granted the **2026년 인공지능 말평 운영 및 연계 행사 개최** project from the **National Institute of Korean Language (NIKL)**.   <br>
-* **2026**: I will serve as a **Steering Committee Member** and **General Secretary (총무)** of **SigHCLT (언어공학연구회)**.   <br>
-* **2026**: I will serve as an Area Chair at **ACL 2026**.   <br>
-* **2026**: I will serve as an Area Chair at **EACL 2026**.   <br>
-
-* **2025**: Seven papers (including three from Findings and one from Industry) have been accepted at **EMNLP 2025**. Among them, four papers are collaborative works with **Korea University**, one paper is a collaboration with **Chungnam National University**, another with **Yonsei University**, and one represents an industry–academia collaboration with **Upstage**. Notably, two of these papers were selected for **Oral** presentations. <br>
-* **2025**: Two papers have been accepted at **CIKM 2025**. This research was conducted in collaboration with the **University of Tokyo** and **MIT**.   <br>
-* **2025**: I will serve as the Academic Chair (학술위원장) of  <a href="https://sites.google.com/view/hclt-2025/">HCLT-KACL 2025</a>.   <br>
-* **2025**: I will join the <a href="https://sw.ssu.ac.kr/">Department of Software at Soongsil University</a> as an Assistant Professor starting in September 2025.  <br>
-* **2025**: I will serve as an Area Chair at **EMNLP 2025**.   <br>
-* **2025**: Three papers (including one from SRW) have been accepted at **ACL 2025**.   <br>
-* **2025**: I will serve as an Area Chair at **ACL 2025**.   <br>
-* **2025**: Nine papers (including three from Findings, three from Industry and one from Demo) have been accepted at **NAACL 2025**. <br>
-* **2025**: Two papers (including one from Industry) have been accepted at **COLING 2025**.  <br>
-
-* **2024**: Five papers (including two from Findings, one from Demo and one from Industry) have been accepted at **EMNLP 2024**. <br>
-* **2024**: Three papers (including two Findings) have been accepted at **ACL 2024**.   <br>
-* **2024**: Three papers (including one from industry and two from SRW) have been accepted at **NAACL 2024**. <br>
-* **2024**: Two papers have been accepted at **LREC-COLING 2024**. <br>
-* **2024**: Two papers have been accepted at **EACL Findings 2024**. <br>
-* **2024**: I was selected for **Forbes 30 Under 30 Korea**.  <br>
-* **2024**: I was selected to serve as the **Publication Chair** for **DMLR at ICLR 2024**. <br>
-* **2024**: I was selected to serve as the **Program Chair** for **Widening NLP (WiNLP) Workshop at EMNLP 2024**. <br>
+For the latest news, please visit the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab Page</a>.
 
 ## Education
 * **2019.09 - 2023.08**: Ph.D in Computer Science and Engineering, Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>)  <br>
@@ -50,186 +23,11 @@ layout: default
 ## Publications  (Selected)
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
-### 2026
-1. [LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal]() <br>
-Dongjun Kim, Jeongho Yoon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*ACL 2026*<br>
-
-1. [Exploring Coding Spot: Understanding Parametric Contributions to LLM Coding Performance]() <br>
-Dongjun Kim, Minhyuk Kim, Yongchan Chun, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*ACL 2026-Findings*<br>
-
-### 2025 
-1. [Mixture-of-Clustered-Experts: Advancing Expert Specialization and Generalization in Instruction Tuning](https://aclanthology.org/2025.emnlp-main.718/) <br>
-Sugyeong Eo, Jung Jun Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*EMNLP 2025 (Oral)*<br>
-
-1. [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks](https://aclanthology.org/2025.emnlp-main.789/) <br>
-Dongjun Kim, Gyuho Shim, Yongchan Chun, Minhyuk Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*EMNLP 2025 (Oral)*<br>
-
-1. [MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents](https://aclanthology.org/2025.emnlp-main.1062/) <br>
-Joong Min Shin, **Chanjun Park**, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
-*EMNLP 2025*<br>
-
-1. [HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts](https://aclanthology.org/2025.findings-emnlp.708/) <br>
-Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)<br>
-*EMNLP 2025-Findings*<br>
-
-1. [ZEBRA: Leveraging Model-Behavioral Knowledge for Zero-Annotation Preference Dataset Construction](https://aclanthology.org/2025.findings-emnlp.417/) <br>
-Jeesu Jung, Jinsung Kim, **Chanjun Park (✝)**, Sangkeun Jung (✝)<br>
-*EMNLP 2025-Findings*<br>
-
-1. [Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](https://aclanthology.org/2025.findings-emnlp.1215/) <br>
-Seoyeon Kim, Huiseo Kim, **Chanjun Park**, Jinyoung Yeo, Dongha Lee<br>
-*EMNLP 2025-Findings*<br>
-
-1. [LP Data Pipeline: Lightweight, Purpose-driven Data Pipeline for Large Language Models](https://aclanthology.org/2025.emnlp-industry.11/) <br>
-Yungi Kim, Hyunsoo Ha, Seonghoon Yang, Sukyung Lee, Jihoo Kim, **Chanjun Park (✝)** <br>
-*EMNLP 2025-Industry*<br>
-
-1. [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots](https://dl.acm.org/doi/10.1145/3746252.3761459) <br>
-Xinjie Zhao, Moritz Blum, Fan Gao, Yingjian Chen, Boming Yang, Luis Marquez-Carpintero, Mónica Pina-Navarro, Yanran Fu, So Morikawa, Yusuke Iwasawa, Yutaka Matsuo, **Chanjun Park**, Irene Li <br>
-*CIKM 2025-Demo*<br>
-
-1. [HealthGenie: An Interactive Knowledge-Driven LLM Framework for Tailored Dietary Guidance](https://dl.acm.org/doi/10.1145/3746252.3761479) <br>
-Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, **Chanjun Park**, Irene Li <br>
-*CIKM 2025-Demo*<br>
-
-1. [Rethinking KenLM: Good and Bad Model Ensembles for Efficient Text Quality Filtering in Large Web Corpora](https://aclanthology.org/2025.acl-short.4/) <br>
-Yungi Kim, Hyunsoo Ha, Sukyung Lee, Jihoo Kim, Seonghoon Yang, **Chanjun Park (✝)** <br>
-*ACL 2025*<br>
-
-1. [Enhancing Automatic Term Extraction in Large Language Models via Syntactic Retrieval](https://aclanthology.org/2025.findings-acl.516/) <br>
-Yongchan Chun, Minhyuk Kim, Dongjun Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*ACL 2025-Findings*<br>
-
-1. [From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on RAG systems](https://aclanthology.org/2025.acl-srw.27/) <br>
-Youngjoon Jang, Seongtae Hong, Junyoung Son, Sungjin Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*ACL 2025 - Student Research Workshop*<br>
-
-3. [LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs](https://aclanthology.org/2025.naacl-long.524/) <br>
-Sumin An, Junyoung Sung, Wonpyo Park, **Chanjun Park (✝)**, Paul Hongsuck Seo (✝) <br>
-*NAACL 2025 (Oral)*<br>
-
-1. [CoME: A Unlearning-based Approach to Conflict-free Model Editing](https://aclanthology.org/2025.naacl-long.325/) <br>
-Dahyun Jung, Jaehyung Seo, Jaewook Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2025*<br>
-
-1. [MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation](https://aclanthology.org/2025.findings-naacl.157/) <br>
-Chanhee Park, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2025-Findings*<br>
-
-1. [FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models](https://aclanthology.org/2025.findings-naacl.199/) <br>
-Dahyun Jung, Seungyoon Lee, Hyeonseok Moon, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2025-Findings*<br>
-
-1. [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models](https://aclanthology.org/2025.findings-naacl.330/) <br>
-Hyeonseok Moon, Jaehyung Seo, Seungyoon Lee, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2025-Findings*<br>
-
-1. [Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs](https://aclanthology.org/2025.naacl-industry.22/) <br>
-Hyeonwoo Kim, Dahyun Kim, Jihoo Kim, Sukyung Lee, Yungi Kim, **Chanjun Park (✝)** <br>
-*NAACL 2025 - Industry, 2025*<br>
-
-1. [Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard](https://aclanthology.org/2025.naacl-industry.1/) <br>
-**Chanjun Park (✝)**, Hyeonwoo Kim <br>
-*NAACL 2025 - Industry, 2025*<br>
-
-1. [CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents](https://aclanthology.org/2025.naacl-industry.24/) <br>
-Jeiyoon Park, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2025 - Industry, 2025*<br>
-
-4. [Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models](https://aclanthology.org/2025.naacl-demo.1/) <br>
-Hyunbyung Park, Sukyung Lee, Gyoungjin Gim, Yungi Kim, Dahyun Kim, **Chanjun Park (✝)** <br>
-*NAACL 2025 - Demo, 2025*<br>
-
-1. [Representing the Under-Represented: Cultural and Core Capability Benchmarks for Developing Thai Large Language Models](https://aclanthology.org/2025.coling-main.278/) <br>
-Dahyun Kim, Sukyung Lee, Yungi Kim, Attapol Rutherford, **Chanjun Park (✝)** <br>
-*COLING 2025*<br>
-
-1. [sDPO: Don't Use Your Data All at Once](https://aclanthology.org/2025.coling-industry.31/) <br>
-Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, **Chanjun Park (✝)** <br>
-*COLING 2025 - Industry*<br>
-
-1. [An analysis on language transfer of pre-trained language model with cross-lingual post-training](https://www.sciencedirect.com/science/article/pii/S0957417424027088) <br>
-Suhyune Son (\*), **Chanjun Park (\*)**, Jungseob Lee (\*), Midan Shim (\*), Chanhee Lee, Yoonna Jang, Jaehyung Seo, Jungwoo Lim, Heuiseok Lim <br>
-*Expert Systems with Applications, 2025*<br>
-
-### 2024 
-1. [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts](https://aclanthology.org/2024.emnlp-main.783/) <br>
-Seonmin Koo, Jinsung Kim, YoungJoon Jang, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
-*EMNLP 2024*<br>
-
-1. [Search if you don't know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models](https://aclanthology.org/2024.findings-emnlp.6/) <br>
-Seonmin Koo, Jinsung Kim, **Chanjun Park (✝)**, Heuiseok Lim (✝)  <br>
-*EMNLP 2024-Findings*<br>
-
-1. [Translation of Multifaceted Data without Re-Training of Machine Translation Systems](https://aclanthology.org/2024.findings-emnlp.114/) <br>
-Hyeonseok Moon, Seungyoon Lee, Seongtae Hong, Seungjun Lee, **Chanjun Park** , Heuiseok Lim <br>
-*EMNLP 2024-Findings*<br>
-
-1. [SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models](https://aclanthology.org/2024.emnlp-industry.15/) <br>
-Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, **Chanjun Park (✝)** <br>
-*EMNLP 2024 - Industry*<br>
-
-1. [Evalverse: Unified and Accessible Library for Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.3/) <br>
-Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, **Chanjun Park (✝)** <br>
-*EMNLP 2024 - Demo*<br>
-
-1. [Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark](https://aclanthology.org/2024.acl-long.177/) <br>
-**Chanjun Park**, Hyeonwoo Kim, Dahyun Kim, SeongHwan Cho, Sanghoon Kim, Sukyung Lee, Yungi Kim, Hwalsuk Lee <br>
-*ACL 2024*<br>
-
-1. [KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models](https://aclanthology.org/2024.findings-acl.141/) <br>
-Jaehyung Seo, Jaewook Lee, **Chanjun Park**, SeongTae Hong, Seungjun Lee, Heuiseok Lim <br>
-*ACL 2024 - Findings*<br>
-
-1. [Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation](https://aclanthology.org/2024.findings-acl.135/) <br>
-Jungseob Lee, Hyeonseok Moon, Seungjun Lee, **Chanjun Park (✝)**, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim (✝) <br>
-*ACL 2024 - Findings*<br>
-
-1. [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://aclanthology.org/2024.naacl-industry.3/) <br>
-Sanghoon Kim (\*, ✝), Dahyun Kim (\*), **Chanjun Park (\*, ✝)**, Wonsung Lee (\*, ✝), Wonho Song (\*), Yunsu Kim (\*), Hyeonwoo Kim (\*), Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee (✝), Sunghun Kim (✝)  <br>
-*NAACL 2024 - Industry*<br>
-
-1. [Exploring Inherent Biases in LLMs within Korean Social Context: A Comparative Analysis of ChatGPT and GPT-4](https://aclanthology.org/2024.naacl-srw.11.pdf) <br>
-Seungyoon Lee, Dongjun Kim, Dahyun Jung, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
-
-1. [Explainable CED: A Dataset for Explainable Critical Error Detection in Machine Translation](https://aclanthology.org/2024.naacl-srw.4/) <br>
-Dahyun Jung, Sugyeong Eo, **Chanjun Park (✝)**, Heuiseok Lim (✝) <br>
-*NAACL 2024 - Student Research Workshop*<br>
-
-1. [Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean](https://aclanthology.org/2024.lrec-main.907/)  <br>
-Seungyoon Lee, **Chanjun Park (✝)**, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim (✝) <br>
-*LREC-COLING 2024*, Oral <br>
-
-1. [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/)  <br>
-Sugyeong Eo, Jungwoo Lim, **Chanjun Park**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim <br>
-*LREC-COLING 2024*, Oral <br>
-
-1. [Model-Based Data-Centric AI: Bridging the Divide Between Academic Ideals and Industrial Pragmatism](https://arxiv.org/abs/2403.01832)  <br>
-**Chanjun Park (\*, ✝)**, Minsoo Khang (\*), Dahyun Kim (\*) <br>
-*ICLR 2024 - Data-centric Machine Learning Research (DMLR) Workshop*<br>
-
-1. [Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing](https://aclanthology.org/2024.findings-eacl.5/)  <br>
-**Chanjun Park**, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee, Heuiseok Lim <br>
-*EACL 2024 - Findings* <br>
-
-1. [Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation](https://aclanthology.org/2024.findings-eacl.145/)  <br>
-Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, **Chanjun Park**, Jaehyung Seo, Heuiseok Lim <br>
-*EACL 2024 - Findings* <br>
-
-1. [Exploiting Hanja-based Resources in Processing Korean Historic Documents written by Common Literati](https://ieeexplore.ieee.org/document/10504272) <br>
-Hyeonseok Moon, Myunghoon Kang, Jaehyung Seo, Sugyeong Eo, **Chanjun Park**, Yeongwook Yang, Heuiseok Lim <br>
-*IEEE Access, 2024*<br>
-
-
 ## Media Coverages (Press, Youtube, Blog)
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.05 | [독서토론 사회 보는 AI 개발…사람은 토론에 몰두](https://www.edaily.co.kr/News/Read?newsId=01564566645451872&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2026.05 | [“AI가 독서 토론 이끈다”…박찬준 숭실대 소프트웨어학부 교수, 59억원 규모 문체부 국책과제 선정](https://www.dailysmart.co.kr/news/articleView.html?idxno=124072) | 이데일리 등 다수 언론사
 2026.04 | ["강남 맛집 찾아줘" 네이버, 대화로 검색하는 'AI탭' 시범 공개](https://www.joongang.co.kr/article/25424007) | 중앙일보
 2026.04 | [숭실대 소프트웨어학부 박찬준 교수팀, 개인정보보호위원회 AI 안전성 연구과제 책임자 선정](https://www.kyosu.net/news/articleView.html?idxno=203247) | 전자신문 등 다수 언론사
