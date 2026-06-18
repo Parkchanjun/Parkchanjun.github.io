@@ -27,6 +27,8 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.06 | [숭실대 박찬준 교수팀, 자연어처리 최고 권위 'ACL 2026' 논문 2편 채택](https://www.newspim.com/news/view/20260618000774) | 이데일리 외 다수 언론사
+2026.06 | [[소버린AI 허와실③] 국산 데이터, 많다고 능사 아냐…주권 최소 요건 ‘수집·정제 시스템’](https://www.ddaily.co.kr/page/view/2026061811070768780) | 디지털데일리
 2026.06 | [[fn 이사람] "답 주는 AI 아닌, 질문하고 사고력 키워주는 모델 만들 것"](https://www.fnnews.com/news/202606171908251471) | 파이낸셜뉴스
 2026.05 | [독서토론 사회 보는 AI 개발…사람은 토론에 몰두](https://www.edaily.co.kr/News/Read?newsId=01564566645451872&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2026.05 | [“AI가 독서 토론 이끈다”…박찬준 숭실대 소프트웨어학부 교수, 59억원 규모 문체부 국책과제 선정](https://www.dailysmart.co.kr/news/articleView.html?idxno=124072) | 이데일리 등 다수 언론사
