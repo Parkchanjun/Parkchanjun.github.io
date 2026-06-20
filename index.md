@@ -4,7 +4,7 @@ layout: default
 
 ## Biography
 
-<img class="profile-picture" src="chanjunpark.jpg">
+<img class="profile-picture" src="chanjunpark.jpeg">
 <a href="https://www.linkedin.com/in/bcj1210/">Chanjun Park</a>  is an Assistant Professor in the <a href="https://sw.ssu.ac.kr/"> School of Software at Soongsil University</a>, where he serves as the Principal Investigator of the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>. Prior to joining Soongsil University, he was a Research Professor at <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>. Before that, he served as a Principal Research Engineer and Technical Leader of the Large Language Models (LLMs) team at <a href="https://www.upstage.ai/">Upstage</a>, where he contributed to building an ecosystem for LLMs. He also worked as a Research Engineer at <a href="https://www.systransoft.com/">SYSTRAN</a>, contributing to advancements in machine translation (MT) and automatic speech recognition (ASR) systems. He earned his Ph.D. in the Department of Computer Science and Engineering at Korea University under the supervision of Professor <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>. He received the Naver Ph.D. Fellowship and was selected for the <a href="https://jmagazine.joins.com/forbes/view/339714">Forbes 30 Under 30 Korea</a>. For more details, please see his <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a>.
 
 ## News
