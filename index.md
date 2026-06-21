@@ -20,7 +20,7 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 * **2022.03 - 2024.11**: [Upstage](https://www.upstage.ai/), Principal Research Engineer, Technical Leader (TL) <br>
 * **2018.06 - 2019.07**: [SYSTRAN](https://www.systransoft.com/), Research Engineer <br>
 
-## Publications  (Selected)
+## Publications
 Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=085jNAMAAAAJ&hl=en">Google Scholar profiles</a> for the full list.
 
 ## Media Coverages (Press, Youtube, Blog)
