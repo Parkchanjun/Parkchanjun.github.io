@@ -27,6 +27,8 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.06 | [생각을 AI에 맡기는 시대… “교회, 영적 공허 채울 건강한 공동체 돼야](https://www.kmib.co.kr/article/view.asp?arcid=1782285321&code=23111111&cp=nv) | 국민일보
+2026.06 | [AI 시대일수록 교회, 거룩한 비효율성을 추구하라](https://www.kmib.co.kr/article/view.asp?arcid=0030005301&code=61221111&cp=nv) | 국민일보
 2026.06 | [숭실대 박찬준 교수팀, 자연어처리 최고 권위 'ACL 2026' 논문 2편 채택](https://www.newspim.com/news/view/20260618000774) | 이데일리 외 다수 언론사
 2026.06 | [[소버린AI 허와실③] 국산 데이터, 많다고 능사 아냐…주권 최소 요건 ‘수집·정제 시스템’](https://www.ddaily.co.kr/page/view/2026061811070768780) | 디지털데일리
 2026.06 | [[fn 이사람] "답 주는 AI 아닌, 질문하고 사고력 키워주는 모델 만들 것"](https://www.fnnews.com/news/202606171908251471) | 파이낸셜뉴스
