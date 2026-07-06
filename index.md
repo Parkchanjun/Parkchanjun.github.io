@@ -27,6 +27,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.07 | [[기고] 자동화 넘어 끝까지 일하는 AI…하이퍼오토메이션이 바꿀 기업 경쟁력](https://www.edaily.co.kr/News/Read?newsId=04152486645511896&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2026.06 | [생각을 AI에 맡기는 시대… “교회, 영적 공허 채울 건강한 공동체 돼야](https://www.kmib.co.kr/article/view.asp?arcid=1782285321&code=23111111&cp=nv) | 국민일보
 2026.06 | [AI 시대일수록 교회, 거룩한 비효율성을 추구하라](https://www.kmib.co.kr/article/view.asp?arcid=0030005301&code=61221111&cp=nv) | 국민일보
 2026.06 | [숭실대 박찬준 교수팀, 자연어처리 최고 권위 'ACL 2026' 논문 2편 채택](https://www.newspim.com/news/view/20260618000774) | 이데일리 외 다수 언론사
@@ -42,6 +43,7 @@ Year | Headline | Press
 2026.03 | [AI의 첫 전쟁 참전‥"기계가 결정하면 인간은 승인만?"](https://imnews.imbc.com/replay/2026/nwdesk/article/6804912_37004.html) | MBC
 2026.02 | [Rebel Startups Challenge Conglomerates in Korea’s ‘AI Squid Game’](https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjAwNTk0MywiZXhwIjoxNzcyNjEwNzQzLCJhcnRpY2xlSWQiOiJUQVpINDJLSVAzSzAwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.ztGtckhxzTPRGB9drQDufGiqN9eurirFwtulOzx3rck&leadSource=uverify%20wall) | Bloomberg
 2026.02 | [AI, 결국 소프트웨어 산업 삼켰다… 글로벌 빅테크 ‘요동’](https://www.dt.co.kr/article/12044932?ref=naver) | 디지털타임스
+2026.01 | [‘THE AI 2026 칼럼진’을 소개합니다](https://www.newstheai.com/news/articleView.html?idxno=10654) | 디지틀조선일보
 2026.01 | [Korea Kicks Off AI Squid Game in Bid to Compete With US, China](https://www.bloomberg.com/news/features/2026-01-19/korea-kicks-off-ai-squid-game-for-best-sovereign-foundation-models?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2ODg2OTIxNywiZXhwIjoxNzY5NDc0MDE3LCJhcnRpY2xlSWQiOiJUOTRRQ1VLSUpIOTQwMCIsImJjb25uZWN0SWQiOiI0QzFFQkRBNTg4RTM0QTRGQUYxN0VDREJBRkVCQUMyOCJ9.fkHeX8DWGYGsRWwNu6IRKZflXIeH0eKXlAeeYuhwMFA&leadSource=uverify%20wall) | Bloomberg
 2026.01 | [“독자 AI, 나사부터 만들자는 거냐” 네이버 모델도 논란](https://www.joongang.co.kr/article/25395915) | 중앙일보
 2026.01 | [국대 AI, 지속되는 '모방' 논란…'프롬 스크래치'가 뭐길래?](https://www.mt.co.kr/tech/2026/01/08/2026010817001147971) | 머니투데이
