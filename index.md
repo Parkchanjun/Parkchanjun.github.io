@@ -27,6 +27,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.08 | [파운데이션 모델이 여는 모호함의 시대, 인간의 고유한 역량을 묻다](https://www.newstheai.com/news/articleView.html?idxno=21341) | 디지틀조선일보
 2026.07 | [“바나나코인이 최고?”…당신이 믿은 AI 답변, 누군가의 ‘낚시’였다](https://www.joongang.co.kr/article/25443290) | 중앙일보
 2026.07 | [[기고] 자동화 넘어 끝까지 일하는 AI…하이퍼오토메이션이 바꿀 기업 경쟁력](https://www.edaily.co.kr/News/Read?newsId=04152486645511896&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
 2026.06 | [생각을 AI에 맡기는 시대… “교회, 영적 공허 채울 건강한 공동체 돼야](https://www.kmib.co.kr/article/view.asp?arcid=1782285321&code=23111111&cp=nv) | 국민일보
