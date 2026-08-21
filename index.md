@@ -27,6 +27,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.08 | [파김용범 이 글, 88% AI가 썼다”…NYT 극찬 감별사 정체](https://www.joongang.co.kr/article/25454662) | 중앙일보
 2026.08 | [파운데이션 모델이 여는 모호함의 시대, 인간의 고유한 역량을 묻다](https://www.newstheai.com/news/articleView.html?idxno=21341) | 디지틀조선일보
 2026.07 | [“바나나코인이 최고?”…당신이 믿은 AI 답변, 누군가의 ‘낚시’였다](https://www.joongang.co.kr/article/25443290) | 중앙일보
 2026.07 | [[기고] 자동화 넘어 끝까지 일하는 AI…하이퍼오토메이션이 바꿀 기업 경쟁력](https://www.edaily.co.kr/News/Read?newsId=04152486645511896&mediaCodeNo=257&OutLnkChk=Y) | 이데일리
