@@ -27,6 +27,9 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.09 | [AI 판단도 못 믿는다… 숭실대 학부생, 글로벌 학회에 논문 2편 동시 쏘아 올렸다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129182) | 전자신문 외 다수
+2026.09 | [“공격자처럼 생각하고 스스로 진화하는 AI”… 숭실대 학부생, 글로벌 보안 판 흔들었다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129181) | 전자신문 외 다수
+2026.09 | [시험용 AI는 잘하는데, 현실선 왜 먹통일까… 숭실대 학부생, ‘착시 현상’ AI 파헤쳤다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129183) | 전자신문 외 다수
 2026.08 | [김용범 이 글, 88% AI가 썼다”…NYT 극찬 감별사 정체](https://www.joongang.co.kr/article/25454662) | 중앙일보
 2026.08 | [파운데이션 모델이 여는 모호함의 시대, 인간의 고유한 역량을 묻다](https://www.newstheai.com/news/articleView.html?idxno=21341) | 디지틀조선일보
 2026.07 | [“바나나코인이 최고?”…당신이 믿은 AI 답변, 누군가의 ‘낚시’였다](https://www.joongang.co.kr/article/25443290) | 중앙일보
