@@ -27,6 +27,10 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.09 | ['수능 만점' 아스트라의 등장‥"범용인공지능(AGI) 도래했다"](https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html) | MBC
+2026.09 | [“AGI 시대 열었다”는 오픈AI…“범용 아닌 마케팅용”](https://www.joongang.co.kr/article/25459516) | 중앙일보
+2026.09 | [자비스냐 잡리스냐…오픈AI ‘아스트라’가 불러온 AGI논쟁](https://www.joongang.co.kr/article/25459463) | 중앙일보
+2026.09 | [요즘 ‘재미 못보는’ 제미나이](https://www.joongang.co.kr/article/25458968) | 중앙일보
 2026.09 | [AI 판단도 못 믿는다… 숭실대 학부생, 글로벌 학회에 논문 2편 동시 쏘아 올렸다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129182) | 전자신문 외 다수
 2026.09 | [“공격자처럼 생각하고 스스로 진화하는 AI”… 숭실대 학부생, 글로벌 보안 판 흔들었다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129181) | 전자신문 외 다수
 2026.09 | [시험용 AI는 잘하는데, 현실선 왜 먹통일까… 숭실대 학부생, ‘착시 현상’ AI 파헤쳤다](https://www.dailysmart.co.kr/news/articleView.html?idxno=129183) | 전자신문 외 다수
