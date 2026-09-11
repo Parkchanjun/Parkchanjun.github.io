@@ -27,7 +27,8 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
-2026.09 | ['수능 만점' 아스트라의 등장‥"범용인공지능(AGI) 도래했다"](https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html) | MBC
+2026.09 | [AI가 인류 전멸, 그래도 멈출 수 없어” 연구원들의 고백](https://www.joongang.co.kr/article/25460830) | 중앙일보
+2026.09 | [수능 만점 아스트라의 등장‥"범용인공지능(AGI) 도래했다"](https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html) | MBC
 2026.09 | [“AGI 시대 열었다”는 오픈AI…“범용 아닌 마케팅용”](https://www.joongang.co.kr/article/25459516) | 중앙일보
 2026.09 | [자비스냐 잡리스냐…오픈AI ‘아스트라’가 불러온 AGI논쟁](https://www.joongang.co.kr/article/25459463) | 중앙일보
 2026.09 | [요즘 ‘재미 못보는’ 제미나이](https://www.joongang.co.kr/article/25458968) | 중앙일보
