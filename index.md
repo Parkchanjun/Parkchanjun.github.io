@@ -27,6 +27,8 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.09 | [240억 투입…AI 전문가 만드는 '스파르타 대학' _산업뉴스](https://www.youtube.com/watch?v=PGdou2Kv0TI&list=PLftXnWZPF3mzO9rTulB8xrUSHC2OdkGOl&index=12) | 산업방송 채널i
+2026.09 | [“아기 인형 찔러봐” 아스트라와 페이블에 시켜보니…머스크 “좋지 않아”](https://www.joongang.co.kr/article/25463709) | 중앙일보
 2026.09 | [AI가 인류 전멸, 그래도 멈출 수 없어” 연구원들의 고백](https://www.joongang.co.kr/article/25460830) | 중앙일보
 2026.09 | [수능 만점 아스트라의 등장‥"범용인공지능(AGI) 도래했다"](https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html) | MBC
 2026.09 | [“AGI 시대 열었다”는 오픈AI…“범용 아닌 마케팅용”](https://www.joongang.co.kr/article/25459516) | 중앙일보
