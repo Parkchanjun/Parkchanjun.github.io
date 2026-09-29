@@ -27,6 +27,8 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.09 | [기업과 함께 인재 키우고, 금융·의료도 진출… 'AI 네이티브 대학'으로](https://www.chosun.com/special/special_section/2026/09/29/37ZG4YPTYBFBXKHQBJXF2HQSUE/) | 중앙일보
+2026.09 | [AI 시대 앞서가는 대학들 - 컴퓨팅 교육 최초서 AI 최고로 … 미래 인재 양성에 앞장](https://www.joongang.co.kr/article/25465498) | 중앙일보
 2026.09 | [240억 투입…AI 전문가 만드는 '스파르타 대학' _산업뉴스](https://www.youtube.com/watch?v=PGdou2Kv0TI&list=PLftXnWZPF3mzO9rTulB8xrUSHC2OdkGOl&index=12) | 산업방송 채널i
 2026.09 | [“아기 인형 찔러봐” 아스트라와 페이블에 시켜보니…머스크 “좋지 않아”](https://www.joongang.co.kr/article/25463709) | 중앙일보
 2026.09 | [AI가 인류 전멸, 그래도 멈출 수 없어” 연구원들의 고백](https://www.joongang.co.kr/article/25460830) | 중앙일보
