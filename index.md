@@ -27,6 +27,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.10 | [“호텔방 샴페인 든 女 조심하라”…오픈AI 직원들에 ‘미인계 경고’ 왜](https://www.joongang.co.kr/article/25470369) | 중앙일보
 2026.10 | [‘AI 때’ 안묻은 자료 노린다…AI의 ‘헌책 헌팅’ 까닭](https://www.joongang.co.kr/article/25468813) | 중앙일보
 2026.09 | [기업과 함께 인재 키우고, 금융·의료도 진출… 'AI 네이티브 대학'으로](https://www.chosun.com/special/special_section/2026/09/29/37ZG4YPTYBFBXKHQBJXF2HQSUE/) | 중앙일보
 2026.09 | [AI 시대 앞서가는 대학들 - 컴퓨팅 교육 최초서 AI 최고로 … 미래 인재 양성에 앞장](https://www.joongang.co.kr/article/25465498) | 중앙일보
