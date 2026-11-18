@@ -27,6 +27,7 @@ Please see my <a href="./Curriculum_Vitae_Chanjunpark__New_.pdf">CV</a> or <a hr
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.11 | [“학부생의 반란, 세계 무대를 접수하다”… 숭실대 자연어처리연구실, EACL 2027 논문 8편 쾌거](https://www.dailysmart.co.kr/news/articleView.html?idxno=132760) | 스마트경제 외 다수
 2026.11 | [제주대, AI 답변 선택기술 평가법 제시](https://www.samdailbo.com/news/articleView.html?idxno=272379) | 삼다일보
 2026.10 | [“호텔방 샴페인 든 女 조심하라”…오픈AI 직원들에 ‘미인계 경고’ 왜](https://www.joongang.co.kr/article/25470369) | 중앙일보
 2026.10 | [‘AI 때’ 안묻은 자료 노린다…AI의 ‘헌책 헌팅’ 까닭](https://www.joongang.co.kr/article/25468813) | 중앙일보
